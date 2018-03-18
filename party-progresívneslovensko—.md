@@ -13,7 +13,7 @@ Last result: **0.0%** (General Election of 24 May 2014)
 | N/A | [Poll Average](average.html) | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.6% |
 | [21–26 February 2018](2018-02-26-AKO.html) | AKO | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
-| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS | 1.9% | N/A | N/A | N/A | N/A |
+| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS | 1.9% | 1.4–2.6% | 1.3–2.7% | 1.2–2.9% | 1.0–3.3% |
 
 ### Probability Mass Function
 
@@ -39,7 +39,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [21–26 February 2018](2018-02-26-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
-| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 
 ### Probability Mass Function
 
