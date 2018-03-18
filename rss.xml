@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 18 Mar 2018 10:12:06 +0100</pubDate>
+    <pubDate>Sun, 18 Mar 2018 17:45:51 +0100</pubDate>
     <item>
       <title>Opinion Poll by FOCUS, 7–13 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS.html</link>
@@ -29,6 +29,16 @@
       <pubDate>Sun, 18 Mar 2018 10:12:06 +0100</pubDate>
       <dc:date>2018-03-18T10:12:06.318663+01:00</dc:date>
     </item>
-    <dc:date>2018-03-18T10:12:06.318663+01:00</dc:date>
+    <item>
+      <title>Opinion Poll by FOCUS, 23–28 January 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-01-28-FOCUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 22.9–28.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ALDE): 11.2–15.4%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 9.6–13.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (EFDD): 7.0–10.5%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (—): 6.6–10.0%&lt;/li&gt;&lt;li&gt;SME RODINA (—): 7.4–10.9%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 4.5–7.3%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (—): 1.2–2.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-01-28-FOCUS.png"
+        length="290692"
+        type="image/png"/>
+      <pubDate>Sun, 18 Mar 2018 17:45:51 +0100</pubDate>
+      <dc:date>2018-03-18T17:45:51.120532+01:00</dc:date>
+    </item>
+    <dc:date>2018-03-18T17:45:51.120532+01:00</dc:date>
   </channel>
 </rss>
