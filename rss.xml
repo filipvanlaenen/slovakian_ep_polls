@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 19 Mar 2018 13:20:56 +0100</pubDate>
+    <pubDate>Wed, 21 Mar 2018 14:07:14 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by FOCUS, 7–13 March 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ALDE): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (EFDD): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (—): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (—): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (—): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS-seats.png"
+        length="270916"
+        type="image/png"/>
+      <pubDate>Wed, 21 Mar 2018 14:07:14 +0100</pubDate>
+      <dc:date>2018-03-21T14:07:14.670887+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 7–13 March 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS-coalitions-seats.png"
+        length="190860"
+        type="image/png"/>
+      <pubDate>Wed, 21 Mar 2018 14:07:14 +0100</pubDate>
+      <dc:date>2018-03-21T14:07:14.670887+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by FOCUS, 7–13 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS.png"
         length="304936"
         type="image/png"/>
-      <pubDate>Sat, 17 Mar 2018 22:48:57 +0100</pubDate>
-      <dc:date>2018-03-17T22:48:57.153572+01:00</dc:date>
+      <pubDate>Wed, 21 Mar 2018 14:07:14 +0100</pubDate>
+      <dc:date>2018-03-21T14:07:14.670887+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 21–26 February 2018 – Seat Projections</title>
@@ -79,6 +99,6 @@
       <pubDate>Mon, 19 Mar 2018 13:20:56 +0100</pubDate>
       <dc:date>2018-03-19T13:20:56.920559+01:00</dc:date>
     </item>
-    <dc:date>2018-03-19T13:20:56.920559+01:00</dc:date>
+    <dc:date>2018-03-21T14:07:14.670887+01:00</dc:date>
   </channel>
 </rss>
