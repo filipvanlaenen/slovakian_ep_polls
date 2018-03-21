@@ -47,7 +47,7 @@ Last result: **4** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 3 | 3 | 3 | 3 | 3 |
+| [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 3 | 3 | 3 | 3–4 | 2–4 |
 | [21–26 February 2018](2018-02-26-AKO.html) | AKO | 4 | 4 | 3–4 | 3–4 | 3–5 |
 | [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS | 4 | 4 | 4–5 | 4–5 | 3–5 |
 
@@ -59,8 +59,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 53% | 100% | Median |
-| 4 | 47% | 47% | Last Result |
+| 2 | 0.3% | 100% |  |
+| 3 | 51% | 99.7% | Median |
+| 4 | 49% | 49% | Last Result |
 | 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
