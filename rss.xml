@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 02 Apr 2018 08:41:47 +0200</pubDate>
+    <pubDate>Mon, 02 Apr 2018 13:43:10 +0200</pubDate>
     <item>
       <title>Opinion Poll by FOCUS, 7–13 March 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO.png"
         length="297036"
         type="image/png"/>
-      <pubDate>Mon, 02 Apr 2018 08:36:35 +0200</pubDate>
-      <dc:date>2018-04-02T08:36:35.636413+02:00</dc:date>
+      <pubDate>Mon, 02 Apr 2018 13:43:10 +0200</pubDate>
+      <dc:date>2018-04-02T13:43:10.118179+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 23–28 January 2018 – Voting Intentions</title>
@@ -39,6 +39,6 @@
       <pubDate>Mon, 02 Apr 2018 08:41:47 +0200</pubDate>
       <dc:date>2018-04-02T08:41:47.429336+02:00</dc:date>
     </item>
-    <dc:date>2018-04-02T08:41:47.429336+02:00</dc:date>
+    <dc:date>2018-04-02T13:43:10.118179+02:00</dc:date>
   </channel>
 </rss>
