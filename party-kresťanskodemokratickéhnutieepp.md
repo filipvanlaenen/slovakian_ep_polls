@@ -44,7 +44,7 @@ Last result: **2** seats (General Election of 24 May 2014)
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 1–2 |
 | [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1 |
 | [21–26 February 2018](2018-02-26-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1–2 |
-| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1 |
+| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1–2 |
 
 ### Probability Mass Function
 
