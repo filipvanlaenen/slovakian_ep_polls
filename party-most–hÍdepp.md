@@ -10,7 +10,8 @@ Last result: **5.8%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.7% | 4.8–6.7% | 4.5–7.0% | 4.4–7.2% | 4.0–7.8% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.8–6.7% | 4.6–7.0% | 4.4–7.2% | 4.0–7.8% |
+| [20–24 April 2018](2018-04-24-AKO.html) | AKO | 6.8% | N/A | N/A | N/A | N/A |
 | [4–7 April 2018](2018-04-07-AKO.html) | AKO | 5.6% | 4.8–6.6% | 4.5–7.0% | 4.3–7.2% | 4.0–7.7% |
 | [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 5.6% | 4.8–6.7% | 4.6–7.0% | 4.4–7.2% | 4.0–7.8% |
 | [21–26 February 2018](2018-02-26-AKO.html) | AKO | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
@@ -24,10 +25,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 5% | 100% |  |
-| 4.5–5.5% | 38% | 95% |  |
-| 5.5–6.5% | 45% | 57% | Last Result, Median |
-| 6.5–7.5% | 11% | 12% |  |
-| 7.5–8.5% | 0.9% | 1.0% |  |
+| 4.5–5.5% | 37% | 95% |  |
+| 5.5–6.5% | 45% | 58% | Last Result, Median |
+| 6.5–7.5% | 12% | 13% |  |
+| 7.5–8.5% | 1.0% | 1.0% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 
@@ -40,6 +41,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [20–24 April 2018](2018-04-24-AKO.html) | AKO |  |  |  |  |  |
 | [4–7 April 2018](2018-04-07-AKO.html) | AKO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–26 February 2018](2018-02-26-AKO.html) | AKO | 1 | 1 | 1 | 0–1 | 0–1 |
