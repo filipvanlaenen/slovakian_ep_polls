@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 02 May 2018 10:27:41 +0200</pubDate>
+    <pubDate>Wed, 02 May 2018 12:16:07 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 20–24 April 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (*): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO-seats.png"
+        length="265775"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 12:16:07 +0200</pubDate>
+      <dc:date>2018-05-02T12:16:07.719762+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 20–24 April 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO-coalitions-seats.png"
+        length="178687"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 12:16:07 +0200</pubDate>
+      <dc:date>2018-05-02T12:16:07.719762+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 20–24 April 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO.png"
         length="339084"
         type="image/png"/>
-      <pubDate>Wed, 02 May 2018 07:54:36 +0200</pubDate>
-      <dc:date>2018-05-02T07:54:36.326491+02:00</dc:date>
+      <pubDate>Wed, 02 May 2018 12:16:07 +0200</pubDate>
+      <dc:date>2018-05-02T12:16:07.719762+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 4–7 April 2018 – Seat Projections</title>
@@ -80,14 +100,34 @@
       <dc:date>2018-05-02T09:54:08.754023+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by AKO, 21–26 February 2018 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (*): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO-seats.png"
+        length="318364"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 11:48:33 +0200</pubDate>
+      <dc:date>2018-05-02T11:48:33.109276+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 21–26 February 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO-coalitions-seats.png"
+        length="187941"
+        type="image/png"/>
+      <pubDate>Wed, 02 May 2018 11:48:33 +0200</pubDate>
+      <dc:date>2018-05-02T11:48:33.109276+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by AKO, 21–26 February 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 22.1–27.5%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 14.0–18.6%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 8.5–12.2%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 8.2–11.9%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 6.6–10.1%&lt;/li&gt;&lt;li&gt;SME RODINA (*): 7.9–11.6%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 5.0–8.0%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 6.2–9.5%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 1.0–2.6%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 1.0–2.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO.png"
         length="326122"
         type="image/png"/>
-      <pubDate>Wed, 02 May 2018 08:08:34 +0200</pubDate>
-      <dc:date>2018-05-02T08:08:34.301196+02:00</dc:date>
+      <pubDate>Wed, 02 May 2018 11:48:33 +0200</pubDate>
+      <dc:date>2018-05-02T11:48:33.109276+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 23–28 January 2018 – Seat Projections</title>
@@ -119,6 +159,6 @@
       <pubDate>Wed, 02 May 2018 10:27:41 +0200</pubDate>
       <dc:date>2018-05-02T10:27:41.703861+02:00</dc:date>
     </item>
-    <dc:date>2018-05-02T10:27:41.703861+02:00</dc:date>
+    <dc:date>2018-05-02T12:16:07.719762+02:00</dc:date>
   </channel>
 </rss>
