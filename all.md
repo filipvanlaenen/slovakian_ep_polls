@@ -5,6 +5,7 @@ The table below lists all polls registered and analyzed so far.
 | Period     | Polling firm/Commissioner(s) | Smer–SD | KDH | OĽaNO | NOVA | SaS | SMK–MKP | MOST–HÍD | SNS | Kotleba–ĽSNS | PS | SME RODINA | SPOLU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2014 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| [24–30 April 2018](2018-04-30-FOCUS.html) | FOCUS | 18–23% <br> 3–4 | 5–8% <br> 1 | 7–11% <br> 1 | N/A <br> N/A | 11–15% <br> 2 | 2–5% <br> 0–1 | 4–7% <br> 0–1 | 8–12% <br> 1–2 | 8–11% <br> 2 | 3–5% <br> 0 | 7–11% <br> 1–2 | 2–4% <br> 0 |
 | [20–24 April 2018](2018-04-24-AKO.html) | AKO | 19–24% <br> 3–4 | 5–9% <br> 1 | 7–11% <br> 1–2 | N/A <br> N/A | 14–19% <br> 2–3 | 1–3% <br> 0 | 5–9% <br> 1 | 9–13% <br> 1–2 | 9–12% <br> 1–2 | 3–5% <br> 0–1 | 7–11% <br> 1–2 | 3–5% <br> 0–1 |
 | [4–7 April 2018](2018-04-07-AKO.html) | AKO | 18–23% <br> 3–4 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | 15–20% <br> 2–3 | 2–4% <br> 0 | 4–7% <br> 0–1 | 9–13% <br> 1–2 | 8–12% <br> 1–2 | 2–4% <br> 0 | 7–11% <br> 1–2 | 2–4% <br> 0 |
 | [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 18–23% <br> 3–4 | 6–9% <br> 1 | 9–12% <br> 1–2 | N/A <br> N/A | 12–16% <br> 2–3 | 3–5% <br> 0–1 | 4–7% <br> 0–1 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 1–2% <br> 0 | 9–12% <br> 1–2 | 1–2% <br> 0 |
