@@ -8,9 +8,39 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 10 May 2018 00:07:31 +0200</pubDate>
+    <pubDate>Wed, 06 Jun 2018 09:42:14 +0200</pubDate>
     <item>
-      <title>Opinion Poll by FOCUS, 24–30 April 2018 – Seat Projections</title>
+      <title>Opinion Poll by AKO, 16–21 May 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-05-21-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (*): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-05-21-AKO-seats.png"
+        length="321434"
+        type="image/png"/>
+      <pubDate>Wed, 06 Jun 2018 09:42:14 +0200</pubDate>
+      <dc:date>2018-06-06T09:42:14.446975+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 16–21 May 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-05-21-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-05-21-AKO-coalitions-seats.png"
+        length="203196"
+        type="image/png"/>
+      <pubDate>Wed, 06 Jun 2018 09:42:14 +0200</pubDate>
+      <dc:date>2018-06-06T09:42:14.446975+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 16–21 May 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-05-21-AKO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 19.1–24.2%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 14.5–19.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 8.4–12.1%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 8.7–12.5%&lt;/li&gt;&lt;li&gt;SME RODINA (*): 7.5–11.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 4.3–7.2%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 2.9–5.3%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 2.6–5.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-05-21-AKO.png"
+        length="340005"
+        type="image/png"/>
+      <pubDate>Wed, 06 Jun 2018 09:42:14 +0200</pubDate>
+      <dc:date>2018-06-06T09:42:14.446975+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 24–30 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-30-FOCUS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (*): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-30-FOCUS-seats.png"
@@ -24,7 +54,7 @@
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-30-FOCUS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-30-FOCUS-coalitions-seats.png"
-        length="196386"
+        length="195790"
         type="image/png"/>
       <pubDate>Thu, 10 May 2018 00:07:31 +0200</pubDate>
       <dc:date>2018-05-10T00:07:31.132593+02:00</dc:date>
@@ -40,7 +70,7 @@
       <dc:date>2018-05-10T00:07:31.132593+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by AKO, 20–24 April 2018 – Seat Projections</title>
+      <title>Opinion Poll by AKO, 20–24 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (*): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 0–1 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO-seats.png"
@@ -54,7 +84,7 @@
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-24-AKO-coalitions-seats.png"
-        length="178687"
+        length="177760"
         type="image/png"/>
       <pubDate>Wed, 02 May 2018 12:16:07 +0200</pubDate>
       <dc:date>2018-05-02T12:16:07.719762+02:00</dc:date>
@@ -70,7 +100,7 @@
       <dc:date>2018-05-02T12:16:07.719762+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by AKO, 4–7 April 2018 – Seat Projections</title>
+      <title>Opinion Poll by AKO, 4–7 April 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-07-AKO.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (*): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-07-AKO-seats.png"
@@ -84,7 +114,7 @@
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-07-AKO.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-04-07-AKO-coalitions-seats.png"
-        length="179053"
+        length="178454"
         type="image/png"/>
       <pubDate>Wed, 02 May 2018 09:03:49 +0200</pubDate>
       <dc:date>2018-05-02T09:03:49.899916+02:00</dc:date>
@@ -100,7 +130,7 @@
       <dc:date>2018-05-02T09:03:49.899916+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by FOCUS, 7–13 March 2018 – Seat Projections</title>
+      <title>Opinion Poll by FOCUS, 7–13 March 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (*): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS-seats.png"
@@ -114,7 +144,7 @@
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-03-13-FOCUS-coalitions-seats.png"
-        length="199676"
+        length="198953"
         type="image/png"/>
       <pubDate>Wed, 02 May 2018 09:54:08 +0200</pubDate>
       <dc:date>2018-05-02T09:54:08.754023+02:00</dc:date>
@@ -130,7 +160,7 @@
       <dc:date>2018-05-02T09:54:08.754023+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by AKO, 21–26 February 2018 – Seat Projections</title>
+      <title>Opinion Poll by AKO, 21–26 February 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (*): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO-seats.png"
@@ -144,7 +174,7 @@
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-02-26-AKO-coalitions-seats.png"
-        length="187941"
+        length="187011"
         type="image/png"/>
       <pubDate>Wed, 02 May 2018 11:48:33 +0200</pubDate>
       <dc:date>2018-05-02T11:48:33.109276+02:00</dc:date>
@@ -160,7 +190,7 @@
       <dc:date>2018-05-02T11:48:33.109276+02:00</dc:date>
     </item>
     <item>
-      <title>Opinion Poll by FOCUS, 23–28 January 2018 – Seat Projections</title>
+      <title>Opinion Poll by FOCUS, 23–28 January 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-01-28-FOCUS.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (*): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-01-28-FOCUS-seats.png"
@@ -174,7 +204,7 @@
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-01-28-FOCUS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-01-28-FOCUS-coalitions-seats.png"
-        length="157522"
+        length="157317"
         type="image/png"/>
       <pubDate>Wed, 02 May 2018 10:27:41 +0200</pubDate>
       <dc:date>2018-05-02T10:27:41.703861+02:00</dc:date>
@@ -189,6 +219,6 @@
       <pubDate>Wed, 02 May 2018 10:27:41 +0200</pubDate>
       <dc:date>2018-05-02T10:27:41.703861+02:00</dc:date>
     </item>
-    <dc:date>2018-05-10T00:07:31.132593+02:00</dc:date>
+    <dc:date>2018-06-06T09:42:14.446975+02:00</dc:date>
   </channel>
 </rss>
