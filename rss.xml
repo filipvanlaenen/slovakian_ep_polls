@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 06 Jun 2018 09:42:14 +0200</pubDate>
+    <pubDate>Sun, 24 Jun 2018 12:48:32 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 18–21 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-06-21-AKO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 18.6–23.6%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 13.4–17.9%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 7.0–10.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 8.5–12.2%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 9.3–13.2%&lt;/li&gt;&lt;li&gt;SME RODINA (*): 7.7–11.3%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 5.0–8.0%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.7–9.0%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 1.6–3.6%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 2.9–5.4%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 2.8–5.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-06-21-AKO.png"
+        length="340830"
+        type="image/png"/>
+      <pubDate>Sun, 24 Jun 2018 12:37:46 +0200</pubDate>
+      <dc:date>2018-06-24T12:37:46.173039+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 4–11 June 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-06-11-FOCUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 19.3–24.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 10.5–14.6%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 8.3–12.1%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 8.1–11.7%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 8.0–11.6%&lt;/li&gt;&lt;li&gt;SME RODINA (*): 6.6–9.9%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 4.4–7.2%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 2.9–5.3%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 2.0–4.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-06-11-FOCUS.png"
+        length="337602"
+        type="image/png"/>
+      <pubDate>Sun, 24 Jun 2018 12:48:32 +0200</pubDate>
+      <dc:date>2018-06-24T12:48:32.683073+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 16–21 May 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-05-21-AKO.html#seats</link>
@@ -219,6 +239,6 @@
       <pubDate>Wed, 02 May 2018 10:27:41 +0200</pubDate>
       <dc:date>2018-05-02T10:27:41.703861+02:00</dc:date>
     </item>
-    <dc:date>2018-06-06T09:42:14.446975+02:00</dc:date>
+    <dc:date>2018-06-24T12:48:32.683073+02:00</dc:date>
   </channel>
 </rss>
