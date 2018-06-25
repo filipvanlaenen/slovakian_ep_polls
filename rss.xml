@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Jun 2018 12:48:32 +0200</pubDate>
+    <pubDate>Mon, 25 Jun 2018 18:37:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by AKO, 18–21 June 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-06-21-AKO.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-06-21-AKO.png"
         length="340830"
         type="image/png"/>
-      <pubDate>Sun, 24 Jun 2018 12:37:46 +0200</pubDate>
-      <dc:date>2018-06-24T12:37:46.173039+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 18:29:09 +0200</pubDate>
+      <dc:date>2018-06-25T18:29:09.835129+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 4–11 June 2018 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-06-11-FOCUS.png"
         length="337602"
         type="image/png"/>
-      <pubDate>Sun, 24 Jun 2018 12:48:32 +0200</pubDate>
-      <dc:date>2018-06-24T12:48:32.683073+02:00</dc:date>
+      <pubDate>Mon, 25 Jun 2018 18:37:35 +0200</pubDate>
+      <dc:date>2018-06-25T18:37:35.817519+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 16–21 May 2018 – Seat Projections for the Parties</title>
@@ -239,6 +239,6 @@
       <pubDate>Wed, 02 May 2018 10:27:41 +0200</pubDate>
       <dc:date>2018-05-02T10:27:41.703861+02:00</dc:date>
     </item>
-    <dc:date>2018-06-24T12:48:32.683073+02:00</dc:date>
+    <dc:date>2018-06-25T18:37:35.817519+02:00</dc:date>
   </channel>
 </rss>
