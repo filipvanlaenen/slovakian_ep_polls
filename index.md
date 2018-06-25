@@ -5,9 +5,9 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Smer–SD | KDH | OĽaNO | NOVA | SaS | SMK–MKP | MOST–HÍD | SNS | Kotleba–ĽSNS | PS | SME RODINA | SPOLU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2014 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 19–24% <br> 3–4 | 6–9% <br> 1 | 7–12% <br> 1–2 | N/A <br> N/A | 11–18% <br> 2–3 | 2–5% <br> 0 | 4–8% <br> 0–1 | 8–12% <br> 1–2 | 8–13% <br> 1–2 | 3–5% <br> 0 | 7–11% <br> 1–2 | 2–5% <br> 0–1 |
-| [18–21 June 2018](2018-06-21-AKO.html) | AKO | 19–24% <br> 3 | 6–9% <br> 1 | 7–11% <br> 1 | N/A <br> N/A | 13–18% <br> 2–3 | 2–4% <br> 0 | 5–8% <br> 0–1 | 8–12% <br> 1–2 | 9–13% <br> 2 | 3–5% <br> 0–1 | 8–11% <br> 1–2 | 3–5% <br> 0–1 |
-| [4–11 June 2018](2018-06-11-FOCUS.html) | FOCUS | 19–24% <br> 3–4 | 5–8% <br> 1 | 8–12% <br> 1–2 | N/A <br> N/A | 11–15% <br> 2 | 3–5% <br> 0–1 | 4–7% <br> 0–1 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 3–5% <br> 0 | 7–10% <br> 1–2 | 2–4% <br> 0 |
+| N/A | [Poll Average](average.html) | 19–24% <br> 3–4 | 6–9% <br> 1 | 7–12% <br> 1–2 | N/A <br> N/A | 11–18% <br> 2–3 | 2–5% <br> 0 | 4–8% <br> 0–1 | 8–12% <br> 1–2 | 8–13% <br> 1–2 | 3–5% <br> 0–1 | 7–11% <br> 1–2 | 2–5% <br> 0 |
+| [18–21 June 2018](2018-06-21-AKO.html) | AKO | 19–24% <br> 3–4 | 6–9% <br> 1–2 | 7–11% <br> 1–2 | N/A <br> N/A | 13–18% <br> 2–3 | 2–4% <br> 0 | 5–8% <br> 0–1 | 8–12% <br> 1–2 | 9–13% <br> 1–2 | 3–5% <br> 0–1 | 8–11% <br> 1–2 | 3–5% <br> 0–1 |
+| [4–11 June 2018](2018-06-11-FOCUS.html) | FOCUS | 19–24% <br> 3–4 | 5–8% <br> 1 | 8–12% <br> 1–2 | N/A <br> N/A | 11–15% <br> 2 | 3–5% <br> 0 | 4–7% <br> 0–1 | 8–12% <br> 1–2 | 8–12% <br> 1–2 | 3–5% <br> 0 | 7–10% <br> 1–2 | 2–4% <br> 0 |
 | 24 May 2014 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
