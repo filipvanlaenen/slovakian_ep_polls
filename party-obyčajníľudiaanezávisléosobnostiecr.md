@@ -10,7 +10,8 @@ Last result: **7.5%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 8.6–11.3% | 8.3–11.7% | 8.0–12.1% | 7.4–12.8% |
+| N/A | [Poll Average](average.html) | 9.2% | 7.4–11.2% | 7.0–11.7% | 6.7–12.0% | 6.2–12.8% |
+| [3–8 October 2018](2018-10-08-AKO.html) | AKO | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
 | [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 10.3% | 9.2–11.7% | 8.9–12.0% | 8.6–12.4% | 8.1–13.0% |
 | [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.2–12.0% |
 | [15–17 August 2018](2018-08-17-AKO.html) | AKO | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
@@ -31,14 +32,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.7% | 100% | Last Result |
-| 7.5–8.5% | 8% | 99.3% |  |
-| 8.5–9.5% | 28% | 91% |  |
-| 9.5–10.5% | 35% | 64% | Median |
-| 10.5–11.5% | 21% | 28% |  |
-| 11.5–12.5% | 6% | 7% |  |
-| 12.5–13.5% | 0.8% | 0.9% |  |
+| 4.5–5.5% | 0% | 100% |  |
+| 5.5–6.5% | 2% | 100% |  |
+| 6.5–7.5% | 12% | 98% | Last Result |
+| 7.5–8.5% | 23% | 86% |  |
+| 8.5–9.5% | 20% | 63% | Median |
+| 9.5–10.5% | 21% | 43% |  |
+| 10.5–11.5% | 16% | 22% |  |
+| 11.5–12.5% | 5% | 6% |  |
+| 12.5–13.5% | 0.8% | 0.8% |  |
 | 13.5–14.5% | 0.1% | 0.1% |  |
 | 14.5–15.5% | 0% | 0% |  |
 
@@ -52,6 +54,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [3–8 October 2018](2018-10-08-AKO.html) | AKO | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–17 August 2018](2018-08-17-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1–2 |

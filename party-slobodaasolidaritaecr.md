@@ -11,6 +11,7 @@ Last result: **6.7%** (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 14.8% | 12.7–17.0% | 12.2–17.6% | 11.9–18.0% | 11.2–18.9% |
+| [3–8 October 2018](2018-10-08-AKO.html) | AKO | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.7% | 10.9–16.5% |
 | [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
 | [15–17 August 2018](2018-08-17-AKO.html) | AKO | 15.7% | 14.3–17.3% | 13.9–17.7% | 13.6–18.1% | 12.9–18.9% |
@@ -57,6 +58,7 @@ Last result: **1** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [3–8 October 2018](2018-10-08-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–17 August 2018](2018-08-17-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -80,8 +82,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 72% | 100% | Median |
-| 3 | 28% | 28% |  |
+| 2 | 56% | 100% | Median |
+| 3 | 44% | 44% |  |
 | 4 | 0% | 0% |  |
 
 
