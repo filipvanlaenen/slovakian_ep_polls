@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Oct 2018 13:26:56 +0200</pubDate>
+    <pubDate>Fri, 26 Oct 2018 18:38:48 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 3–8 October 2018 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-10-08-AKO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 19.5–24.7%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 13.9–18.4%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 6.5–9.9%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (*): 9.2–13.1%&lt;/li&gt;&lt;li&gt;SME RODINA (*): 6.5–9.9%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.7–7.7%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (ALDE): 3.8–6.5%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (*): 2.9–5.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-10-08-AKO.png"
+        length="338400"
+        type="image/png"/>
+      <pubDate>Fri, 26 Oct 2018 18:38:48 +0200</pubDate>
+      <dc:date>2018-10-26T18:38:48.091845+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by FOCUS, 18–25 September 2018 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-09-25-FOCUS.html#seats</link>
@@ -399,6 +409,6 @@
       <pubDate>Wed, 02 May 2018 10:27:41 +0200</pubDate>
       <dc:date>2018-05-02T10:27:41.703861+02:00</dc:date>
     </item>
-    <dc:date>2018-10-07T13:26:56.614926+02:00</dc:date>
+    <dc:date>2018-10-26T18:38:48.091845+02:00</dc:date>
   </channel>
 </rss>
