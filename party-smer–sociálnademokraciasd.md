@@ -11,6 +11,8 @@ Last result: **24.1%** (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 22.2% | 20.6–23.9% | 20.1–24.4% | 19.7–24.9% | 18.9–25.7% |
+| [13–15 November 2018](2018-11-15-AKO.html) | AKO | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
+| [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 21.0% | 19.5–22.8% | 19.0–23.2% | 18.6–23.7% | 17.9–24.5% |
 | [3–8 October 2018](2018-10-08-AKO.html) | AKO | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
 | [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 22.4% | 20.7–24.1% | 20.3–24.6% | 19.9–25.0% | 19.2–25.9% |
 | [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
@@ -55,6 +57,8 @@ Last result: **4** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [13–15 November 2018](2018-11-15-AKO.html) | AKO | 5 | 4–5 | 3–5 | 3–5 | 3–5 |
+| [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 3 | 3 | 3 | 3–4 | 3–4 |
 | [3–8 October 2018](2018-10-08-AKO.html) | AKO | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
