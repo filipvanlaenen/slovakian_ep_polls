@@ -10,7 +10,8 @@ Last result: **24.1%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 22.6% | 20.0–25.2% | 19.5–25.8% | 19.0–26.3% | 18.2–27.3% |
+| N/A | [Poll Average](average.html) | 23.0% | 20.9–25.2% | 20.4–25.8% | 19.9–26.3% | 19.1–27.3% |
+| [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.6% | 18.8–25.5% |
 | [13–15 November 2018](2018-11-15-AKO.html) | AKO | 24.0% | 22.3–25.8% | 21.9–26.3% | 21.4–26.7% | 20.7–27.6% |
 | [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 21.0% | 19.5–22.8% | 19.0–23.2% | 18.6–23.7% | 17.9–24.5% |
 | [3–8 October 2018](2018-10-08-AKO.html) | AKO | 22.0% | 20.4–23.7% | 19.9–24.2% | 19.5–24.7% | 18.8–25.5% |
@@ -34,16 +35,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 15.5–16.5% | 0% | 100% |  |
-| 16.5–17.5% | 0.1% | 100% |  |
-| 17.5–18.5% | 0.9% | 99.9% |  |
-| 18.5–19.5% | 5% | 99.0% |  |
-| 19.5–20.5% | 11% | 94% |  |
-| 20.5–21.5% | 17% | 83% |  |
-| 21.5–22.5% | 16% | 66% |  |
-| 22.5–23.5% | 16% | 50% | Median |
-| 23.5–24.5% | 16% | 34% | Last Result |
-| 24.5–25.5% | 11% | 18% |  |
+| 16.5–17.5% | 0% | 100% |  |
+| 17.5–18.5% | 0.1% | 100% |  |
+| 18.5–19.5% | 1.1% | 99.9% |  |
+| 19.5–20.5% | 5% | 98.7% |  |
+| 20.5–21.5% | 13% | 94% |  |
+| 21.5–22.5% | 20% | 81% |  |
+| 22.5–23.5% | 22% | 61% | Median |
+| 23.5–24.5% | 19% | 38% | Last Result |
+| 24.5–25.5% | 12% | 19% |  |
 | 25.5–26.5% | 5% | 7% |  |
 | 26.5–27.5% | 1.4% | 2% |  |
 | 27.5–28.5% | 0.3% | 0.3% |  |
@@ -58,7 +58,8 @@ Last result: **4** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4 | 4 | 3–4 | 3–5 |
+| [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 4 | 4 | 4 | 4 | 3–4 |
 | [13–15 November 2018](2018-11-15-AKO.html) | AKO | 4 | 4 | 4 | 3–4 | 3–5 |
 | [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [3–8 October 2018](2018-10-08-AKO.html) | AKO | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -84,8 +85,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 16% | 100% |  |
-| 4 | 84% | 84% | Last Result, Median |
+| 3 | 3% | 100% |  |
+| 4 | 97% | 97% | Last Result, Median |
 | 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
