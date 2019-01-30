@@ -25,7 +25,7 @@ Only polls for which at least the sample size has been published are included in
 + **SNS:** Slovenská národná strana (ENF)
 + **Kotleba–ĽSNS:** Kotleba–Ľudová strana Naše Slovensko (NI)
 + **PS:** Progresívne Slovensko (ALDE)
-+ **SME RODINA:** SME RODINA (*)
++ **SME RODINA:** SME RODINA (ENF)
 + **SPOLU:** SPOLU–Občianska Demokracia (EPP)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
