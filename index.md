@@ -5,8 +5,8 @@ The table below lists the most recent polls (less than 90 days old) registered a
 | Period     | Polling firm/Commissioner(s) | Smer–SD | KDH | OĽaNO | NOVA | SaS | SMK–MKP | MOST–HÍD | SNS | Kotleba–ĽSNS | PS | SME RODINA | SPOLU |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 24 May 2014 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 20–26% <br> 3–4 | 5–8% <br> 0–1 | 7–13% <br> 1–2 | N/A <br> N/A | 11–18% <br> 2–3 | 2–5% <br> 0–1 | 4–7% <br> 0–1 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | 4–6% <br> 0–1 | 8–12% <br> 1–2 | 3–6% <br> 0–1 |
-| [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 20–25% <br> 3–4 | 6–9% <br> 1 | 9–13% <br> 1–2 | N/A <br> N/A | 11–15% <br> 2 | 3–5% <br> 0–1 | 4–7% <br> 0–1 | 7–11% <br> 1–2 | 7–11% <br> 1–2 | 4–7% <br> 0–1 | 7–11% <br> 1–2 | 4–7% <br> 0–1 |
+| N/A | [Poll Average](average.html) | 21–26% <br> 3–4 | 5–8% <br> 1 | 7–12% <br> 1–2 | N/A <br> N/A | 10–18% <br> 2–3 | 2–4% <br> 0 | 5–8% <br> 0–1 | 7–11% <br> 1–2 | 6–10% <br> 1–2 | 4–6% <br> 0–1 | 8–12% <br> 1–2 | 3–5% <br> 0–1 |
+| [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 21–26% <br> 4 | 6–9% <br> 1 | 8–12% <br> 1–2 | N/A <br> N/A | 10–14% <br> 2 | 2–4% <br> 0 | 5–8% <br> 1 | 6–10% <br> 1 | 6–10% <br> 1 | 4–7% <br> 0–1 | 8–12% <br> 2 | 3–5% <br> 0 |
 | [13–15 November 2018](2018-11-15-AKO.html) | AKO | 21–27% <br> 3–4 | 5–8% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | 14–18% <br> 2–3 | 2–4% <br> 0 | 5–8% <br> 0–1 | 7–11% <br> 1–2 | 6–10% <br> 1–2 | 4–7% <br> 0–1 | 8–12% <br> 1–2 | 3–5% <br> 0–1 |
 | 24 May 2014 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
