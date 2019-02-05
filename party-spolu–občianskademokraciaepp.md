@@ -57,7 +57,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [13–15 November 2018](2018-11-15-AKO.html) | AKO | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [13–15 November 2018](2018-11-15-AKO.html) | AKO | 0 | 0 | 0 | 0–1 | 0–1 |
 | [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–8 October 2018](2018-10-08-AKO.html) | AKO | 0 | 0 | 0 | 0–1 | 0–1 |
 | [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
