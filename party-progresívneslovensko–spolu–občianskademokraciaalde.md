@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 24 May 2014)
 | [8–12 February 2019](2019-02-12-AKO.html) | AKO | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 9.2% | 8.2–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
-| [27–28 November 2018](2018-11-28-AKO.html) | AKO | 8.5% | N/A | N/A | N/A | N/A |
+| [27–28 November 2018](2018-11-28-AKO.html) | AKO | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.5–11.0% |
 | [13–15 November 2018](2018-11-15-AKO.html) | AKO | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.2% | 7.1–11.8% |
 | [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 10.4% | 9.2–11.7% | 8.9–12.1% | 8.6–12.4% | 8.1–13.1% |
 | [3–8 October 2018](2018-10-08-AKO.html) | AKO | 9.0% | N/A | N/A | N/A | N/A |
@@ -62,10 +62,10 @@ Last result: **0** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 1–2 |
-| [8–12 February 2019](2019-02-12-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1 |
+| [8–12 February 2019](2019-02-12-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1–2 |
 | [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [27–28 November 2018](2018-11-28-AKO.html) | AKO |  |  |  |  |  |
+| [27–28 November 2018](2018-11-28-AKO.html) | AKO | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [13–15 November 2018](2018-11-15-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [3–8 October 2018](2018-10-08-AKO.html) | AKO |  |  |  |  |  |
@@ -92,8 +92,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 97% | 100% | Median |
-| 2 | 3% | 3% |  |
+| 1 | 96% | 100% | Median |
+| 2 | 4% | 4% |  |
 | 3 | 0% | 0% |  |
 
 
