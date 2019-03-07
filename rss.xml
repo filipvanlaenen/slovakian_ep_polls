@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 07 Mar 2019 15:49:09 +0100</pubDate>
+    <pubDate>Thu, 07 Mar 2019 16:43:30 +0100</pubDate>
     <item>
       <title>Opinion Poll by AKO, 8–12 February 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-02-12-AKO.html#seats</link>
@@ -130,14 +130,34 @@
       <dc:date>2019-03-07T15:49:09.955218+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by AKO, 13–15 November 2018 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-11-15-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ENF): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-11-15-AKO-seats.png"
+        length="339726"
+        type="image/png"/>
+      <pubDate>Thu, 07 Mar 2019 16:43:30 +0100</pubDate>
+      <dc:date>2019-03-07T16:43:30.661071+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 13–15 November 2018 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-11-15-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-11-15-AKO-coalitions-seats.png"
+        length="205904"
+        type="image/png"/>
+      <pubDate>Thu, 07 Mar 2019 16:43:30 +0100</pubDate>
+      <dc:date>2019-03-07T16:43:30.661071+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by AKO, 13–15 November 2018 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2018-11-15-AKO.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 21.4–26.6%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 13.9–18.5%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 6.6–10.0%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 6.3–9.6%&lt;/li&gt;&lt;li&gt;SME RODINA (ENF): 8.7–12.5%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 4.8–7.8%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE): 7.6–11.2%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2018-11-15-AKO.png"
         length="316684"
         type="image/png"/>
-      <pubDate>Fri, 01 Mar 2019 17:57:01 +0100</pubDate>
-      <dc:date>2019-03-01T17:57:01.171392+01:00</dc:date>
+      <pubDate>Thu, 07 Mar 2019 16:43:30 +0100</pubDate>
+      <dc:date>2019-03-07T16:43:30.661071+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 7–14 November 2018 – Seat Projections for the Parties</title>
@@ -589,6 +609,6 @@
       <pubDate>Wed, 02 May 2018 10:27:41 +0200</pubDate>
       <dc:date>2018-05-02T10:27:41.703861+02:00</dc:date>
     </item>
-    <dc:date>2019-03-07T15:49:09.955218+01:00</dc:date>
+    <dc:date>2019-03-07T16:43:30.661071+01:00</dc:date>
   </channel>
 </rss>
