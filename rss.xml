@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Apr 2019 10:25:34 +0200</pubDate>
+    <pubDate>Sun, 14 Apr 2019 17:13:29 +0200</pubDate>
     <item>
       <title>Opinion Poll by AKO, 1–2 April 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-04-02-AKO.html#seats</link>
@@ -40,14 +40,34 @@
       <dc:date>2019-04-06T21:40:24.214094+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 1–15 March 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-03-15-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 0–1 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ENF): 1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE): 1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-03-15-FOCUS-seats.png"
+        length="245978"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 17:13:29 +0200</pubDate>
+      <dc:date>2019-04-14T17:13:29.842496+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 1–15 March 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-03-15-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-03-15-FOCUS-coalitions-seats.png"
+        length="126442"
+        type="image/png"/>
+      <pubDate>Sun, 14 Apr 2019 17:13:29 +0200</pubDate>
+      <dc:date>2019-04-14T17:13:29.842496+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 1–15 March 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-03-15-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 20.0–24.1%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 9.6–12.7%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 9.6–12.7%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ENF): 4.9–7.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 11.4–14.8%&lt;/li&gt;&lt;li&gt;SME RODINA (ENF): 7.7–10.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 7.7–10.5%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (ALDE): 6.8–9.4%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-03-15-FOCUS.png"
         length="258455"
         type="image/png"/>
-      <pubDate>Sun, 07 Apr 2019 10:25:34 +0200</pubDate>
-      <dc:date>2019-04-07T10:25:34.057143+02:00</dc:date>
+      <pubDate>Sun, 14 Apr 2019 17:13:29 +0200</pubDate>
+      <dc:date>2019-04-14T17:13:29.842496+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 21–26 February 2019 – Voting Intentions</title>
@@ -659,6 +679,6 @@
       <pubDate>Wed, 02 May 2018 10:27:41 +0200</pubDate>
       <dc:date>2018-05-02T10:27:41.703861+02:00</dc:date>
     </item>
-    <dc:date>2019-04-07T10:25:34.057143+02:00</dc:date>
+    <dc:date>2019-04-14T17:13:29.842496+02:00</dc:date>
   </channel>
 </rss>
