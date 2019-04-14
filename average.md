@@ -273,8 +273,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 78% | 100% | Median |
-| 4 | 22% | 22% | Last Result |
+| 3 | 77% | 100% | Median |
+| 4 | 23% | 23% | Last Result |
 | 5 | 0% | 0% |  |
 
 ### Kresťanskodemokratické hnutie (EPP)
@@ -287,7 +287,7 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 6% | 100% |  |
 | 1 | 93% | 94% | Median |
-| 2 | 1.1% | 1.1% | Last Result |
+| 2 | 1.0% | 1.0% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR)
@@ -298,8 +298,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 39% | 100% | Last Result |
-| 2 | 61% | 61% | Median |
+| 1 | 42% | 100% | Last Result |
+| 2 | 58% | 58% | Median |
 | 3 | 0% | 0% |  |
 
 ### Sloboda a Solidarita (ECR)
@@ -310,8 +310,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 15% | 100% | Last Result |
-| 2 | 81% | 85% | Median |
+| 1 | 12% | 100% | Last Result |
+| 2 | 84% | 88% | Median |
 | 3 | 4% | 4% |  |
 | 4 | 0% | 0% |  |
 
@@ -348,7 +348,7 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 1.5% | 100% | Last Result |
-| 1 | 98% | 98.5% | Median |
+| 1 | 97% | 98.5% | Median |
 | 2 | 1.0% | 1.0% |  |
 | 3 | 0% | 0% |  |
 
@@ -413,9 +413,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.9% | 100% |  |
-| 3 | 50% | 99.1% | Last Result |
-| 4 | 49% | 49% | Median |
+| 2 | 0.8% | 100% |  |
+| 3 | 49% | 99.2% | Last Result |
+| 4 | 49% | 50% | Median |
 | 5 | 0.7% | 0.7% |  |
 | 6 | 0% | 0% |  |
 
@@ -425,8 +425,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 78% | 100% | Median |
-| 4 | 22% | 22% | Last Result |
+| 3 | 77% | 100% | Median |
+| 4 | 23% | 23% | Last Result |
 | 5 | 0% | 0% |  |
 
 ### Slovenská národná strana (ENF) – SME RODINA (ENF)
@@ -480,6 +480,6 @@ Only polls for which at least the sample size has been published are included in
 ## Technical Information
 
 + **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 524,288
-+ **Total number of simulations done in the polls included in this average:** 1,572,864
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 2,097,152
 + **Error estimate:** 2.15%
