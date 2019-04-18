@@ -13,27 +13,27 @@ Last result: **6.7%** (General Election of 24 May 2014)
 | N/A | [Poll Average](average.html) | 11.9% | 10.4–13.9% | 10.1–14.3% | 9.8–14.8% | 9.3–15.5% |
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 12.9% | 11.6–14.4% | 11.3–14.8% | 11.0–15.1% | 10.4–15.9% |
 | [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS | 11.0% | 10.1–12.1% | 9.8–12.4% | 9.6–12.7% | 9.1–13.2% |
-| [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS | 11.2% | 10.0–12.5% | 9.6–12.9% | 9.4–13.2% | 8.8–13.9% |
-| [8–12 February 2019](2019-02-12-AKO.html) | AKO | 14.8% | 13.4–16.3% | 13.1–16.8% | 12.7–17.1% | 12.1–17.9% |
-| [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 12.3% | 11.1–13.8% | 10.7–14.2% | 10.5–14.5% | 9.9–15.2% |
-| [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 13.3% | 12.1–14.8% | 11.7–15.2% | 11.4–15.6% | 10.8–16.3% |
-| [27–28 November 2018](2018-11-28-AKO.html) | AKO | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
-| [13–15 November 2018](2018-11-15-AKO.html) | AKO | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
-| [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 12.0% | 10.7–13.4% | 10.4–13.8% | 10.1–14.1% | 9.5–14.8% |
-| [3–8 October 2018](2018-10-08-AKO.html) | AKO | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
-| [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 13.5% | 12.2–15.0% | 11.8–15.4% | 11.5–15.7% | 10.9–16.5% |
-| [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 16.0% | 14.6–17.6% | 14.2–18.0% | 13.9–18.4% | 13.2–19.2% |
-| [15–17 August 2018](2018-08-17-AKO.html) | AKO | 15.7% | 14.3–17.3% | 13.9–17.7% | 13.6–18.1% | 12.9–18.9% |
-| [2–9 August 2018](2018-08-09-FOCUS.html) | FOCUS | 12.2% | 11.0–13.6% | 10.6–14.0% | 10.3–14.4% | 9.8–15.1% |
-| [18–21 June 2018](2018-06-21-AKO.html) | AKO | 15.5% | 14.1–17.1% | 13.7–17.5% | 13.4–17.9% | 12.7–18.7% |
-| [4–11 June 2018](2018-06-11-FOCUS.html) | FOCUS | 12.4% | 11.2–13.8% | 10.8–14.2% | 10.5–14.6% | 10.0–15.3% |
-| [16–21 May 2018](2018-05-21-AKO.html) | AKO | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
-| [24–30 April 2018](2018-04-30-FOCUS.html) | FOCUS | 13.2% | 11.9–14.7% | 11.6–15.1% | 11.3–15.5% | 10.7–16.2% |
-| [20–24 April 2018](2018-04-24-AKO.html) | AKO | 16.1% | 14.7–17.7% | 14.3–18.1% | 13.9–18.5% | 13.3–19.3% |
-| [4–7 April 2018](2018-04-07-AKO.html) | AKO | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
-| [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.1% |
-| [21–26 February 2018](2018-02-26-AKO.html) | AKO | 16.2% | 14.8–17.8% | 14.4–18.2% | 14.0–18.6% | 13.4–19.4% |
-| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS | 13.1% | 11.9–14.6% | 11.5–15.0% | 11.2–15.4% | 10.6–16.1% |
+| [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS | 11.2% | N/A | N/A | N/A | N/A |
+| [8–12 February 2019](2019-02-12-AKO.html) | AKO | 14.8% | N/A | N/A | N/A | N/A |
+| [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 12.3% | N/A | N/A | N/A | N/A |
+| [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 13.3% | N/A | N/A | N/A | N/A |
+| [27–28 November 2018](2018-11-28-AKO.html) | AKO | 15.9% | N/A | N/A | N/A | N/A |
+| [13–15 November 2018](2018-11-15-AKO.html) | AKO | 16.1% | N/A | N/A | N/A | N/A |
+| [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 12.0% | N/A | N/A | N/A | N/A |
+| [3–8 October 2018](2018-10-08-AKO.html) | AKO | 16.0% | N/A | N/A | N/A | N/A |
+| [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 13.5% | N/A | N/A | N/A | N/A |
+| [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 16.0% | N/A | N/A | N/A | N/A |
+| [15–17 August 2018](2018-08-17-AKO.html) | AKO | 15.7% | N/A | N/A | N/A | N/A |
+| [2–9 August 2018](2018-08-09-FOCUS.html) | FOCUS | 12.2% | N/A | N/A | N/A | N/A |
+| [18–21 June 2018](2018-06-21-AKO.html) | AKO | 15.5% | N/A | N/A | N/A | N/A |
+| [4–11 June 2018](2018-06-11-FOCUS.html) | FOCUS | 12.4% | N/A | N/A | N/A | N/A |
+| [16–21 May 2018](2018-05-21-AKO.html) | AKO | 16.7% | N/A | N/A | N/A | N/A |
+| [24–30 April 2018](2018-04-30-FOCUS.html) | FOCUS | 13.2% | N/A | N/A | N/A | N/A |
+| [20–24 April 2018](2018-04-24-AKO.html) | AKO | 16.1% | N/A | N/A | N/A | N/A |
+| [4–7 April 2018](2018-04-07-AKO.html) | AKO | 17.1% | N/A | N/A | N/A | N/A |
+| [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 14.0% | N/A | N/A | N/A | N/A |
+| [21–26 February 2018](2018-02-26-AKO.html) | AKO | 16.2% | N/A | N/A | N/A | N/A |
+| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS | 13.1% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
 
@@ -62,30 +62,30 @@ Last result: **1** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–2 April 2019](2019-04-02-AKO.html) | AKO | 2 | 2 | 2 | 2 | 1–2 |
-| [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [8–12 February 2019](2019-02-12-AKO.html) | AKO | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 1–2 |
-| [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 2–3 |
-| [27–28 November 2018](2018-11-28-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [13–15 November 2018](2018-11-15-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS | 2 | 2 | 2 | 1–2 | 1–2 |
-| [3–8 October 2018](2018-10-08-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [30 August–5 September 2018](2018-09-05-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [15–17 August 2018](2018-08-17-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [2–9 August 2018](2018-08-09-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 1–2 |
-| [18–21 June 2018](2018-06-21-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [4–11 June 2018](2018-06-11-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 2 |
-| [16–21 May 2018](2018-05-21-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [24–30 April 2018](2018-04-30-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 2–3 |
-| [20–24 April 2018](2018-04-24-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [4–7 April 2018](2018-04-07-AKO.html) | AKO | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [21–26 February 2018](2018-02-26-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 2–3 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–2 April 2019](2019-04-02-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [8–12 February 2019](2019-02-12-AKO.html) | AKO |  |  |  |  |  |
+| [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [1–9 December 2018](2018-12-09-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [27–28 November 2018](2018-11-28-AKO.html) | AKO |  |  |  |  |  |
+| [13–15 November 2018](2018-11-15-AKO.html) | AKO |  |  |  |  |  |
+| [7–14 November 2018](2018-11-14-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [3–8 October 2018](2018-10-08-AKO.html) | AKO |  |  |  |  |  |
+| [18–25 September 2018](2018-09-25-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [30 August–5 September 2018](2018-09-05-AKO.html) | AKO |  |  |  |  |  |
+| [15–17 August 2018](2018-08-17-AKO.html) | AKO |  |  |  |  |  |
+| [2–9 August 2018](2018-08-09-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [18–21 June 2018](2018-06-21-AKO.html) | AKO |  |  |  |  |  |
+| [4–11 June 2018](2018-06-11-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [16–21 May 2018](2018-05-21-AKO.html) | AKO |  |  |  |  |  |
+| [24–30 April 2018](2018-04-30-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [20–24 April 2018](2018-04-24-AKO.html) | AKO |  |  |  |  |  |
+| [4–7 April 2018](2018-04-07-AKO.html) | AKO |  |  |  |  |  |
+| [7–13 March 2018](2018-03-13-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [21–26 February 2018](2018-02-26-AKO.html) | AKO |  |  |  |  |  |
+| [23–28 January 2018](2018-01-28-FOCUS.html) | FOCUS |  |  |  |  |  |
 
 ### Probability Mass Function
 
@@ -95,8 +95,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 13% | 100% | Last Result |
-| 2 | 87% | 87% | Median |
+| 1 | 61% | 100% | Last Result, Median |
+| 2 | 38% | 39% |  |
 | 3 | 0.2% | 0.2% |  |
 | 4 | 0% | 0% |  |
 
