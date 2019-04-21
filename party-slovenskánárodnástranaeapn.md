@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1 |
-| [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 0–1 |
+| [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS | 1 | 1 | 1 | 0–1 | 0–1 |
 | [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [8–12 February 2019](2019-02-12-AKO.html) | AKO |  |  |  |  |  |
 | [16–23 January 2019](2019-01-23-FOCUS.html) | FOCUS |  |  |  |  |  |
@@ -94,8 +94,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.2% | 100% | Last Result |
-| 1 | 98.8% | 98.8% | Median |
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
 | 2 | 0% | 0% |  |
 
 
