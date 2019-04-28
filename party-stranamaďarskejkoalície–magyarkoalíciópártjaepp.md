@@ -10,8 +10,8 @@ Last result: **6.5%** (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.7% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
-| [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS | 4.0% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 3.3% | 2.3–4.6% | 2.1–4.9% | 1.9–5.1% | 1.7–5.6% |
+| [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.9% |
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 2.6% | 2.1–3.4% | 1.9–3.6% | 1.8–3.8% | 1.6–4.2% |
 | [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS | 0.0% | N/A | N/A | N/A | N/A |
 | [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS | 3.1% | N/A | N/A | N/A | N/A |
@@ -43,12 +43,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 0.5% | 100% |  |
-| 1.5–2.5% | 40% | 99.5% |  |
-| 2.5–3.5% | 54% | 59% | Median |
-| 3.5–4.5% | 5% | 6% |  |
-| 4.5–5.5% | 0.1% | 0.1% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 20% | 99.8% |  |
+| 2.5–3.5% | 37% | 80% | Median |
+| 3.5–4.5% | 32% | 43% |  |
+| 4.5–5.5% | 10% | 11% |  |
+| 5.5–6.5% | 0.7% | 0.7% |  |
 | 6.5–7.5% | 0% | 0% | Last Result |
 
 
@@ -60,8 +60,8 @@ Last result: **1** seats (General Election of 24 May 2014)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0–1 | 0–1 |
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [1–15 March 2019](2019-03-15-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [21–26 February 2019](2019-02-26-FOCUS.html) | FOCUS |  |  |  |  |  |
@@ -94,7 +94,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Median |
-| 1 | 0% | 0% | Last Result |
+| 0 | 98% | 100% | Median |
+| 1 | 2% | 2% | Last Result |
+| 2 | 0% | 0% |  |
 
 
