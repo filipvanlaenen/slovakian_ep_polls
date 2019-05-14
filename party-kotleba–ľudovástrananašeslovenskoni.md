@@ -11,6 +11,7 @@ Last result: **1.7%** (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.3% | 10.0–12.7% | 9.7–13.1% | 9.4–13.4% | 8.9–14.1% |
+| [8–10 May 2019](2019-05-10-AKO.html) | AKO | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [29 April–6 May 2019](2019-05-06-AKO.html) | AKO | 14.0% | 12.7–15.5% | 12.3–15.9% | 12.0–16.3% | 11.4–17.0% |
 | [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS | 11.0% | 9.8–12.4% | 9.5–12.7% | 9.2–13.1% | 8.7–13.7% |
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
@@ -69,6 +70,7 @@ Last result: **0** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–10 May 2019](2019-05-10-AKO.html) | AKO | 2 | 2 | 2 | 2 | 2 |
 | [29 April–6 May 2019](2019-05-06-AKO.html) | AKO | 2 | 2 | 2 | 2 | 1–2 |
 | [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
