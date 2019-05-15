@@ -67,7 +67,7 @@ Last result: **4** seats (General Election of 24 May 2014)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [8–10 May 2019](2019-05-10-AKO.html) | AKO | 2 | 2 | 2 | 2 | 2 |
+| [8–10 May 2019](2019-05-10-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [29 April–6 May 2019](2019-05-06-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–14 April 2019](2019-04-14-FOCUS.html) | FOCUS | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [1–2 April 2019](2019-04-02-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
