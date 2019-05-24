@@ -22,7 +22,7 @@ Only polls for which at least the sample size has been published are included in
 + **SaS:** Sloboda a Solidarita (ECR)
 + **SMK–MKP:** Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)
 + **MOST–HÍD:** MOST–HÍD (EPP)
-+ **SNS:** Slovenská národná strana (EAPN)
++ **SNS:** Slovenská národná strana (ECR)
 + **Kotleba–ĽSNS:** Kotleba–Ľudová strana Naše Slovensko (NI)
 + **PS:** Progresívne Slovensko (ALDE)
 + **SME RODINA:** SME RODINA (EAPN)
