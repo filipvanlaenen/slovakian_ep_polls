@@ -6,7 +6,7 @@ The table below lists all polls registered and analyzed so far.
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 16–21% <br> 2–3 | 7–10% <br> 1 | 5–8% <br> 0–1 | N/A <br> N/A | 7–10% <br> 1 | N/A <br> N/A | 4–6% <br> 0–1 | 6–9% <br> 1 | 10–13% <br> 1–2 | N/A <br> N/A | 4–6% <br> 0–1 | N/A <br> N/A | 13–17% <br> 2–3 | 4–7% <br> 0–1 |
-| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
+| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 17–22% <br> N/A | 6–9% <br> N/A | 5–8% <br> N/A | N/A <br> N/A | 6–10% <br> N/A | 3–5% <br> N/A | 3–6% <br> N/A | 6–9% <br> N/A | 11–15% <br> N/A | N/A <br> N/A | 6–9% <br> N/A | N/A <br> N/A | 16–20% <br> N/A | N/A <br> N/A |
 | [28–31 May 2019](2019-05-31-AKO.html) | AKO | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
