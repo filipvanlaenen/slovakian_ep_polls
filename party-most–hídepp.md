@@ -10,9 +10,9 @@ Last result: **5.8%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.1% | 4.3–6.0% | 4.1–6.2% | 4.0–6.5% | 3.6–6.9% |
+| N/A | [Poll Average](average.html) | 4.8% | 3.9–5.8% | 3.7–6.0% | 3.5–6.3% | 3.1–6.8% |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 5.1% | 4.3–6.0% | 4.1–6.2% | 3.9–6.5% | 3.6–7.0% |
-| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 4.4% | N/A | N/A | N/A | N/A |
+| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 4.4% | 3.7–5.4% | 3.5–5.7% | 3.3–5.9% | 3.0–6.4% |
 | [28–31 May 2019](2019-05-31-AKO.html) | AKO | 4.2% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -22,13 +22,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.3% | 100% |  |
-| 3.5–4.5% | 18% | 99.7% |  |
-| 4.5–5.5% | 56% | 82% | Median |
-| 5.5–6.5% | 24% | 26% | Last Result |
-| 6.5–7.5% | 2% | 2% |  |
+| 2.5–3.5% | 3% | 100% |  |
+| 3.5–4.5% | 34% | 97% |  |
+| 4.5–5.5% | 47% | 63% | Median |
+| 5.5–6.5% | 15% | 16% | Last Result |
+| 6.5–7.5% | 1.1% | 1.1% |  |
 | 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
