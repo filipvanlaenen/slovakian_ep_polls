@@ -41,7 +41,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [28–31 May 2019](2019-05-31-AKO.html) | AKO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [28–31 May 2019](2019-05-31-AKO.html) | AKO | 0 | 0 | 0–1 | 0–1 | 0–1 |
 
 ### Probability Mass Function
 
@@ -51,8 +51,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 70% | 100% | Median |
-| 1 | 30% | 30% | Last Result |
+| 0 | 74% | 100% | Median |
+| 1 | 26% | 26% | Last Result |
 | 2 | 0% | 0% |  |
 
 
