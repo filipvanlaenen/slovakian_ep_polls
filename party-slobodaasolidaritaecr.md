@@ -11,6 +11,7 @@ Last result: **6.7%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 8.6% | 6.8–11.4% | 6.4–11.9% | 6.1–12.3% | 5.6–13.1% |
+| [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.3–9.5% |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 8.5% | 7.5–9.6% | 7.3–10.0% | 7.0–10.2% | 6.6–10.8% |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.4–9.8% | 6.0–10.4% |
@@ -45,6 +46,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1 |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1–2 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 1 | 1 | 1 | 1 | 1–2 |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1 |
