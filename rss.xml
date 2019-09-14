@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 13 Sep 2019 20:38:24 +0200</pubDate>
+    <pubDate>Sat, 14 Sep 2019 16:20:26 +0200</pubDate>
     <item>
       <title>Opinion Poll by AKO, 26–29 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-29-AKO.html</link>
@@ -16,8 +16,18 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-29-AKO.png"
         length="376501"
         type="image/png"/>
-      <pubDate>Fri, 13 Sep 2019 20:38:24 +0200</pubDate>
-      <dc:date>2019-09-13T20:38:24.318669+02:00</dc:date>
+      <pubDate>Sat, 14 Sep 2019 16:20:26 +0200</pubDate>
+      <dc:date>2019-09-14T16:20:26.379893+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by MVK, 12 August 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-12-MVK.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 18.3–23.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 4.3–7.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 5.5–8.7%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 6.9–10.4%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 6.6–10.0%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 4.3–7.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 7.7–11.4%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 11.3–15.5%&lt;/li&gt;&lt;li&gt;Za ľudí (*): 6.4–9.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-12-MVK.png"
+        length="372289"
+        type="image/png"/>
+      <pubDate>Sat, 14 Sep 2019 15:34:37 +0200</pubDate>
+      <dc:date>2019-09-14T15:34:37.270926+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 1–7 August 2019 – Seat Projections for the Parties</title>
@@ -169,6 +179,6 @@
       <pubDate>Sun, 30 Jun 2019 16:29:09 +0200</pubDate>
       <dc:date>2019-06-30T16:29:09.426113+02:00</dc:date>
     </item>
-    <dc:date>2019-09-13T20:38:24.318669+02:00</dc:date>
+    <dc:date>2019-09-14T16:20:26.379893+02:00</dc:date>
   </channel>
 </rss>
