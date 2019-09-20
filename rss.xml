@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 14 Sep 2019 16:20:26 +0200</pubDate>
+    <pubDate>Thu, 19 Sep 2019 07:29:19 +0200</pubDate>
     <item>
       <title>Opinion Poll by AKO, 26–29 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-29-AKO.html</link>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-12-MVK.png"
         length="372289"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2019 15:34:37 +0200</pubDate>
-      <dc:date>2019-09-14T15:34:37.270926+02:00</dc:date>
+      <pubDate>Thu, 19 Sep 2019 07:29:19 +0200</pubDate>
+      <dc:date>2019-09-19T07:29:19.160584+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 1–7 August 2019 – Seat Projections for the Parties</title>
@@ -179,6 +179,6 @@
       <pubDate>Sun, 30 Jun 2019 16:29:09 +0200</pubDate>
       <dc:date>2019-06-30T16:29:09.426113+02:00</dc:date>
     </item>
-    <dc:date>2019-09-14T16:20:26.379893+02:00</dc:date>
+    <dc:date>2019-09-19T07:29:19.160584+02:00</dc:date>
   </channel>
 </rss>
