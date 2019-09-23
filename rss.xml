@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 19 Sep 2019 07:29:19 +0200</pubDate>
+    <pubDate>Mon, 23 Sep 2019 19:28:37 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 26–29 August 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-29-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Za ľudí (*): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-29-AKO-seats.png"
+        length="259526"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 19:28:37 +0200</pubDate>
+      <dc:date>2019-09-23T19:28:37.496428+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 26–29 August 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-29-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-29-AKO-coalitions-seats.png"
+        length="168332"
+        type="image/png"/>
+      <pubDate>Mon, 23 Sep 2019 19:28:37 +0200</pubDate>
+      <dc:date>2019-09-23T19:28:37.496428+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 26–29 August 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-29-AKO.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-08-29-AKO.png"
         length="376501"
         type="image/png"/>
-      <pubDate>Sat, 14 Sep 2019 16:20:26 +0200</pubDate>
-      <dc:date>2019-09-14T16:20:26.379893+02:00</dc:date>
+      <pubDate>Mon, 23 Sep 2019 19:28:37 +0200</pubDate>
+      <dc:date>2019-09-23T19:28:37.496428+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by MVK, 12 August 2019 – Voting Intentions</title>
@@ -179,6 +199,6 @@
       <pubDate>Sun, 30 Jun 2019 16:29:09 +0200</pubDate>
       <dc:date>2019-06-30T16:29:09.426113+02:00</dc:date>
     </item>
-    <dc:date>2019-09-19T07:29:19.160584+02:00</dc:date>
+    <dc:date>2019-09-23T19:28:37.496428+02:00</dc:date>
   </channel>
 </rss>
