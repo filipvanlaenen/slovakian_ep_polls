@@ -43,7 +43,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 0 | 0 | 0 | 0–1 | 0–1 |
+| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 0 | 0 | 0 | 0 | 0–1 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
