@@ -52,9 +52,9 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–17 September 2019](2019-09-17-Focus.html) | Focus | 1 | 1 | 1 | 1–2 | 1–2 |
+| [11–17 September 2019](2019-09-17-Focus.html) | Focus | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [12 August 2019](2019-08-12-MVK.html) | MVK | 1 | 1 | 1 | 1–2 | 1–2 |
+| [12 August 2019](2019-08-12-MVK.html) | MVK | 1 | 1 | 1 | 1 | 1–2 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 2 | 2 | 2 | 1–2 | 1–2 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
