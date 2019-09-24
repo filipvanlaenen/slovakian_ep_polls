@@ -11,6 +11,7 @@ Last result: **24.1%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 19.1% | 17.3–21.2% | 16.8–21.8% | 16.5–22.3% | 15.8–23.2% |
+| [11–17 September 2019](2019-09-17-Focus.html) | Focus | 21.7% | 20.1–23.4% | 19.7–23.9% | 19.3–24.3% | 18.5–25.2% |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.5–23.0% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 21.8% | 20.2–23.5% | 19.7–24.0% | 19.3–24.4% | 18.6–25.3% |
@@ -48,6 +49,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
+| [11–17 September 2019](2019-09-17-Focus.html) | Focus | 3 | 3 | 3 | 3 | 3–4 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 3 | 3 | 3 | 2–3 | 2–3 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 3 | 3 | 3–4 | 3–4 | 2–4 |
