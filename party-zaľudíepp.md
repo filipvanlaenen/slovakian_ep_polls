@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.2–9.5% | 5.8–9.9% | 5.5–10.2% | 5.0–11.0% |
+| N/A | [Poll Average](average.html) | 8.0% | 6.2–12.6% | 5.8–13.1% | 5.5–13.6% | 5.0–14.4% |
+| [7–10 October 2019](2019-10-10-AKO.html) | AKO | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
+| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 6.5% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.8% |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 8.8% | 7.7–10.1% | 7.5–10.4% | 7.2–10.7% | 6.7–11.4% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
@@ -33,13 +35,16 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 3% | 99.9% |  |
 | 5.5–6.5% | 15% | 97% |  |
-| 6.5–7.5% | 24% | 82% |  |
-| 7.5–8.5% | 28% | 58% | Median |
-| 8.5–9.5% | 21% | 30% |  |
-| 9.5–10.5% | 7% | 9% |  |
-| 10.5–11.5% | 1.2% | 1.3% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 6.5–7.5% | 22% | 82% |  |
+| 7.5–8.5% | 18% | 60% | Median |
+| 8.5–9.5% | 7% | 42% |  |
+| 9.5–10.5% | 3% | 34% |  |
+| 10.5–11.5% | 8% | 31% |  |
+| 11.5–12.5% | 12% | 23% |  |
+| 12.5–13.5% | 8% | 11% |  |
+| 13.5–14.5% | 2% | 3% |  |
+| 14.5–15.5% | 0.3% | 0.4% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -50,9 +55,11 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 0–2 | 0–2 |
+| [7–10 October 2019](2019-10-10-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1–2 |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 1 | 1 | 1 | 1–2 | 1–2 |
+| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS |  |  |  |  |  |
@@ -69,8 +76,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 4% | 100% | Last Result |
-| 1 | 93% | 96% | Median |
-| 2 | 2% | 2% |  |
+| 1 | 67% | 96% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 

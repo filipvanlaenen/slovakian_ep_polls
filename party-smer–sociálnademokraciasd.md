@@ -10,7 +10,9 @@ Last result: **24.1%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.7% | 18.8–22.7% | 18.2–23.3% | 17.8–23.8% | 17.0–24.7% |
+| N/A | [Poll Average](average.html) | 20.9% | 19.1–22.8% | 18.6–23.3% | 18.2–23.8% | 17.4–24.7% |
+| [7–10 October 2019](2019-10-10-AKO.html) | AKO | 20.1% | 18.5–21.8% | 18.1–22.3% | 17.7–22.7% | 17.0–23.5% |
+| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 20.0% | 18.4–21.7% | 18.0–22.2% | 17.6–22.6% | 16.9–23.4% |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 21.7% | 20.1–23.4% | 19.7–23.9% | 19.3–24.3% | 18.5–25.2% |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 19.6% | 18.1–21.3% | 17.6–21.8% | 17.3–22.2% | 16.5–23.0% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 20.7% | 19.1–22.4% | 18.7–22.9% | 18.3–23.3% | 17.6–24.2% |
@@ -26,17 +28,16 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 14.5–15.5% | 0% | 100% |  |
-| 15.5–16.5% | 0.2% | 100% |  |
-| 16.5–17.5% | 1.4% | 99.8% |  |
-| 17.5–18.5% | 6% | 98% |  |
-| 18.5–19.5% | 15% | 92% |  |
-| 19.5–20.5% | 23% | 77% |  |
-| 20.5–21.5% | 24% | 54% | Median |
-| 21.5–22.5% | 18% | 30% |  |
-| 22.5–23.5% | 9% | 12% |  |
-| 23.5–24.5% | 3% | 3% | Last Result |
-| 24.5–25.5% | 0.6% | 0.6% |  |
+| 15.5–16.5% | 0.1% | 100% |  |
+| 16.5–17.5% | 0.7% | 99.9% |  |
+| 17.5–18.5% | 4% | 99.3% |  |
+| 18.5–19.5% | 13% | 95% |  |
+| 19.5–20.5% | 23% | 82% |  |
+| 20.5–21.5% | 27% | 59% | Median |
+| 21.5–22.5% | 19% | 32% |  |
+| 22.5–23.5% | 9% | 13% |  |
+| 23.5–24.5% | 3% | 4% | Last Result |
+| 24.5–25.5% | 0.6% | 0.7% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -49,7 +50,9 @@ Last result: **4** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [7–10 October 2019](2019-10-10-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–4 | 2–4 |
+| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 3 | 3 | 3 | 3 | 2–3 |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 3 | 3 | 3 | 3 | 2–3 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -67,9 +70,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.3% | 100% |  |
-| 3 | 82% | 99.7% | Median |
-| 4 | 18% | 18% | Last Result |
+| 2 | 5% | 100% |  |
+| 3 | 76% | 95% | Median |
+| 4 | 20% | 20% | Last Result |
 | 5 | 0% | 0% |  |
 
 
