@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 25 Oct 2019 21:54:27 +0200</pubDate>
+    <pubDate>Mon, 28 Oct 2019 16:35:28 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Focus, 15–22 October 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-10-22-Focus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 20.7–25.9%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 4.2–7.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 5.0–8.0%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 9.0–12.8%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 6.2–9.4%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.5–4.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 9.8–13.8%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 7.8–11.5%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.7–3.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-10-22-Focus.png"
+        length="385216"
+        type="image/png"/>
+      <pubDate>Mon, 28 Oct 2019 16:35:28 +0100</pubDate>
+      <dc:date>2019-10-28T16:35:28.477363+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 7–10 October 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-10-10-AKO.html#seats</link>
@@ -209,6 +219,6 @@
       <pubDate>Sun, 30 Jun 2019 16:29:09 +0200</pubDate>
       <dc:date>2019-06-30T16:29:09.426113+02:00</dc:date>
     </item>
-    <dc:date>2019-10-25T21:54:27.354158+02:00</dc:date>
+    <dc:date>2019-10-28T16:35:28.477363+01:00</dc:date>
   </channel>
 </rss>
