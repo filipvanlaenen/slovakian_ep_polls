@@ -11,7 +11,7 @@ Last result: **6.5%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.4% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
-| [15–22 October 2019](2019-10-22-Focus.html) | Focus | 3.4% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
+| [15–22 October 2019](2019-10-22-Focus.html) | Focus | 3.2% | 2.8–4.3% | 2.6–4.5% | 2.5–4.7% | 2.2–5.2% |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 3.6% | 2.9–4.5% | 2.8–4.7% | 2.6–5.0% | 2.3–5.4% |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
