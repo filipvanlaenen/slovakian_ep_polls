@@ -33,7 +33,7 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 2% | 100% |  |
 | 4.5–5.5% | 16% | 98% |  |
 | 5.5–6.5% | 29% | 82% |  |
-| 6.5–7.5% | 17% | 54% | Median |
+| 6.5–7.5% | 17% | 53% | Median |
 | 7.5–8.5% | 8% | 37% |  |
 | 8.5–9.5% | 13% | 28% |  |
 | 9.5–10.5% | 11% | 15% |  |
@@ -50,13 +50,13 @@ Last result: **2** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
-| [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS |  |  |  |  |  |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
+| [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 0–1 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1 |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1 |
-| [12 August 2019](2019-08-12-MVK.html) | MVK | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [12 August 2019](2019-08-12-MVK.html) | MVK | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1–2 |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 1 | 1 | 1–2 | 1–2 | 1–2 |
@@ -71,9 +71,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 13% | 100% |  |
-| 1 | 54% | 87% | Median |
-| 2 | 33% | 33% | Last Result |
+| 0 | 9% | 100% |  |
+| 1 | 79% | 91% | Median |
+| 2 | 12% | 12% | Last Result |
 | 3 | 0% | 0% |  |
 
 
