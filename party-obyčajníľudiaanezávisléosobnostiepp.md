@@ -16,7 +16,7 @@ Last result: **7.5%** (General Election of 25 May 2019)
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
-| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 6.8% | N/A | N/A | N/A | N/A |
+| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 6.0% | N/A | N/A | N/A | N/A |
@@ -56,7 +56,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 1 | 1 | 1 | 0–1 | 0–1 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 1 | 1 | 1 | 0–1 | 0–1 |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 1 | 1 | 1 | 1 | 0–2 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS |  |  |  |  |  |
