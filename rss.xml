@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 24 Nov 2019 14:32:51 +0100</pubDate>
+    <pubDate>Thu, 28 Nov 2019 20:23:05 +0100</pubDate>
     <item>
       <title>Opinion Poll by Polis, 9–13 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-11-13-Polis.html</link>
@@ -98,6 +98,16 @@
         type="image/png"/>
       <pubDate>Fri, 25 Oct 2019 17:16:37 +0200</pubDate>
       <dc:date>2019-10-25T17:16:37.437537+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 11–17 September 2019 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-09-17-FOCUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 19.3–24.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 5.1–8.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 8.9–12.7%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 5.8–9.0%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.5–8.6%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 11.4–15.6%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 5.2–8.2%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.4–3.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-09-17-FOCUS.png"
+        length="393586"
+        type="image/png"/>
+      <pubDate>Thu, 28 Nov 2019 20:23:05 +0100</pubDate>
+      <dc:date>2019-11-28T20:23:05.58916+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 26–29 August 2019 – Voting Intentions</title>
@@ -269,6 +279,6 @@
       <pubDate>Sun, 30 Jun 2019 16:29:09 +0200</pubDate>
       <dc:date>2019-06-30T16:29:09.426113+02:00</dc:date>
     </item>
-    <dc:date>2019-11-24T14:32:51.070022+01:00</dc:date>
+    <dc:date>2019-11-28T20:23:05.58916+01:00</dc:date>
   </channel>
 </rss>
