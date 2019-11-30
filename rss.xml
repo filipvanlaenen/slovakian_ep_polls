@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 28 Nov 2019 20:23:05 +0100</pubDate>
+    <pubDate>Sat, 30 Nov 2019 16:11:19 +0100</pubDate>
     <item>
       <title>Opinion Poll by Polis, 9–13 November 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-11-13-Polis.html</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-11-13-Polis.png"
         length="407524"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 12:00:01 +0100</pubDate>
-      <dc:date>2019-11-24T12:00:01.782512+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 15:57:28 +0100</pubDate>
+      <dc:date>2019-11-30T15:57:28.769833+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 30 October–6 November 2019 – Voting Intentions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-11-06-FOCUS.png"
         length="416866"
         type="image/png"/>
-      <pubDate>Sun, 24 Nov 2019 14:32:51 +0100</pubDate>
-      <dc:date>2019-11-24T14:32:51.070022+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 16:11:19 +0100</pubDate>
+      <dc:date>2019-11-30T16:11:19.10373+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 15–22 October 2019 – Seat Projections for the Parties</title>
@@ -106,8 +106,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-09-17-FOCUS.png"
         length="393586"
         type="image/png"/>
-      <pubDate>Thu, 28 Nov 2019 20:23:05 +0100</pubDate>
-      <dc:date>2019-11-28T20:23:05.58916+01:00</dc:date>
+      <pubDate>Sat, 30 Nov 2019 11:22:21 +0100</pubDate>
+      <dc:date>2019-11-30T11:22:21.079021+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 26–29 August 2019 – Voting Intentions</title>
@@ -279,6 +279,6 @@
       <pubDate>Sun, 30 Jun 2019 16:29:09 +0200</pubDate>
       <dc:date>2019-06-30T16:29:09.426113+02:00</dc:date>
     </item>
-    <dc:date>2019-11-28T20:23:05.58916+01:00</dc:date>
+    <dc:date>2019-11-30T16:11:19.10373+01:00</dc:date>
   </channel>
 </rss>
