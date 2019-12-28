@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.9% | 1.9–3.9% | 1.7–4.1% | 1.6–4.4% | 1.3–4.8% |
+| [7–11 December 2019](2019-12-11-Polis.html) | Polis | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.5–3.2% | 1.3–3.6% |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
 | [19–25 November 2019](2019-11-25-AKO.html) | AKO | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [9–13 November 2019](2019-11-13-Polis.html) | Polis | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
@@ -51,6 +52,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–11 December 2019](2019-12-11-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [19–25 November 2019](2019-11-25-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [9–13 November 2019](2019-11-13-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |

@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 11.4% | 9.9–13.2% | 9.5–13.7% | 9.2–14.1% | 8.6–14.9% |
+| [7–11 December 2019](2019-12-11-Polis.html) | Polis | 10.1% | 9.0–11.3% | 8.7–11.7% | 8.5–12.0% | 8.0–12.6% |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 9.2% | 8.2–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
 | [19–25 November 2019](2019-11-25-AKO.html) | AKO | 12.5% | 11.2–13.9% | 10.9–14.3% | 10.6–14.7% | 10.0–15.4% |
 | [9–13 November 2019](2019-11-13-Polis.html) | Polis | 11.2% | 10.0–12.5% | 9.6–12.9% | 9.4–13.3% | 8.8–13.9% |
@@ -19,7 +20,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 9.1% | 8.0–10.4% | 7.7–10.7% | 7.5–11.1% | 7.0–11.7% |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 6.5% | 5.6–7.6% | 5.4–7.9% | 5.2–8.2% | 4.8–8.8% |
-| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 8.5% | 7.7–10.1% | 7.5–10.4% | 7.2–10.7% | 6.7–11.4% |
+| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.5–11.0% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 5.0% | N/A | N/A | N/A | N/A |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 5.2% | N/A | N/A | N/A | N/A |
@@ -62,15 +63,16 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
+| [7–11 December 2019](2019-12-11-Polis.html) | Polis | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [19–25 November 2019](2019-11-25-AKO.html) | AKO | 2 | 2 | 2 | 2 | 2 |
 | [9–13 November 2019](2019-11-13-Polis.html) | Polis | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1–2 |
+| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS |  |  |  |  |  |
