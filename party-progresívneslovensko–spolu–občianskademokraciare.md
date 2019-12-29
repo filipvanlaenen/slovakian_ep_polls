@@ -71,7 +71,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 2 | 2 | 2 | 1–2 | 1–2 |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2–3 | 1–3 |
+| [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 1–3 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 2 | 2 | 2 | 2–3 | 2–3 |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 1–3 |
