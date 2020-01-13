@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 01 Jan 2020 19:14:06 +0100</pubDate>
+    <pubDate>Sat, 11 Jan 2020 10:18:44 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by TA3, 9 January 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-01-09-TA3.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 1 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-01-09-TA3-seats.png"
+        length="313043"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jan 2020 10:18:44 +0100</pubDate>
+      <dc:date>2020-01-11T10:18:44.178714+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TA3, 9 January 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-01-09-TA3.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-01-09-TA3-coalitions-seats.png"
+        length="171742"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jan 2020 10:18:44 +0100</pubDate>
+      <dc:date>2020-01-11T10:18:44.178714+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by TA3, 9 January 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-01-09-TA3.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 15.5–20.2%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 5.4–8.5%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 4.9–7.9%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 9.8–13.9%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 6.1–9.4%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 3.0–5.5%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.9–7.9%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 8.7–12.5%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 2.3–4.5%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 1.1–2.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-01-09-TA3.png"
+        length="412709"
+        type="image/png"/>
+      <pubDate>Sat, 11 Jan 2020 10:18:44 +0100</pubDate>
+      <dc:date>2020-01-11T10:18:44.178714+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Polis, 7–11 December 2019 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-12-11-Polis.html#seats</link>
@@ -489,6 +519,6 @@
       <pubDate>Sun, 30 Jun 2019 16:29:09 +0200</pubDate>
       <dc:date>2019-06-30T16:29:09.426113+02:00</dc:date>
     </item>
-    <dc:date>2020-01-01T19:14:06.767019+01:00</dc:date>
+    <dc:date>2020-01-11T10:18:44.178714+01:00</dc:date>
   </channel>
 </rss>
