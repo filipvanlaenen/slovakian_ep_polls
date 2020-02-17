@@ -36,7 +36,7 @@ Last result: **24.1%** (General Election of 25 May 2019)
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 20.3% | 18.8–22.0% | 18.4–22.5% | 18.0–22.9% | 17.3–23.7% |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 18.3% | 16.9–19.8% | 16.5–20.2% | 16.2–20.6% | 15.5–21.4% |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 19.7% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.6–23.0% |
-| [28–31 May 2019](2019-05-31-AKO.html) | AKO | 18.7% | N/A | N/A | N/A | N/A |
+| [28–31 May 2019](2019-05-31-AKO.html) | AKO | 18.7% | 17.2–20.4% | 16.8–20.8% | 16.4–21.2% | 15.7–22.1% |
 
 ### Probability Mass Function
 
@@ -95,7 +95,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 3 | 3 | 3 | 2–3 | 2–4 |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [28–31 May 2019](2019-05-31-AKO.html) | AKO |  |  |  |  |  |
+| [28–31 May 2019](2019-05-31-AKO.html) | AKO | 3 | 3 | 3 | 3 | 2–4 |
 
 ### Probability Mass Function
 
