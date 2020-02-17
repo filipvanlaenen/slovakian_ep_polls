@@ -35,7 +35,7 @@ Last result: **24.1%** (General Election of 25 May 2019)
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 21.8% | 20.2–23.5% | 19.7–24.0% | 19.3–24.4% | 18.6–25.3% |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 20.3% | 18.8–22.0% | 18.4–22.5% | 18.0–22.9% | 17.3–23.7% |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 18.3% | 16.9–19.8% | 16.5–20.2% | 16.2–20.6% | 15.5–21.4% |
-| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 19.7% | 18.1–21.4% | 17.7–21.8% | 17.3–22.2% | 16.6–23.0% |
+| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 19.7% | 18.1–21.3% | 17.7–21.8% | 17.3–22.2% | 16.6–23.0% |
 | [28–31 May 2019](2019-05-31-AKO.html) | AKO | 18.7% | N/A | N/A | N/A | N/A |
 
 ### Probability Mass Function
@@ -79,7 +79,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [15–17 January 2020](2020-01-17-AKO.html) | AKO | 3 | 3 | 3 | 3 | 2–4 |
 | [10–15 January 2020](2020-01-15-Polis.html) | Polis | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
 | [10–14 January 2020](2020-01-14-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [7–9 January 2020](2020-01-09-AKO.html) | AKO <br> TA3 | 3 | 3 | 3 | 3 | 2–4 |
+| [7–9 January 2020](2020-01-09-AKO.html) | AKO <br> TA3 | 3 | 3 | 3 | 3 | 3–4 |
 | [7–11 December 2019](2019-12-11-Polis.html) | Polis | 3 | 2–3 | 2–3 | 2–3 | 2–4 |
 | [2–9 December 2019](2019-12-09-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–25 November 2019](2019-11-25-AKO.html) | AKO | 3 | 3 | 3 | 3 | 3–4 |
@@ -94,7 +94,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 3 | 3 | 3 | 2–3 | 2–4 |
-| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [28–31 May 2019](2019-05-31-AKO.html) | AKO |  |  |  |  |  |
 
 ### Probability Mass Function
