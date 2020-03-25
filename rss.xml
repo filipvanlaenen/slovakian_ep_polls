@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 20 Mar 2020 23:37:03 +0100</pubDate>
+    <pubDate>Wed, 25 Mar 2020 18:24:03 +0100</pubDate>
     <item>
       <title>Opinion Poll by AKO, 11–13 February 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO.html#seats</link>
@@ -530,14 +530,34 @@
       <dc:date>2020-02-16T11:55:15.416037+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by FOCUS, 1–11 June 2019 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-11-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-11-FOCUS-seats.png"
+        length="212074"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2020 18:24:03 +0100</pubDate>
+      <dc:date>2020-03-25T18:24:03.35008+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 1–11 June 2019 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-11-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-11-FOCUS-coalitions-seats.png"
+        length="134764"
+        type="image/png"/>
+      <pubDate>Wed, 25 Mar 2020 18:24:03 +0100</pubDate>
+      <dc:date>2020-03-25T18:24:03.35008+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by FOCUS, 1–11 June 2019 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-11-FOCUS.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 17.3–22.2%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 6.4–9.8%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 5.3–8.4%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 10.6–14.7%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 5.8–9.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 15.6–20.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-11-FOCUS.png"
         length="360151"
         type="image/png"/>
-      <pubDate>Mon, 17 Feb 2020 06:48:13 +0100</pubDate>
-      <dc:date>2020-02-17T06:48:13.396742+01:00</dc:date>
+      <pubDate>Wed, 25 Mar 2020 18:24:03 +0100</pubDate>
+      <dc:date>2020-03-25T18:24:03.35008+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 28–31 May 2019 – Voting Intentions</title>
@@ -549,6 +569,6 @@
       <pubDate>Mon, 17 Feb 2020 20:36:42 +0100</pubDate>
       <dc:date>2020-02-17T20:36:42.255276+01:00</dc:date>
     </item>
-    <dc:date>2020-03-20T23:37:03.22099+01:00</dc:date>
+    <dc:date>2020-03-25T18:24:03.35008+01:00</dc:date>
   </channel>
 </rss>
