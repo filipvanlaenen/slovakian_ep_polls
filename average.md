@@ -335,3 +335,291 @@ Only polls for which at least the sample size has been published are included in
 | <a href="#dobrá-voľba-(*)">Dobrá voľba (*)</a> | 0 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#vlasť-(*)">VLASŤ (*)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
 
+### SMER–sociálna demokracia (S&D)
+
+*For a full overview of the results for this party, see the [SMER–sociálna demokracia (S&D)](party-smer–sociálnademokraciasd.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-smer–sociálnademokraciasd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 5% | 100% |  |
+| 3 | 69% | 95% | Median |
+| 4 | 26% | 26% | Last Result |
+| 5 | 0.5% | 0.5% |  |
+| 6 | 0% | 0% |  |
+
+### Kresťanskodemokratické hnutie (EPP)
+
+*For a full overview of the results for this party, see the [Kresťanskodemokratické hnutie (EPP)](party-kresťanskodemokratickéhnutieepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-kresťanskodemokratickéhnutieepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 31% | 100% |  |
+| 1 | 66% | 69% | Median |
+| 2 | 3% | 3% | Last Result |
+| 3 | 0% | 0% |  |
+
+### OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)
+
+*For a full overview of the results for this party, see the [OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)](party-obyčajníľudiaanezávisléosobnostiepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-obyčajníľudiaanezávisléosobnostiepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 1 | 8% | 100% | Last Result |
+| 2 | 62% | 92% | Median |
+| 3 | 31% | 31% |  |
+| 4 | 0% | 0% |  |
+
+### NOVA (ECR)
+
+*For a full overview of the results for this party, see the [NOVA (ECR)](party-novaecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-novaecr.png "Seats Probability Mass Function")
+
+### Sloboda a Solidarita (ECR)
+
+*For a full overview of the results for this party, see the [Sloboda a Solidarita (ECR)](party-slobodaasolidaritaecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-slobodaasolidaritaecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 37% | 100% |  |
+| 1 | 63% | 63% | Last Result, Median |
+| 2 | 0% | 0% |  |
+
+### Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)
+
+*For a full overview of the results for this party, see the [Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)](party-stranamaďarskejkoalície–magyarkoalíciópártjaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-stranamaďarskejkoalície–magyarkoalíciópártjaepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 96% | 100% | Median |
+| 1 | 4% | 4% | Last Result |
+| 2 | 0% | 0% |  |
+
+### MOST–HÍD (EPP)
+
+*For a full overview of the results for this party, see the [MOST–HÍD (EPP)](party-most–hídepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-most–hídepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 83% | 100% | Median |
+| 1 | 17% | 17% | Last Result |
+| 2 | 0% | 0% |  |
+
+### Slovenská národná strana (ECR)
+
+*For a full overview of the results for this party, see the [Slovenská národná strana (ECR)](party-slovenskánárodnástranaecr.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-slovenskánárodnástranaecr.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 44% | 100% | Last Result |
+| 1 | 56% | 56% | Median |
+| 2 | 0% | 0% |  |
+
+### Kotleba–Ľudová strana Naše Slovensko (NI)
+
+*For a full overview of the results for this party, see the [Kotleba–Ľudová strana Naše Slovensko (NI)](party-kotleba–ľudovástrananašeslovenskoni.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-kotleba–ľudovástrananašeslovenskoni.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 6% | 100% |  |
+| 2 | 87% | 94% | Median |
+| 3 | 7% | 7% |  |
+| 4 | 0% | 0% |  |
+
+### Progresívne Slovensko (RE)
+
+*For a full overview of the results for this party, see the [Progresívne Slovensko (RE)](party-progresívneslovenskore.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-progresívneslovenskore.png "Seats Probability Mass Function")
+
+### SME RODINA (ID)
+
+*For a full overview of the results for this party, see the [SME RODINA (ID)](party-smerodinaid.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-smerodinaid.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 1.0% | 100% | Last Result |
+| 1 | 88% | 99.0% | Median |
+| 2 | 11% | 11% |  |
+| 3 | 0% | 0% |  |
+
+### SPOLU–Občianska Demokracia (EPP)
+
+*For a full overview of the results for this party, see the [SPOLU–Občianska Demokracia (EPP)](party-spolu–občianskademokraciaepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-spolu–občianskademokraciaepp.png "Seats Probability Mass Function")
+
+### Progresívne Slovensko–SPOLU–Občianska Demokracia (RE)
+
+*For a full overview of the results for this party, see the [Progresívne Slovensko–SPOLU–Občianska Demokracia (RE)](party-progresívneslovensko–spolu–občianskademokraciare.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-progresívneslovensko–spolu–občianskademokraciare.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 39% | 100% |  |
+| 2 | 61% | 61% | Median |
+| 3 | 0% | 0% |  |
+
+### Za ľudí (EPP)
+
+*For a full overview of the results for this party, see the [Za ľudí (EPP)](party-zaľudíepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-zaľudíepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 42% | 100% |  |
+| 2 | 58% | 58% | Median |
+| 3 | 0.1% | 0.1% |  |
+| 4 | 0% | 0% |  |
+
+### Dobrá voľba (*)
+
+*For a full overview of the results for this party, see the [Dobrá voľba (*)](party-dobrávoľba.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-dobrávoľba.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 11% | 11% |  |
+| 2 | 0% | 0% |  |
+
+### VLASŤ (*)
+
+*For a full overview of the results for this party, see the [VLASŤ (*)](party-vlasť.html) page.*
+
+![Graph with seats probability mass function not yet produced](average-seats-pmf-vlasť.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 99.4% | 100% | Last Result, Median |
+| 1 | 0.6% | 0.6% |  |
+| 2 | 0% | 0% |  |
+
+
+## Coalitions
+
+![Graph with coalitions seats not yet produced](average-coalitions-seats.png "Coalitions Seats")
+
+### Confidence Intervals
+
+| Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
+|:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
+| Kresťanskodemokratické hnutie (EPP) – OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP) – Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) – MOST–HÍD (EPP) – Za ľudí (EPP) | 5 | 5 | 0% | 4–6 | 4–6 | 4–6 | 3–6 |
+| SMER–sociálna demokracia (S&D) | 4 | 3 | 0% | 3–4 | 3–4 | 2–4 | 2–4 |
+| Kotleba–Ľudová strana Naše Slovensko (NI) | 0 | 2 | 0% | 2 | 1–3 | 1–3 | 1–3 |
+| Progresívne Slovensko–SPOLU–Občianska Demokracia (RE) | 0 | 2 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
+| SME RODINA (ID) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 0–2 |
+| NOVA (ECR) – Sloboda a Solidarita (ECR) – Slovenská národná strana (ECR) | 2 | 1 | 0% | 1–2 | 0–2 | 0–2 | 0–2 |
+| Dobrá voľba (*) – VLASŤ (*) | 0 | 0 | 0% | 0–1 | 0–1 | 0–1 | 0–1 |
+
+### Kresťanskodemokratické hnutie (EPP) – OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP) – Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) – MOST–HÍD (EPP) – Za ľudí (EPP)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-kdh–oľano–smk–mkp–most–híd–zľ.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 3 | 0.8% | 100% |  |
+| 4 | 36% | 99.2% |  |
+| 5 | 51% | 63% | Last Result, Median |
+| 6 | 12% | 12% |  |
+| 7 | 0.2% | 0.2% |  |
+| 8 | 0% | 0% | Majority |
+
+### SMER–sociálna demokracia (S&D)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-smer–sd.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 2 | 5% | 100% |  |
+| 3 | 69% | 95% | Median |
+| 4 | 26% | 26% | Last Result |
+| 5 | 0.5% | 0.5% |  |
+| 6 | 0% | 0% |  |
+
+### Kotleba–Ľudová strana Naše Slovensko (NI)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-kotleba–ľsns.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 6% | 100% |  |
+| 2 | 87% | 94% | Median |
+| 3 | 7% | 7% |  |
+| 4 | 0% | 0% |  |
+
+### Progresívne Slovensko–SPOLU–Občianska Demokracia (RE)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-ps–spolu.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0% | 100% | Last Result |
+| 1 | 39% | 100% |  |
+| 2 | 61% | 61% | Median |
+| 3 | 0% | 0% |  |
+
+### SME RODINA (ID)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-smerodina.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 1.0% | 100% | Last Result |
+| 1 | 88% | 99.0% | Median |
+| 2 | 11% | 11% |  |
+| 3 | 0% | 0% |  |
+
+### NOVA (ECR) – Sloboda a Solidarita (ECR) – Slovenská národná strana (ECR)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-nova–sas–sns.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 8% | 100% |  |
+| 1 | 64% | 92% |  |
+| 2 | 28% | 28% | Last Result, Median |
+| 3 | 0% | 0% |  |
+
+### Dobrá voľba (*) – VLASŤ (*)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-dv–v.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 89% | 100% | Last Result, Median |
+| 1 | 11% | 11% |  |
+| 2 | 0% | 0% |  |
+
+
+## Technical Information
+
++ **Number of polls included in this average:** 4
++ **Lowest number of simulations done in a poll included in this average:** 1,048,576
++ **Total number of simulations done in the polls included in this average:** 4,194,304
++ **Error estimate:** 2.97%
