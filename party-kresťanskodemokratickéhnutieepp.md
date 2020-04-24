@@ -14,6 +14,7 @@ Last result: **13.2%** (General Election of 25 May 2019)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 4.1% | 3.4–5.0% | 3.2–5.2% | 3.1–5.5% | 2.8–5.9% |
+| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 4.1% | N/A | N/A | N/A | N/A |
 | [11–13 February 2020](2020-02-13-AKO.html) | AKO | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
 | [6–12 February 2020](2020-02-12-FOCUS.html) | FOCUS | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
 | [3–6 February 2020](2020-02-06-AKO.html) | AKO | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
@@ -74,6 +75,7 @@ Last result: **2** seats (General Election of 25 May 2019)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [11–13 February 2020](2020-02-13-AKO.html) | AKO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 February 2020](2020-02-12-FOCUS.html) | FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–6 February 2020](2020-02-06-AKO.html) | AKO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -91,7 +93,7 @@ Last result: **2** seats (General Election of 25 May 2019)
 | [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 0–2 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1 |
+| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1–2 |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1–2 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 2 | 1–2 | 1–2 | 1–2 | 1–2 |

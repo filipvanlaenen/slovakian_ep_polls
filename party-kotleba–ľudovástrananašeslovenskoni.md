@@ -14,6 +14,7 @@ Last result: **1.7%** (General Election of 25 May 2019)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 9.2% | 8.1–10.4% | 7.8–10.8% | 7.5–11.1% | 7.0–11.7% |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.7% |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 7.5% | 6.6–8.6% | 6.3–8.9% | 6.1–9.2% | 5.7–9.8% |
+| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 7.3% | N/A | N/A | N/A | N/A |
 | [11–13 February 2020](2020-02-13-AKO.html) | AKO | 10.3% | 9.2–11.6% | 8.8–12.0% | 8.6–12.3% | 8.0–13.0% |
 | [6–12 February 2020](2020-02-12-FOCUS.html) | FOCUS | 12.2% | 11.0–13.7% | 10.7–14.1% | 10.3–14.4% | 9.8–15.1% |
 | [3–6 February 2020](2020-02-06-AKO.html) | AKO | 11.8% | 10.6–13.2% | 10.2–13.6% | 9.9–14.0% | 9.4–14.6% |
@@ -77,6 +78,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1 |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [11–13 February 2020](2020-02-13-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–12 February 2020](2020-02-12-FOCUS.html) | FOCUS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [3–6 February 2020](2020-02-06-AKO.html) | AKO | 2 | 2 | 2 | 1–2 | 1–3 |
@@ -94,7 +96,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 2 | 2 | 2 | 1–2 | 1–2 |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 2 | 2 | 2 | 2 | 1–2 |
+| [18–25 September 2019](2019-09-25-AKO.html) | AKO | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
