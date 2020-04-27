@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 0.0% | N/A | N/A | N/A | N/A |
-| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 2.4% | N/A | N/A | N/A | N/A |
+| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.5% | 1.4–3.9% |
 | [11–13 February 2020](2020-02-13-AKO.html) | AKO | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [6–12 February 2020](2020-02-12-FOCUS.html) | FOCUS | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.6–5.9% |
 | [3–6 February 2020](2020-02-06-AKO.html) | AKO | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
@@ -69,7 +69,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis |  |  |  |  |  |
-| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS |  |  |  |  |  |
+| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [11–13 February 2020](2020-02-13-AKO.html) | AKO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 February 2020](2020-02-12-FOCUS.html) | FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–6 February 2020](2020-02-06-AKO.html) | AKO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
