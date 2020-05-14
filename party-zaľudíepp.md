@@ -88,7 +88,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [9–13 November 2019](2019-11-13-Polis.html) | Polis | 2 | 2 | 2 | 1–3 | 1–3 |
 | [30 October–6 November 2019](2019-11-06-FOCUS.html) | FOCUS | 2 | 2 | 2 | 1–2 | 1–2 |
 | [15–22 October 2019](2019-10-22-FOCUS.html) | FOCUS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–10 October 2019](2019-10-10-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–10 October 2019](2019-10-10-AKO.html) | AKO | 2 | 2 | 2 | 2 | 2–3 |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [26–29 August 2019](2019-08-29-AKO.html) | AKO | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
