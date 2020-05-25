@@ -1,12 +1,12 @@
 # Overview
 
-The table below lists the most recent polls (less than 42 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 72 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | Smer–SD | KDH | OĽaNO | NOVA | SaS | SMK–MKP | MOST–HÍD | SNS | Kotleba–ĽSNS | PS | SME RODINA | SPOLU | PS–SPOLU | ZĽ | DV | V |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 17–24% <br> 3–4 | 3–6% <br> 0–1 | 22–32% <br> 4–5 | N/A <br> N/A | 6–11% <br> 1–2 | 2–6% <br> 0–1 | 0–3% <br> 0 | 1–3% <br> 0 | 5–11% <br> 1–2 | N/A <br> N/A | 7–13% <br> 1–2 | N/A <br> N/A | 6–9% <br> 1–2 | 2–6% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 |
-| [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 19–24% <br> 3–5 | 3–6% <br> 0–1 | 22–27% <br> 4–5 | N/A <br> N/A | 5–9% <br> 1 | 2–4% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 | 8–11% <br> 1–2 | N/A <br> N/A | 10–14% <br> 2 | N/A <br> N/A | 6–9% <br> 1–2 | 2–5% <br> 0 | 1–2% <br> 0 | 2–3% <br> 0 |
+| N/A | [Poll Average](average.html) | 17–24% <br> 3–4 | 3–6% <br> 0–1 | 21–32% <br> 4–5 | N/A <br> N/A | 7–11% <br> 1–2 | 3–6% <br> 0–1 | 0–2% <br> 0 | 1–3% <br> 0 | 5–11% <br> 1–2 | N/A <br> N/A | 7–13% <br> 1–2 | N/A <br> N/A | 6–9% <br> 1 | 2–6% <br> 0–1 | 1–3% <br> 0 | 1–3% <br> 0 |
+| [14–21 May 2020](2020-05-21-FOCUS.html) | FOCUS | 19–24% <br> 4 | 4–6% <br> 0 | 20–26% <br> 4 | N/A <br> N/A | 6–10% <br> 1 | 3–6% <br> 0 | 1–2% <br> 0 | 1–2% <br> 0 | 8–12% <br> 2 | N/A <br> N/A | 9–13% <br> 2 | N/A <br> N/A | 5–8% <br> 1 | 3–6% <br> 0 | 1–3% <br> 0 | 1–2% <br> 0 |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 16–21% <br> 3 | 3–5% <br> 0 | 27–33% <br> 5–6 | N/A <br> N/A | 8–12% <br> 1–2 | 3–6% <br> 0–1 | 0–1% <br> 0 | 1–3% <br> 0 | 5–8% <br> 1 | N/A <br> N/A | 8–12% <br> 1–2 | N/A <br> N/A | 6–9% <br> 1 | 2–4% <br> 0 | 1–3% <br> 0 | 1–3% <br> 0 |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 19–24% <br> 3–4 | 3–5% <br> 0–1 | 24–29% <br> 4–5 | N/A <br> N/A | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | 6–10% <br> 1–2 | N/A <br> N/A | 6–9% <br> 1–2 | 4–6% <br> 0–1 | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
