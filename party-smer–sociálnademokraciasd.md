@@ -10,7 +10,8 @@ Last result: **24.1%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 20.7% | 17.7–22.9% | 17.1–23.4% | 16.6–23.9% | 15.8–24.8% |
+| N/A | [Poll Average](average.html) | 20.6% | 17.7–22.8% | 17.1–23.3% | 16.6–23.8% | 15.8–24.7% |
+| [14–21 May 2020](2020-05-21-FOCUS.html) | FOCUS | 21.6% | 20.0–23.3% | 19.5–23.8% | 19.1–24.2% | 18.4–25.1% |
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 21.8% | 20.1–23.5% | 19.7–24.0% | 19.3–24.4% | 18.6–25.2% |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 18.3% | 16.8–20.0% | 16.4–20.4% | 16.0–20.8% | 15.3–21.6% |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 21.2% | 19.7–22.9% | 19.3–23.4% | 18.9–23.8% | 18.2–24.6% |
@@ -53,13 +54,13 @@ The following table shows the probability mass function per percentage block of 
 | 15.5–16.5% | 2% | 99.7% |  |
 | 16.5–17.5% | 6% | 98% |  |
 | 17.5–18.5% | 11% | 91% |  |
-| 18.5–19.5% | 12% | 81% |  |
-| 19.5–20.5% | 15% | 68% |  |
-| 20.5–21.5% | 20% | 53% | Median |
-| 21.5–22.5% | 19% | 33% |  |
-| 22.5–23.5% | 10% | 14% |  |
+| 18.5–19.5% | 13% | 80% |  |
+| 19.5–20.5% | 16% | 68% |  |
+| 20.5–21.5% | 21% | 52% | Median |
+| 21.5–22.5% | 18% | 31% |  |
+| 22.5–23.5% | 9% | 13% |  |
 | 23.5–24.5% | 3% | 4% | Last Result |
-| 24.5–25.5% | 0.7% | 0.8% |  |
+| 24.5–25.5% | 0.5% | 0.6% |  |
 | 25.5–26.5% | 0.1% | 0.1% |  |
 | 26.5–27.5% | 0% | 0% |  |
 
@@ -72,7 +73,8 @@ Last result: **4** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [14–21 May 2020](2020-05-21-FOCUS.html) | FOCUS | 4 | 4 | 4 | 4 | 3–4 |
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 4 | 4 | 3–5 | 3–5 | 3–5 |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 3 | 3 | 3 | 3 | 3–4 |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 4 | 4 | 3–4 | 3–4 | 3–5 |
@@ -112,9 +114,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 39% | 100% |  |
-| 4 | 59% | 61% | Last Result, Median |
-| 5 | 2% | 2% |  |
+| 3 | 36% | 100% |  |
+| 4 | 63% | 64% | Last Result, Median |
+| 5 | 0.3% | 0.3% |  |
 | 6 | 0% | 0% |  |
 
 

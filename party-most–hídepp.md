@@ -10,7 +10,8 @@ Last result: **5.8%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.5–2.2% | 0.4–2.4% | 0.3–2.6% | 0.2–3.0% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.5–1.9% | 0.4–2.1% | 0.3–2.3% | 0.2–2.6% |
+| [14–21 May 2020](2020-05-21-FOCUS.html) | FOCUS | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.8% |
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 1.8% | 1.3–2.4% | 1.2–2.6% | 1.1–2.8% | 0.9–3.1% |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 0.0% | N/A | N/A | N/A | N/A |
@@ -49,9 +50,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 16% | 100% |  |
-| 0.5–1.5% | 46% | 84% | Median |
-| 1.5–2.5% | 35% | 38% |  |
-| 2.5–3.5% | 3% | 3% |  |
+| 0.5–1.5% | 59% | 84% | Median |
+| 1.5–2.5% | 24% | 25% |  |
+| 2.5–3.5% | 0.7% | 0.7% |  |
 | 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% | Last Result |
@@ -66,6 +67,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–21 May 2020](2020-05-21-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis |  |  |  |  |  |
