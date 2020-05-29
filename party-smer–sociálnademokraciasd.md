@@ -104,7 +104,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [11–18 June 2019](2019-06-18-Polis.html) | Polis | 3 | 3 | 3 | 2–3 | 2–4 |
 | [1–11 June 2019](2019-06-11-FOCUS.html) | FOCUS | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [28–31 May 2019](2019-05-31-AKO.html) | AKO | 3 | 3 | 3 | 3 | 2–4 |
+| [28–31 May 2019](2019-05-31-AKO.html) | AKO | 3 | 3 | 3 | 3 | 2–3 |
 
 ### Probability Mass Function
 
