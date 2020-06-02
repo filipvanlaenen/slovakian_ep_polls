@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovakian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2020-05-29T19:09:57.180634+02:00</updated>
+  <updated>2020-06-02T20:01:03.882719+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia (S&amp;D): 19.1–24.2%, 3–4 seats</li><li>Sloboda a Solidarita (ECR): 6.5–9.9%, 1–2 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 20.5–25.7%, 3–4 seats</li><li>Slovenská národná strana (ECR): 0.8–2.3%, 0 seats</li><li>Kotleba–Ľudová strana Naše Slovensko (NI): 8.0–11.7%, 1–2 seats</li><li>SME RODINA (ID): 9.4–13.3%, 2 seats</li><li>MOST–HÍD (EPP): 0.9–2.4%, 0 seats</li><li>Kresťanskodemokratické hnutie (EPP): 3.7–6.4%, 0–1 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 3.1–5.6%, 0–1 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 5.3–8.4%, 1 seats</li><li>Za ľudí (EPP): 3.2–5.7%, 0–1 seats</li><li>Dobrá voľba (*): 1.3–3.0%, 0 seats</li><li>VLASŤ (*): 0.7–2.2%, 0 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-05-21-FOCUS.html</id>
@@ -208,6 +208,14 @@
     <dc:date>2020-04-23T17:45:19.012377+02:00</dc:date>
   </entry>
   <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia (S&amp;D): 16.2–20.6%, 3–4 seats</li><li>Sloboda a Solidarita (ECR): 7.0–10.2%, 1–2 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 5.0–7.8%, 1 seats</li><li>Slovenská národná strana (ECR): 6.2–9.3%, 1–2 seats</li><li>Kotleba–Ľudová strana Naše Slovensko (NI): 9.7–13.4%, 1–2 seats</li><li>SME RODINA (ID): 3.9–6.4%, 0–1 seats</li><li>MOST–HÍD (EPP): 3.9–6.5%, 0–1 seats</li><li>Kresťanskodemokratické hnutie (EPP): 6.8–10.0%, 1–2 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 13.1–17.2%, 2–3 seats</li><li>Za ľudí (EPP): 4.1–6.7%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-18-Polis.html</id>
+    <link href="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-18-Polis.html"/>
+    <title>Opinion Poll by Polis, 11–18 June 2019</title>
+    <updated>2020-06-02T20:01:03.882719+02:00</updated>
+    <dc:date>2020-06-02T20:01:03.882719+02:00</dc:date>
+  </entry>
+  <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia (S&amp;D): 17.3–22.2%, 3–4 seats</li><li>Sloboda a Solidarita (ECR): 6.4–9.8%, 1–2 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 5.3–8.4%, 1 seats</li><li>Slovenská národná strana (ECR): 5.7–8.9%, 1–2 seats</li><li>Kotleba–Ľudová strana Naše Slovensko (NI): 10.6–14.7%, 2–3 seats</li><li>SME RODINA (ID): 5.8–9.1%, 1–2 seats</li><li>MOST–HÍD (EPP): 3.3–5.9%, 0–1 seats</li><li>Kresťanskodemokratické hnutie (EPP): 6.0–9.3%, 1–2 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.7–5.1%, 0–1 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 15.6–20.3%, 3–4 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-11-FOCUS.html</id>
     <link href="https://filipvanlaenen.github.io/slovakian_ep_polls/2019-06-11-FOCUS.html"/>
@@ -223,5 +231,5 @@
     <updated>2020-05-29T19:09:57.180634+02:00</updated>
     <dc:date>2020-05-29T19:09:57.180634+02:00</dc:date>
   </entry>
-  <dc:date>2020-05-29T19:09:57.180634+02:00</dc:date>
+  <dc:date>2020-06-02T20:01:03.882719+02:00</dc:date>
 </feed>
