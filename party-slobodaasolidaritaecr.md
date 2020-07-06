@@ -73,7 +73,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [5–10 June 2020](2020-06-10-Polis.html) | Polis | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–10 June 2020](2020-06-10-Polis.html) | Polis | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [23–27 May 2020](2020-05-27-Polis.html) | Polis | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [14–21 May 2020](2020-05-21-FOCUS.html) | FOCUS | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 0–2 |
@@ -115,8 +115,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 48% | 100% | Last Result |
-| 2 | 52% | 52% | Median |
+| 1 | 33% | 100% | Last Result |
+| 2 | 67% | 67% | Median |
 | 3 | 0% | 0% |  |
 
 
