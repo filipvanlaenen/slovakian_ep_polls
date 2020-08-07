@@ -6,6 +6,14 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 17:07:57 +0200</pubDate>
     <item>
+      <title>Opinion Poll by Polis, 22–27 July 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Polis, 22–27 July 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis.png" length="429237" type="image/png"/>
+      <pubDate>Fri, 7 Aug 2020 12:25:57 +0200</pubDate>
+      <dc:date>2020-08-07T12:25:57.893179+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by AKO, 7–17 July 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-17-AKO.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by AKO, 7–17 July 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-17-AKO.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-17-AKO-seating-plan.png"/>]]></description>
@@ -220,30 +228,6 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-03-31-FOCUS.png" length="0" type="image/png"/>
       <pubDate>Sun, 26 Apr 2020 22:56:18 +0200</pubDate>
       <dc:date>2020-04-26T22:56:18.027438+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by AKO, 11–13 February 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by AKO, 11–13 February 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO-seating-plan.png" length="429418" type="image/png"/>
-      <pubDate>Sun, 16 Feb 2020 15:24:11 +0100</pubDate>
-      <dc:date>2020-02-16T15:24:11.529572+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by AKO, 11–13 February 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by AKO, 11–13 February 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO-seats.png" length="454853" type="image/png"/>
-      <pubDate>Sun, 16 Feb 2020 15:24:11 +0100</pubDate>
-      <dc:date>2020-02-16T15:24:11.529572+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by AKO, 11–13 February 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by AKO, 11–13 February 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-02-13-AKO.png" length="414627" type="image/png"/>
-      <pubDate>Sun, 16 Feb 2020 15:24:11 +0100</pubDate>
-      <dc:date>2020-02-16T15:24:11.529572+01:00</dc:date>
     </item>
   </channel>
 </rss>
