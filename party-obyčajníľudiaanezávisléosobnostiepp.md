@@ -88,7 +88,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–6 | 3–6 |
-| [22–27 July 2020](2020-07-27-Polis.html) | Polis | 4 | 4 | 4 | 4–5 | 4–5 |
+| [22–27 July 2020](2020-07-27-Polis.html) | Polis | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [7–17 July 2020](2020-07-17-AKO.html) | AKO | 5 | 5–6 | 5–6 | 5–6 | 4–6 |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [5–10 June 2020](2020-06-10-Polis.html) | Polis | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -136,8 +136,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% | Last Result |
 | 2 | 0% | 100% |  |
 | 3 | 7% | 100% |  |
-| 4 | 59% | 93% | Median |
-| 5 | 31% | 34% |  |
+| 4 | 47% | 93% | Median |
+| 5 | 42% | 46% |  |
 | 6 | 4% | 4% |  |
 | 7 | 0% | 0% |  |
 
