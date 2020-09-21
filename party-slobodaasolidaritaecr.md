@@ -11,6 +11,7 @@ Last result: **6.7%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 9.3% | 8.2–10.5% | 7.9–10.9% | 7.6–11.2% | 7.1–11.9% |
+| [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.5% |
 | [22–27 July 2020](2020-07-27-Polis.html) | Polis | 9.2% | 8.1–10.5% | 7.8–10.8% | 7.6–11.1% | 7.1–11.8% |
 | [7–17 July 2020](2020-07-17-AKO.html) | AKO | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.2–12.0% |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 9.2% | 8.1–10.5% | 7.8–10.9% | 7.6–11.2% | 7.1–11.8% |
@@ -20,7 +21,7 @@ Last result: **6.7%** (General Election of 25 May 2019)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 9.7% | 8.6–11.0% | 8.3–11.4% | 8.0–11.7% | 7.5–12.3% |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 8.2% | 7.3–9.4% | 7.0–9.7% | 6.7–10.0% | 6.3–10.6% |
-| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
+| [18–21 March 2020](2020-03-21-FOCUS.html) | FOCUS | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
 | [11–13 February 2020](2020-02-13-AKO.html) | AKO | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
 | [6–12 February 2020](2020-02-12-FOCUS.html) | FOCUS | 5.3% | 4.5–6.3% | 4.2–6.6% | 4.1–6.8% | 3.7–7.4% |
 | [3–6 February 2020](2020-02-06-AKO.html) | AKO | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
@@ -74,6 +75,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 2–3 |
 | [22–27 July 2020](2020-07-27-Polis.html) | Polis | 2 | 2 | 1–2 | 1–2 | 1–3 |
 | [7–17 July 2020](2020-07-17-AKO.html) | AKO | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -83,7 +85,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | [15–19 April 2020](2020-04-19-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 0–2 |
 | [14–17 April 2020](2020-04-17-AKO.html) | AKO | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [4–8 April 2020](2020-04-08-Polis.html) | Polis | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [1–31 March 2020](2020-03-31-FOCUS.html) | FOCUS | 1 | 1 | 1 | 0–1 | 0–1 |
+| [18–21 March 2020](2020-03-21-FOCUS.html) | FOCUS | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [11–13 February 2020](2020-02-13-AKO.html) | AKO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 February 2020](2020-02-12-FOCUS.html) | FOCUS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [3–6 February 2020](2020-02-06-AKO.html) | AKO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
