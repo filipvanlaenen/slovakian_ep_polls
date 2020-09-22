@@ -10,7 +10,7 @@ Last result: **3.6%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.2% | 1.3–4.2% | 1.1–4.5% | 1.0–4.8% | 0.8–5.3% |
+| N/A | [Poll Average](average.html) | 3.0% | 1.3–4.2% | 1.1–4.5% | 1.0–4.8% | 0.8–5.3% |
 | [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
 | [22–27 July 2020](2020-07-27-Polis.html) | Polis | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.8–5.1% | 2.5–5.6% |
 | [7–17 July 2020](2020-07-17-AKO.html) | AKO | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
@@ -56,10 +56,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 22% | 100% |  |
-| 1.5–2.5% | 38% | 78% | Median |
-| 2.5–3.5% | 17% | 40% |  |
-| 3.5–4.5% | 19% | 23% | Last Result |
+| 0.5–1.5% | 20% | 100% |  |
+| 1.5–2.5% | 18% | 80% |  |
+| 2.5–3.5% | 32% | 62% | Median |
+| 3.5–4.5% | 25% | 30% | Last Result |
 | 4.5–5.5% | 4% | 4% |  |
 | 5.5–6.5% | 0.2% | 0.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
