@@ -8,96 +8,86 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 20 Sep 2020 16:55:55 +0200</pubDate>
+    <pubDate>Fri, 25 Sep 2020 08:24:11 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Median SK for RTVS, 14–18 September 2020 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-18-MedianSK.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 2–4 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-18-MedianSK-seats.png"
+        length="352398"
+        type="image/png"/>
+      <pubDate>Fri, 25 Sep 2020 08:24:11 +0200</pubDate>
+      <dc:date>2020-09-25T08:24:11.352279+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median SK for RTVS, 14–18 September 2020 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-18-MedianSK.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-18-MedianSK-coalitions-seats.png"
+        length="216152"
+        type="image/png"/>
+      <pubDate>Fri, 25 Sep 2020 08:24:11 +0200</pubDate>
+      <dc:date>2020-09-25T08:24:11.352279+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median SK for RTVS, 14–18 September 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-18-MedianSK.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 7.5–11.1%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 10.1–14.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 14.8–19.4%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 7.2–10.8%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 7.1–10.7%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 6.3–9.7%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.1–2.8%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 1.7–3.6%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 14.7–19.3%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-18-MedianSK.png"
+        length="455727"
+        type="image/png"/>
+      <pubDate>Fri, 25 Sep 2020 08:24:11 +0200</pubDate>
+      <dc:date>2020-09-25T08:24:11.352279+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by FOCUS, 26 August–2 September 2020 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-02-FOCUS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 2–3 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 3–4 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-02-FOCUS-seats.png"
-        length="292318"
+        length="356801"
         type="image/png"/>
-      <pubDate>Sat, 19 Sep 2020 20:54:27 +0200</pubDate>
-      <dc:date>2020-09-19T20:54:27.56479+02:00</dc:date>
+      <pubDate>Fri, 25 Sep 2020 08:00:51 +0200</pubDate>
+      <dc:date>2020-09-25T08:00:51.636572+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 26 August–2 September 2020 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-02-FOCUS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-02-FOCUS-coalitions-seats.png"
-        length="167568"
+        length="218406"
         type="image/png"/>
-      <pubDate>Sat, 19 Sep 2020 20:54:27 +0200</pubDate>
-      <dc:date>2020-09-19T20:54:27.56479+02:00</dc:date>
+      <pubDate>Fri, 25 Sep 2020 08:00:51 +0200</pubDate>
+      <dc:date>2020-09-25T08:00:51.636572+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 26 August–2 September 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-02-FOCUS.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 9.1–12.9%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 8.2–11.9%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 16.1–20.9%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 7.0–10.4%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 7.5–11.0%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 1.0–2.7%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 5.1–8.1%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.2–2.9%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0.7–2.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 9.1–12.9%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 8.2–11.9%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 16.1–20.9%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 7.0–10.4%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 7.5–11.0%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 1.0–2.7%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 5.1–8.1%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 2.9–5.3%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.2–2.9%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0.7–2.2%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 14.1–18.6%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-02-FOCUS.png"
-        length="437205"
+        length="472452"
         type="image/png"/>
-      <pubDate>Sat, 19 Sep 2020 20:54:27 +0200</pubDate>
-      <dc:date>2020-09-19T20:54:27.56479+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Polis, 22–27 July 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 4–5 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis-seats.png"
-        length="384946"
-        type="image/png"/>
-      <pubDate>Sat, 08 Aug 2020 09:05:59 +0200</pubDate>
-      <dc:date>2020-08-08T09:05:59.703681+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Polis, 22–27 July 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis-coalitions-seats.png"
-        length="248463"
-        type="image/png"/>
-      <pubDate>Sat, 08 Aug 2020 09:05:59 +0200</pubDate>
-      <dc:date>2020-08-08T09:05:59.703681+02:00</dc:date>
+      <pubDate>Fri, 25 Sep 2020 08:00:51 +0200</pubDate>
+      <dc:date>2020-09-25T08:00:51.636572+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Polis, 22–27 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 7.2–10.7%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 7.6–11.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 19.5–24.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 2.8–5.1%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 6.5–9.9%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 6.7–10.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 2.9–5.2%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 4.3–7.1%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0.7–2.1%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0.5–1.6%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 7.2–10.7%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 7.6–11.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 19.5–24.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 2.8–5.1%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 6.5–9.9%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 6.7–10.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0.6–1.9%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 2.9–5.2%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 4.3–7.1%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 5.4–8.5%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0.7–2.1%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0.5–1.6%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 13.9–18.3%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-27-Polis.png"
-        length="429237"
+        length="467172"
         type="image/png"/>
-      <pubDate>Sat, 08 Aug 2020 09:05:59 +0200</pubDate>
-      <dc:date>2020-08-08T09:05:59.703681+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by AKO, 7–17 July 2020 – Seat Projections for the Parties</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-17-AKO.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 5–6 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 0–2 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-17-AKO-seats.png"
-        length="335390"
-        type="image/png"/>
-      <pubDate>Thu, 23 Jul 2020 20:38:19 +0200</pubDate>
-      <dc:date>2020-07-23T20:38:19.383769+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by AKO, 7–17 July 2020 – Seat Projections for a Selection of Coalitions</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-17-AKO.html#coalitions</link>
-      <description>TBD</description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-17-AKO-coalitions-seats.png"
-        length="229198"
-        type="image/png"/>
-      <pubDate>Thu, 23 Jul 2020 20:38:19 +0200</pubDate>
-      <dc:date>2020-07-23T20:38:19.383769+02:00</dc:date>
+      <pubDate>Fri, 25 Sep 2020 06:59:57 +0200</pubDate>
+      <dc:date>2020-09-25T06:59:57.283219+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 7–17 July 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-17-AKO.html</link>
-      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 8.9–12.8%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 7.7–11.4%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 21.0–26.2%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 6.4–9.7%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 5.0–8.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.8–3.8%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 1.9–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 8.9–12.8%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 7.7–11.4%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 21.0–26.2%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 6.4–9.7%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 5.0–8.1%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 1.7–3.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.8–3.8%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 1.9–3.9%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 14.5–19.1%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-07-17-AKO.png"
-        length="425421"
+        length="461571"
         type="image/png"/>
-      <pubDate>Thu, 23 Jul 2020 20:38:19 +0200</pubDate>
-      <dc:date>2020-07-23T20:38:19.383769+02:00</dc:date>
+      <pubDate>Fri, 25 Sep 2020 07:08:52 +0200</pubDate>
+      <dc:date>2020-09-25T07:08:52.802349+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 17–24 June 2020 – Seat Projections for the Parties</title>
@@ -1119,6 +1109,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57.180634+02:00</dc:date>
     </item>
-    <dc:date>2020-09-20T16:55:55.55816+02:00</dc:date>
+    <dc:date>2020-09-25T08:24:11.352279+02:00</dc:date>
   </channel>
 </rss>
