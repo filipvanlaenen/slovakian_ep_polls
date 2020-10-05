@@ -10,9 +10,11 @@ Last result: **3.6%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.8% | 1.4–4.1% | 1.2–4.4% | 1.0–4.7% | 0.8–5.2% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.2–3.5% | 1.1–3.8% | 1.0–4.1% | 0.8–4.5% |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 2.5% | 2.0–3.2% | 1.8–3.5% | 1.7–3.6% | 1.5–4.0% |
+| [4–9 September 2020](2020-09-09-Polis.html) | Polis | 1.4% | 1.1–1.9% | 0.9–2.1% | 0.9–2.2% | 0.7–2.5% |
 | [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 3.0% | 2.4–3.8% | 2.3–4.1% | 2.1–4.3% | 1.9–4.7% |
+| [21–26 August 2020](2020-08-26-Actly.html) | Actly | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [22–27 July 2020](2020-07-27-Polis.html) | Polis | 3.8% | 3.1–4.6% | 2.9–4.9% | 2.8–5.1% | 2.5–5.6% |
 | [7–17 July 2020](2020-07-17-AKO.html) | AKO | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.5% |
@@ -57,13 +59,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 15% | 100% |  |
-| 1.5–2.5% | 26% | 85% |  |
-| 2.5–3.5% | 36% | 59% | Median |
-| 3.5–4.5% | 20% | 23% | Last Result |
-| 4.5–5.5% | 3% | 3% |  |
-| 5.5–6.5% | 0.1% | 0.1% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 0.5–1.5% | 24% | 100% |  |
+| 1.5–2.5% | 30% | 76% | Median |
+| 2.5–3.5% | 35% | 45% |  |
+| 3.5–4.5% | 9% | 10% | Last Result |
+| 4.5–5.5% | 0.4% | 0.4% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -76,7 +77,9 @@ Last result: **0** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
+| [4–9 September 2020](2020-09-09-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [26 August–2 September 2020](2020-09-02-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
+| [21–26 August 2020](2020-08-26-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0 |
 | [22–27 July 2020](2020-07-27-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0–1 |
 | [7–17 July 2020](2020-07-17-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [17–24 June 2020](2020-06-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
@@ -122,8 +125,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 99.7% | 100% | Last Result, Median |
-| 1 | 0.3% | 0.3% |  |
+| 0 | 99.9% | 100% | Last Result, Median |
+| 1 | 0.1% | 0.1% |  |
 | 2 | 0% | 0% |  |
 
 
