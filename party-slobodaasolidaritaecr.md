@@ -10,7 +10,8 @@ Last result: **6.7%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.4% | 9.1–13.7% | 8.6–14.3% | 8.3–14.8% | 7.7–15.7% |
+| N/A | [Poll Average](average.html) | 11.6% | 9.3–13.7% | 8.8–14.3% | 8.4–14.8% | 7.7–15.7% |
+| [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 10.7% | 9.5–12.0% | 9.2–12.4% | 8.9–12.7% | 8.4–13.4% |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 12.0% | 10.8–13.3% | 10.5–13.6% | 10.3–13.9% | 9.7–14.6% |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 13.4% | 12.1–14.9% | 11.7–15.3% | 11.4–15.7% | 10.8–16.4% |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 11.9% | 10.7–13.3% | 10.3–13.7% | 10.1–14.1% | 9.5–14.8% |
@@ -62,12 +63,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0.3% | 100% | Last Result |
-| 7.5–8.5% | 4% | 99.7% |  |
-| 8.5–9.5% | 14% | 96% |  |
-| 9.5–10.5% | 17% | 82% |  |
-| 10.5–11.5% | 18% | 65% | Median |
-| 11.5–12.5% | 20% | 48% |  |
-| 12.5–13.5% | 16% | 28% |  |
+| 7.5–8.5% | 3% | 99.7% |  |
+| 8.5–9.5% | 10% | 97% |  |
+| 9.5–10.5% | 16% | 87% |  |
+| 10.5–11.5% | 21% | 71% |  |
+| 11.5–12.5% | 22% | 51% | Median |
+| 12.5–13.5% | 17% | 28% |  |
 | 13.5–14.5% | 8% | 12% |  |
 | 14.5–15.5% | 3% | 3% |  |
 | 15.5–16.5% | 0.6% | 0.6% |  |
@@ -84,6 +85,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 2 | 2 | 1–3 |
+| [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 1–2 |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 2 | 2 | 2 | 2 | 2 |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 2 | 2 | 2 | 2–3 | 2–3 |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 2 | 2 | 2 | 2 | 2–3 |
