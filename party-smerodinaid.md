@@ -87,7 +87,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1 |
+| [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 1 | 1 | 1 | 1 | 1–2 |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 1 | 1 | 1 | 1 | 1 |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [14–18 September 2020](2020-09-18-MedianSK.html) | Median SK <br> RTVS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
