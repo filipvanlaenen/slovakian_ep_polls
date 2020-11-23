@@ -13,6 +13,7 @@ Last result: **5.8%** (General Election of 25 May 2019)
 | N/A | [Poll Average](average.html) | 1.5% | 0.6–2.6% | 0.5–2.8% | 0.4–3.1% | 0.3–3.5% |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
 | [21–26 October 2020](2020-10-26-Actly.html) | Actly | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [15–23 October 2020](2020-10-23-Polis.html) | Polis | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.6% | 0.4–1.9% |
 | [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.6–1.7% | 0.5–2.0% |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 1.9% | 1.4–2.6% | 1.3–2.8% | 1.2–3.0% | 1.0–3.3% |
@@ -63,9 +64,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 7% | 100% |  |
-| 0.5–1.5% | 44% | 93% |  |
-| 1.5–2.5% | 39% | 50% | Median |
+| 0.0–0.5% | 8% | 100% |  |
+| 0.5–1.5% | 43% | 92% |  |
+| 1.5–2.5% | 38% | 49% | Median |
 | 2.5–3.5% | 10% | 11% |  |
 | 3.5–4.5% | 0.4% | 0.4% |  |
 | 4.5–5.5% | 0% | 0% |  |
@@ -83,6 +84,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
 | [21–26 October 2020](2020-10-26-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0 |
+| [15–23 October 2020](2020-10-23-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [7–15 October 2020](2020-10-15-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [7–12 October 2020](2020-10-12-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [1–9 October 2020](2020-10-09-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
