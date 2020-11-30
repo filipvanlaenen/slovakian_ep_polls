@@ -10,7 +10,8 @@ Last result: **3.6%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.3% | 1.2–3.2% | 1.0–3.5% | 0.9–3.7% | 0.7–4.2% |
+| N/A | [Poll Average](average.html) | 2.4% | 1.8–3.2% | 1.6–3.5% | 1.5–3.7% | 1.3–4.2% |
+| [20–25 November 2020](2020-11-25-Polis.html) | Polis | 2.1% | 1.6–2.8% | 1.4–3.0% | 1.3–3.1% | 1.2–3.5% |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 2.4% | 1.8–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [21–26 October 2020](2020-10-26-Actly.html) | Actly | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [15–23 October 2020](2020-10-23-Polis.html) | Polis | 1.1% | 0.8–1.7% | 0.7–1.9% | 0.7–2.0% | 0.5–2.3% |
@@ -64,10 +65,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.1% | 100% |  |
-| 0.5–1.5% | 19% | 99.9% |  |
-| 1.5–2.5% | 45% | 81% | Median |
-| 2.5–3.5% | 33% | 36% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 4% | 100% |  |
+| 1.5–2.5% | 56% | 96% | Median |
+| 2.5–3.5% | 36% | 40% |  |
 | 3.5–4.5% | 4% | 4% | Last Result |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -82,6 +83,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [20–25 November 2020](2020-11-25-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
 | [21–26 October 2020](2020-10-26-Actly.html) | Actly | 0 | 0 | 0 | 0 | 0 |
 | [15–23 October 2020](2020-10-23-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
