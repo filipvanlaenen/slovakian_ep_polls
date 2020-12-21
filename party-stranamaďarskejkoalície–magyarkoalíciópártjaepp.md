@@ -11,6 +11,7 @@ Last result: **6.5%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3.1% | 1.6–5.3% | 1.4–5.7% | 1.2–6.1% | 1.0–6.7% |
+| [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [20–25 November 2020](2020-11-25-Polis.html) | Polis | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.7% | 3.6–7.2% |
 | [18–25 November 2020](2020-11-25-FOCUS.html) | FOCUS | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.3–4.6% | 2.1–5.0% |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 3.2% | 2.6–4.1% | 2.5–4.3% | 2.3–4.5% | 2.1–5.0% |
@@ -70,7 +71,7 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 8% | 100% |  |
 | 1.5–2.5% | 25% | 92% |  |
 | 2.5–3.5% | 32% | 67% | Median |
-| 3.5–4.5% | 16% | 34% |  |
+| 3.5–4.5% | 16% | 35% |  |
 | 4.5–5.5% | 11% | 18% |  |
 | 5.5–6.5% | 6% | 7% |  |
 | 6.5–7.5% | 0.8% | 0.8% | Last Result |
@@ -86,6 +87,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [20–25 November 2020](2020-11-25-Polis.html) | Polis | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [18–25 November 2020](2020-11-25-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0–1 |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
