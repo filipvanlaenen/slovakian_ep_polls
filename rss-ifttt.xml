@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 16 Jul 2020 17:07:57 +0200</pubDate>
     <item>
+      <title>Opinion Poll by FOCUS, 8–14 December 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by FOCUS, 8–14 December 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS-seating-plan.png" length="404750" type="image/png"/>
+      <pubDate>Mon, 21 Dec 2020 13:47:57 +0100</pubDate>
+      <dc:date>2020-12-21T13:47:57.715398+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 8–14 December 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by FOCUS, 8–14 December 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS-seats.png" length="369823" type="image/png"/>
+      <pubDate>Mon, 21 Dec 2020 13:47:57 +0100</pubDate>
+      <dc:date>2020-12-21T13:47:57.715398+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 8–14 December 2020 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by FOCUS, 8–14 December 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-14-FOCUS.png" length="472730" type="image/png"/>
+      <pubDate>Mon, 21 Dec 2020 13:47:57 +0100</pubDate>
+      <dc:date>2020-12-21T13:47:57.715398+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Polis, 20–25 November 2020 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-11-25-Polis.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Polis, 20–25 November 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-11-25-Polis.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-11-25-Polis-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-18-MedianSK.png" length="455727" type="image/png"/>
       <pubDate>Fri, 25 Sep 2020 08:24:11 +0200</pubDate>
       <dc:date>2020-09-25T08:24:11.352279+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Polis, 4–9 September 2020 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Polis, 4–9 September 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis-seating-plan.png" length="416385" type="image/png"/>
-      <pubDate>Sun, 4 Oct 2020 15:16:36 +0200</pubDate>
-      <dc:date>2020-10-04T15:16:36.371926+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Polis, 4–9 September 2020 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Polis, 4–9 September 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis-seats.png" length="366123" type="image/png"/>
-      <pubDate>Sun, 4 Oct 2020 15:16:36 +0200</pubDate>
-      <dc:date>2020-10-04T15:16:36.371926+02:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by Polis, 4–9 September 2020 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Polis, 4–9 September 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-09-09-Polis.png" length="447068" type="image/png"/>
-      <pubDate>Sun, 4 Oct 2020 15:16:36 +0200</pubDate>
-      <dc:date>2020-10-04T15:16:36.371926+02:00</dc:date>
     </item>
   </channel>
 </rss>
