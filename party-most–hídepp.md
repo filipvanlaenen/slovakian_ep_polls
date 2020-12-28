@@ -10,8 +10,10 @@ Last result: **5.8%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.6–2.4% | 0.5–2.7% | 0.4–2.9% | 0.3–3.2% |
+| N/A | [Poll Average](average.html) | 1.6% | 0.8–2.4% | 0.7–2.6% | 0.6–2.8% | 0.4–3.2% |
+| [17–19 December 2020](2020-12-19-AKO.html) | AKO | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
+| [6–11 December 2020](2020-12-11-Actly.html) | Actly | 0.0% | N/A | N/A | N/A | N/A |
 | [20–25 November 2020](2020-11-25-Polis.html) | Polis | 0.0% | N/A | N/A | N/A | N/A |
 | [18–25 November 2020](2020-11-25-FOCUS.html) | FOCUS | 0.0% | N/A | N/A | N/A | N/A |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
@@ -67,10 +69,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 8% | 100% |  |
-| 0.5–1.5% | 34% | 92% |  |
-| 1.5–2.5% | 51% | 58% | Median |
-| 2.5–3.5% | 7% | 7% |  |
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 47% | 98% |  |
+| 1.5–2.5% | 45% | 51% | Median |
+| 2.5–3.5% | 6% | 6% |  |
 | 3.5–4.5% | 0.1% | 0.1% |  |
 | 4.5–5.5% | 0% | 0% |  |
 | 5.5–6.5% | 0% | 0% | Last Result |
@@ -85,7 +87,9 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [17–19 December 2020](2020-12-19-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
+| [6–11 December 2020](2020-12-11-Actly.html) | Actly |  |  |  |  |  |
 | [20–25 November 2020](2020-11-25-Polis.html) | Polis |  |  |  |  |  |
 | [18–25 November 2020](2020-11-25-FOCUS.html) | FOCUS |  |  |  |  |  |
 | [6–11 November 2020](2020-11-11-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
