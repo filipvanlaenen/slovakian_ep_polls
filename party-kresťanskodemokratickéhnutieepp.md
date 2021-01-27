@@ -10,7 +10,11 @@ Last result: **13.2%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.7% | 3.8–5.8% | 3.5–6.2% | 3.3–6.5% | 2.9–7.0% |
+| N/A | [Poll Average](average.html) | 4.4% | 3.4–5.7% | 3.2–6.1% | 3.0–6.4% | 2.6–7.0% |
+| [16–20 January 2021](2021-01-20-Polis.html) | Polis | 3.9% | 3.2–4.7% | 3.0–5.0% | 2.9–5.2% | 2.6–5.6% |
+| [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 4.4% | 3.6–5.3% | 3.4–5.6% | 3.3–5.8% | 3.0–6.3% |
+| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
+| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 4.9% | 4.1–5.8% | 3.9–6.1% | 3.7–6.3% | 3.4–6.8% |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
 | [6–11 December 2020](2020-12-11-Actly.html) | Actly | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.1–7.0% | 3.8–7.5% |
@@ -69,11 +73,12 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 6% | 100% |  |
-| 3.5–4.5% | 36% | 94% |  |
-| 4.5–5.5% | 41% | 59% | Median |
-| 5.5–6.5% | 15% | 17% |  |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 0.3% | 100% |  |
+| 2.5–3.5% | 14% | 99.7% |  |
+| 3.5–4.5% | 42% | 86% | Median |
+| 4.5–5.5% | 31% | 44% |  |
+| 5.5–6.5% | 11% | 13% |  |
 | 6.5–7.5% | 2% | 2% |  |
 | 7.5–8.5% | 0.1% | 0.1% |  |
 | 8.5–9.5% | 0% | 0% |  |
@@ -92,6 +97,10 @@ Last result: **2** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [16–20 January 2021](2021-01-20-Polis.html) | Polis | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
+| [19–22 December 2020](2020-12-22-Polis.html) | Polis | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–11 December 2020](2020-12-11-Actly.html) | Actly | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -152,8 +161,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 66% | 100% | Median |
-| 1 | 34% | 34% |  |
+| 0 | 75% | 100% | Median |
+| 1 | 25% | 25% |  |
 | 2 | 0% | 0% | Last Result |
 
 
