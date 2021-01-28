@@ -116,7 +116,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 4 | 4 | 4 | 4 | 4 |
+| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [19–22 December 2020](2020-12-22-Polis.html) | Polis | 4 | 4 | 4 | 4 | 3–4 |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 4 | 4 | 4 | 3–5 | 3–5 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -182,8 +182,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 8% | 100% |  |
-| 4 | 78% | 92% | Median |
-| 5 | 14% | 14% |  |
+| 4 | 76% | 92% | Median |
+| 5 | 16% | 16% |  |
 | 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
