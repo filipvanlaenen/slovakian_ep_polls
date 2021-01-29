@@ -4,7 +4,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 16 Jul 2020 17:07:57 +0200</pubDate>
+    <pubDate>Thu, 28 Jan 2021 21:33:53 +0100</pubDate>
     <item>
       <title>Opinion Poll by Polis, 16–20 January 2021 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-01-20-Polis.html#seating-plan</link>
@@ -78,12 +78,28 @@
       <dc:date>2021-01-28T07:47:57.181605+01:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Polis, 19–22 December 2020 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Polis, 19–22 December 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis-seating-plan.png" length="424884" type="image/png"/>
+      <pubDate>Fri, 29 Jan 2021 19:51:02 +0100</pubDate>
+      <dc:date>2021-01-29T19:51:02.366333+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polis, 19–22 December 2020 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Polis, 19–22 December 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis-seats.png" length="409026" type="image/png"/>
+      <pubDate>Fri, 29 Jan 2021 19:51:02 +0100</pubDate>
+      <dc:date>2021-01-29T19:51:02.366333+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Polis, 19–22 December 2020 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis.html</link>
       <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by Polis, 19–22 December 2020<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis.png"/>]]></description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2020-12-22-Polis.png" length="464065" type="image/png"/>
-      <pubDate>Wed, 27 Jan 2021 09:10:32 +0100</pubDate>
-      <dc:date>2021-01-27T09:10:32.439314+01:00</dc:date>
+      <pubDate>Fri, 29 Jan 2021 19:51:02 +0100</pubDate>
+      <dc:date>2021-01-29T19:51:02.366333+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 17–19 December 2020 – Seating Plan Projection</title>
