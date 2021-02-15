@@ -10,7 +10,8 @@ Last result: **3.6%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.6% | 0.9–3.0% | 0.8–3.3% | 0.7–3.6% | 0.5–4.1% |
+| N/A | [Poll Average](average.html) | 1.9% | 0.9–3.1% | 0.8–3.4% | 0.7–3.6% | 0.5–4.1% |
+| [8–11 February 2021](2021-02-11-AKO.html) | AKO | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 1.0% | 0.7–1.5% | 0.6–1.6% | 0.5–1.8% | 0.4–2.0% |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
@@ -74,9 +75,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0.6% | 100% |  |
-| 0.5–1.5% | 47% | 99.4% |  |
-| 1.5–2.5% | 33% | 52% | Median |
-| 2.5–3.5% | 16% | 19% |  |
+| 0.5–1.5% | 38% | 99.4% |  |
+| 1.5–2.5% | 34% | 61% | Median |
+| 2.5–3.5% | 24% | 27% |  |
 | 3.5–4.5% | 3% | 3% | Last Result |
 | 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
@@ -91,6 +92,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–11 February 2021](2021-02-11-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 0 | 0 | 0 | 0 | 0 |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |

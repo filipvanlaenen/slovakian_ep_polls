@@ -10,7 +10,8 @@ Last result: **24.1%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.0% | 7.6–10.6% | 7.3–11.1% | 7.0–11.5% | 6.5–12.3% |
+| N/A | [Poll Average](average.html) | 8.8% | 7.6–10.6% | 7.2–11.1% | 7.0–11.5% | 6.5–12.3% |
+| [8–11 February 2021](2021-02-11-AKO.html) | AKO | 8.5% | 7.5–9.7% | 7.2–10.1% | 6.9–10.4% | 6.5–11.0% |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 8.4% | 7.4–9.5% | 7.1–9.9% | 6.9–10.2% | 6.4–10.7% |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 9.1% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 7.0–11.6% |
 | [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
@@ -74,12 +75,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.6% | 100% |  |
-| 6.5–7.5% | 8% | 99.4% |  |
-| 7.5–8.5% | 27% | 92% |  |
-| 8.5–9.5% | 33% | 64% | Median |
-| 9.5–10.5% | 20% | 31% |  |
-| 10.5–11.5% | 9% | 11% |  |
+| 5.5–6.5% | 0.7% | 100% |  |
+| 6.5–7.5% | 9% | 99.3% |  |
+| 7.5–8.5% | 30% | 90% |  |
+| 8.5–9.5% | 32% | 60% | Median |
+| 9.5–10.5% | 18% | 28% |  |
+| 10.5–11.5% | 8% | 10% |  |
 | 11.5–12.5% | 2% | 2% |  |
 | 12.5–13.5% | 0.3% | 0.3% |  |
 | 13.5–14.5% | 0% | 0% |  |
@@ -104,6 +105,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [8–11 February 2021](2021-02-11-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
