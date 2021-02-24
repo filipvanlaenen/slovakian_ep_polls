@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 14 Feb 2021 21:10:37 +0100</pubDate>
+    <pubDate>Wed, 24 Feb 2021 17:55:53 +0100</pubDate>
     <item>
       <title>Opinion Poll by AKO, 8–11 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-02-11-AKO.html#seats</link>
@@ -38,6 +38,36 @@
         type="image/png"/>
       <pubDate>Sun, 14 Feb 2021 21:10:37 +0100</pubDate>
       <dc:date>2021-02-14T21:10:37.802668+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polis for SITA, 31 January–8 February 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-02-08-Polis.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-02-08-Polis-seats.png"
+        length="408469"
+        type="image/png"/>
+      <pubDate>Wed, 24 Feb 2021 17:55:53 +0100</pubDate>
+      <dc:date>2021-02-24T17:55:53.932418+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polis for SITA, 31 January–8 February 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-02-08-Polis.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-02-08-Polis-coalitions-seats.png"
+        length="261568"
+        type="image/png"/>
+      <pubDate>Wed, 24 Feb 2021 17:55:53 +0100</pubDate>
+      <dc:date>2021-02-24T17:55:53.932418+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Polis for SITA, 31 January–8 February 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-02-08-Polis.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 7.4–10.7%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 10.7–14.5%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 10.4–14.3%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 1.4–3.0%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 5.6–8.6%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 4.1–6.7%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0.6–1.8%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 3.4–5.9%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 4.3–7.0%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 6.0–9.1%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 4.3–7.0%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 2.7–4.9%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 1.5–3.2%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 19.1–23.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-02-08-Polis.png"
+        length="466276"
+        type="image/png"/>
+      <pubDate>Wed, 24 Feb 2021 17:55:53 +0100</pubDate>
+      <dc:date>2021-02-24T17:55:53.932418+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Polis, 16–20 January 2021 – Seat Projections for the Parties</title>
@@ -1689,6 +1719,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57.180634+02:00</dc:date>
     </item>
-    <dc:date>2021-02-14T21:10:37.802668+01:00</dc:date>
+    <dc:date>2021-02-24T17:55:53.932418+01:00</dc:date>
   </channel>
 </rss>
