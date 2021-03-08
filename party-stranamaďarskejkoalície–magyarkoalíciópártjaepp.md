@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.3% | 1.9–5.7% | 1.7–6.1% | 1.5–6.5% | 1.3–7.0% |
+| N/A | [Poll Average](average.html) | 3.4% | 1.9–5.7% | 1.7–6.1% | 1.5–6.5% | 1.3–7.0% |
+| [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 3.5% | 2.9–4.4% | 2.7–4.6% | 2.6–4.9% | 2.3–5.3% |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 2.0% | 1.5–2.7% | 1.4–2.9% | 1.3–3.1% | 1.1–3.4% |
 | [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 5.5% | 4.7–6.5% | 4.5–6.7% | 4.3–7.0% | 3.9–7.5% |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 5.2% | 4.5–6.2% | 4.2–6.4% | 4.1–6.7% | 3.7–7.2% |
@@ -77,10 +78,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% |  |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 23% | 97% |  |
-| 2.5–3.5% | 34% | 74% | Median |
-| 3.5–4.5% | 16% | 40% |  |
-| 4.5–5.5% | 12% | 24% |  |
+| 1.5–2.5% | 22% | 97% |  |
+| 2.5–3.5% | 31% | 75% | Median |
+| 3.5–4.5% | 19% | 45% |  |
+| 4.5–5.5% | 13% | 25% |  |
 | 5.5–6.5% | 10% | 12% |  |
 | 6.5–7.5% | 2% | 2% | Last Result |
 | 7.5–8.5% | 0.1% | 0.1% |  |
@@ -96,6 +97,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 1 | 1 | 1 | 0–1 | 0–1 |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
