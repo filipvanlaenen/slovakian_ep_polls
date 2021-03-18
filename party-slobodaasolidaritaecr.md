@@ -10,7 +10,8 @@ Last result: **6.7%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 13.0% | 11.3–15.3% | 10.9–16.0% | 10.6–16.5% | 9.9–17.5% |
+| N/A | [Poll Average](average.html) | 12.8% | 11.2–14.8% | 10.8–15.4% | 10.4–15.8% | 9.8–16.7% |
+| [8–12 March 2021](2021-03-12-AKO.html) | AKO | 14.3% | 13.0–15.8% | 12.6–16.2% | 12.3–16.6% | 11.6–17.4% |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 12.9% | 11.6–14.3% | 11.2–14.7% | 10.9–15.1% | 10.4–15.8% |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 15.1% | 13.7–16.6% | 13.3–17.1% | 13.0–17.5% | 12.4–18.2% |
 | [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 12.5% | 11.3–13.8% | 10.9–14.2% | 10.7–14.5% | 10.1–15.2% |
@@ -79,17 +80,16 @@ The following table shows the probability mass function per percentage block of 
 | 6.5–7.5% | 0% | 100% | Last Result |
 | 7.5–8.5% | 0% | 100% |  |
 | 8.5–9.5% | 0.2% | 100% |  |
-| 9.5–10.5% | 2% | 99.8% |  |
-| 10.5–11.5% | 11% | 98% |  |
-| 11.5–12.5% | 23% | 87% |  |
-| 12.5–13.5% | 26% | 63% | Median |
-| 13.5–14.5% | 18% | 37% |  |
-| 14.5–15.5% | 11% | 19% |  |
-| 15.5–16.5% | 6% | 8% |  |
-| 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.4% | 0.4% |  |
+| 9.5–10.5% | 3% | 99.8% |  |
+| 10.5–11.5% | 13% | 97% |  |
+| 11.5–12.5% | 26% | 84% |  |
+| 12.5–13.5% | 27% | 58% | Median |
+| 13.5–14.5% | 18% | 31% |  |
+| 14.5–15.5% | 9% | 13% |  |
+| 15.5–16.5% | 3% | 4% |  |
+| 16.5–17.5% | 0.6% | 0.7% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
 | 18.5–19.5% | 0% | 0% |  |
-| 19.5–20.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -101,6 +101,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [8–12 March 2021](2021-03-12-AKO.html) | AKO | 2 | 2 | 2 | 2 | 2–3 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -169,8 +170,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0% | 100% | Last Result |
-| 2 | 66% | 100% | Median |
-| 3 | 34% | 34% |  |
+| 2 | 84% | 100% | Median |
+| 3 | 16% | 16% |  |
 | 4 | 0% | 0% |  |
 
 
