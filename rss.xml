@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 07 Mar 2021 17:48:37 +0100</pubDate>
+    <pubDate>Thu, 18 Mar 2021 07:24:57 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 8–12 March 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-03-12-AKO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 7.1–10.6%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 12.3–16.6%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 11.1–15.3%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 3.2–5.7%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 4.6–7.5%&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.0–6.8%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0.6–2.0%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.9–4.0%&lt;/li&gt;&lt;li&gt;VLASŤ (*): 1.5–3.4%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 22.3–27.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-03-12-AKO.png"
+        length="459083"
+        type="image/png"/>
+      <pubDate>Thu, 18 Mar 2021 07:24:57 +0100</pubDate>
+      <dc:date>2021-03-18T07:24:57.841767+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by FOCUS, 17–24 February 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-02-24-FOCUS.html#seats</link>
@@ -1749,6 +1759,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57.180634+02:00</dc:date>
     </item>
-    <dc:date>2021-03-07T17:48:37.673611+01:00</dc:date>
+    <dc:date>2021-03-18T07:24:57.841767+01:00</dc:date>
   </channel>
 </rss>
