@@ -8,7 +8,27 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 18 Mar 2021 07:24:57 +0100</pubDate>
+    <pubDate>Fri, 19 Mar 2021 08:53:29 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 8–12 March 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-03-12-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 1–2 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 2–3 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;MOST–HÍD (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;VLASŤ (*): 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-03-12-AKO-seats.png"
+        length="390603"
+        type="image/png"/>
+      <pubDate>Fri, 19 Mar 2021 08:53:29 +0100</pubDate>
+      <dc:date>2021-03-19T08:53:29.284778+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 8–12 March 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-03-12-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-03-12-AKO-coalitions-seats.png"
+        length="262219"
+        type="image/png"/>
+      <pubDate>Fri, 19 Mar 2021 08:53:29 +0100</pubDate>
+      <dc:date>2021-03-19T08:53:29.284778+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 8–12 March 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-03-12-AKO.html</link>
@@ -16,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-03-12-AKO.png"
         length="459083"
         type="image/png"/>
-      <pubDate>Thu, 18 Mar 2021 07:24:57 +0100</pubDate>
-      <dc:date>2021-03-18T07:24:57.841767+01:00</dc:date>
+      <pubDate>Fri, 19 Mar 2021 08:53:29 +0100</pubDate>
+      <dc:date>2021-03-19T08:53:29.284778+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 17–24 February 2021 – Seat Projections for the Parties</title>
@@ -1759,6 +1779,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57.180634+02:00</dc:date>
     </item>
-    <dc:date>2021-03-18T07:24:57.841767+01:00</dc:date>
+    <dc:date>2021-03-19T08:53:29.284778+01:00</dc:date>
   </channel>
 </rss>
