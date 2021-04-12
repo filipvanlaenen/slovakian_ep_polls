@@ -10,7 +10,8 @@ Last result: **7.5%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.7% | 10.2–15.3% | 9.7–15.9% | 9.3–16.4% | 8.6–17.3% |
+| N/A | [Poll Average](average.html) | 12.0% | 9.4–15.1% | 8.9–15.7% | 8.5–16.3% | 7.9–17.2% |
+| [27–31 March 2021](2021-03-31-Actly.html) | Actly | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
 | [8–12 March 2021](2021-03-12-AKO.html) | AKO | 13.1% | 11.8–14.6% | 11.4–15.0% | 11.1–15.3% | 10.6–16.1% |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 10.4% | 9.3–11.7% | 8.9–12.1% | 8.7–12.5% | 8.2–13.1% |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 13.8% | 12.5–15.3% | 12.1–15.7% | 11.8–16.1% | 11.2–16.8% |
@@ -77,18 +78,19 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 6.5–7.5% | 0% | 100% | Last Result |
-| 7.5–8.5% | 0.4% | 100% |  |
-| 8.5–9.5% | 4% | 99.6% |  |
-| 9.5–10.5% | 10% | 96% |  |
-| 10.5–11.5% | 15% | 86% |  |
-| 11.5–12.5% | 18% | 71% |  |
-| 12.5–13.5% | 19% | 53% | Median |
-| 13.5–14.5% | 15% | 34% |  |
-| 14.5–15.5% | 11% | 19% |  |
-| 15.5–16.5% | 6% | 8% |  |
-| 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.3% | 0.3% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.2% | 100% | Last Result |
+| 7.5–8.5% | 2% | 99.8% |  |
+| 8.5–9.5% | 10% | 97% |  |
+| 9.5–10.5% | 15% | 87% |  |
+| 10.5–11.5% | 15% | 72% |  |
+| 11.5–12.5% | 15% | 57% | Median |
+| 12.5–13.5% | 15% | 42% |  |
+| 13.5–14.5% | 12% | 27% |  |
+| 14.5–15.5% | 9% | 15% |  |
+| 15.5–16.5% | 5% | 6% |  |
+| 16.5–17.5% | 1.4% | 2% |  |
+| 17.5–18.5% | 0.2% | 0.3% |  |
 | 18.5–19.5% | 0% | 0% |  |
 
 
@@ -100,14 +102,15 @@ Last result: **1** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [8–12 March 2021](2021-03-12-AKO.html) | AKO | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [27–31 March 2021](2021-03-31-Actly.html) | Actly | 2 | 2 | 2 | 1–2 | 1–2 |
+| [8–12 March 2021](2021-03-12-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 1–2 |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 2 | 2 | 2 | 2–3 | 2–3 |
+| [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 2 | 2 | 2 | 2 | 2–3 |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 3 | 3 | 3 | 3 | 2–3 |
 | [19–22 December 2020](2020-12-22-Polis.html) | Polis | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 1–3 |
@@ -169,9 +172,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.2% | 100% | Last Result |
-| 2 | 82% | 99.8% | Median |
-| 3 | 18% | 18% |  |
+| 1 | 0.8% | 100% | Last Result |
+| 2 | 74% | 99.2% | Median |
+| 3 | 25% | 25% |  |
 | 4 | 0% | 0% |  |
 
 
