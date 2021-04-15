@@ -428,8 +428,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 28% | 100% | Last Result |
-| 2 | 49% | 72% | Median |
-| 3 | 23% | 23% |  |
+| 2 | 44% | 72% | Median |
+| 3 | 28% | 28% |  |
 | 4 | 0% | 0% |  |
 
 ### NOVA (ECR)
@@ -447,8 +447,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.2% | 100% | Last Result |
-| 2 | 83% | 98.8% | Median |
-| 3 | 15% | 15% |  |
+| 2 | 87% | 98.8% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
 ### Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)
@@ -495,8 +495,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 56% | 100% | Last Result, Median |
-| 1 | 25% | 44% |  |
+| 0 | 57% | 100% | Last Result, Median |
+| 1 | 24% | 43% |  |
 | 2 | 19% | 19% |  |
 | 3 | 0% | 0% |  |
 
@@ -514,8 +514,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 79% | 96% | Median |
+| 0 | 3% | 100% | Last Result |
+| 1 | 80% | 97% | Median |
 | 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
@@ -534,8 +534,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 89% | 99.9% | Median |
-| 2 | 11% | 11% |  |
+| 1 | 84% | 99.9% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Za ľudí (EPP)
@@ -546,8 +546,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 60% | 100% | Last Result, Median |
-| 1 | 40% | 40% |  |
+| 0 | 61% | 100% | Last Result, Median |
+| 1 | 39% | 39% |  |
 | 2 | 0% | 0% |  |
 
 ### Dobrá voľba (*)
@@ -582,8 +582,8 @@ Only polls for which at least the sample size has been published are included in
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 19% | 100% |  |
-| 4 | 56% | 81% | Median |
-| 5 | 25% | 25% |  |
+| 4 | 60% | 81% | Median |
+| 5 | 22% | 22% |  |
 | 6 | 0% | 0% |  |
 
 ### REPUBLIKA (NI)
@@ -622,9 +622,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 4 | 0.9% | 100% | Last Result |
-| 5 | 45% | 99.1% |  |
-| 6 | 31% | 55% | Median |
-| 7 | 23% | 23% |  |
+| 5 | 43% | 99.1% |  |
+| 6 | 36% | 56% | Median |
+| 7 | 19% | 19% |  |
 | 8 | 0% | 0% | Majority |
 
 ### Kresťanskodemokratické hnutie (EPP) – OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP) – Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) – MOST–HÍD (EPP) – Za ľudí (EPP)
@@ -634,9 +634,9 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 0.5% | 100% |  |
-| 2 | 27% | 99.5% | Median |
-| 3 | 32% | 73% |  |
-| 4 | 40% | 41% |  |
+| 2 | 22% | 99.5% | Median |
+| 3 | 38% | 77% |  |
+| 4 | 38% | 39% |  |
 | 5 | 1.3% | 1.3% | Last Result |
 | 6 | 0% | 0% |  |
 
@@ -647,8 +647,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 1 | 1.2% | 100% |  |
-| 2 | 83% | 98.8% | Last Result, Median |
-| 3 | 16% | 16% |  |
+| 2 | 87% | 98.8% | Last Result, Median |
+| 3 | 12% | 12% |  |
 | 4 | 0% | 0% |  |
 
 ### Progresívne Slovensko–SPOLU–Občianska Demokracia (RE)
@@ -658,8 +658,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.1% | 100% | Last Result |
-| 1 | 89% | 99.9% | Median |
-| 2 | 11% | 11% |  |
+| 1 | 84% | 99.9% | Median |
+| 2 | 15% | 15% |  |
 | 3 | 0% | 0% |  |
 
 ### Kotleba–Ľudová strana Naše Slovensko (NI) – REPUBLIKA (NI)
@@ -668,8 +668,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 51% | 100% | Last Result, Median |
-| 1 | 29% | 49% |  |
+| 0 | 52% | 100% | Last Result, Median |
+| 1 | 28% | 48% |  |
 | 2 | 20% | 20% |  |
 | 3 | 0% | 0% |  |
 
@@ -679,8 +679,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% | Last Result |
-| 1 | 79% | 96% | Median |
+| 0 | 3% | 100% | Last Result |
+| 1 | 80% | 97% | Median |
 | 2 | 18% | 18% |  |
 | 3 | 0% | 0% |  |
 
@@ -697,5 +697,5 @@ Only polls for which at least the sample size has been published are included in
 
 + **Number of polls included in this average:** 5
 + **Lowest number of simulations done in a poll included in this average:** 131,072
-+ **Total number of simulations done in the polls included in this average:** 2,883,584
++ **Total number of simulations done in the polls included in this average:** 3,407,872
 + **Error estimate:** 3.11%

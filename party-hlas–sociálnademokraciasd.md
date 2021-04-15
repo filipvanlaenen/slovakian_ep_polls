@@ -123,7 +123,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [8–12 March 2021](2021-03-12-AKO.html) | AKO | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [8–12 March 2021](2021-03-12-AKO.html) | AKO | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
@@ -195,8 +195,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 19% | 100% |  |
-| 4 | 56% | 81% | Median |
-| 5 | 25% | 25% |  |
+| 4 | 60% | 81% | Median |
+| 5 | 22% | 22% |  |
 | 6 | 0% | 0% |  |
 
 
