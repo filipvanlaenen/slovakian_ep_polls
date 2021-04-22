@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 14 Apr 2021 20:25:40 +0200</pubDate>
+    <pubDate>Thu, 22 Apr 2021 08:12:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by AKO, 12–17 April 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-04-17-AKO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 11.8–16.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 2.0–4.1%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 2.2–4.4%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 21.4–26.6%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 2.2–4.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-04-17-AKO.png"
+        length="446458"
+        type="image/png"/>
+      <pubDate>Thu, 22 Apr 2021 08:12:57 +0200</pubDate>
+      <dc:date>2021-04-22T08:12:57.240632+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Actly, 27–31 March 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-03-31-Actly.html#seats</link>
@@ -1769,6 +1779,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57.180634+02:00</dc:date>
     </item>
-    <dc:date>2021-04-14T20:25:40.31304+02:00</dc:date>
+    <dc:date>2021-04-22T08:12:57.240632+02:00</dc:date>
   </channel>
 </rss>
