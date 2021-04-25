@@ -105,7 +105,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | [8–12 March 2021](2021-03-12-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
-| [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 1 | 1 | 1 | 1 | 0–1 |
+| [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 1 | 1 | 1 | 0–1 | 0–1 |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 0 | 0 | 0 | 0 | 0 |
 | [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 0 | 0 | 0 | 0 | 0 |
@@ -170,8 +170,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 59% | 100% | Median |
-| 1 | 41% | 41% | Last Result |
+| 0 | 60% | 100% | Median |
+| 1 | 40% | 40% | Last Result |
 | 2 | 0% | 0% |  |
 
 

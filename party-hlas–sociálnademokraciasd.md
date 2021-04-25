@@ -120,17 +120,17 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [12–17 April 2021](2021-04-17-AKO.html) | AKO | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [31 March–7 April 2021](2021-04-07-FOCUS.html) | FOCUS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
 | [27–31 March 2021](2021-03-31-Actly.html) | Actly | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [8–12 March 2021](2021-03-12-AKO.html) | AKO | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–24 February 2021](2021-02-24-FOCUS.html) | FOCUS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–11 February 2021](2021-02-11-AKO.html) | AKO | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [31 January–8 February 2021](2021-02-08-Polis.html) | Polis <br> SITA | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [16–20 January 2021](2021-01-20-Polis.html) | Polis | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [12–19 January 2021](2021-01-19-FOCUS.html) | FOCUS | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 4 | 4 | 4 | 4 | 4 |
+| [7–13 January 2021](2021-01-13-MedianSK.html) | Median SK <br> RTVS | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [19–22 December 2020](2020-12-22-Polis.html) | Polis | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [17–19 December 2020](2020-12-19-AKO.html) | AKO | 4 | 4 | 4 | 3–5 | 3–5 |
 | [8–14 December 2020](2020-12-14-FOCUS.html) | FOCUS | 4 | 3–5 | 3–5 | 3–5 | 3–5 |
@@ -195,8 +195,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 27% | 100% |  |
-| 4 | 42% | 73% | Median |
+| 3 | 10% | 100% |  |
+| 4 | 59% | 90% | Median |
 | 5 | 31% | 31% |  |
 | 6 | 0% | 0% |  |
 
