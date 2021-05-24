@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 21 May 2021 14:01:48 +0200</pubDate>
+    <pubDate>Mon, 24 May 2021 13:08:12 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by FOCUS, 11–19 May 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-05-19-FOCUS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 3–5 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-05-19-FOCUS-seats.png"
+        length="383929"
+        type="image/png"/>
+      <pubDate>Mon, 24 May 2021 13:08:12 +0200</pubDate>
+      <dc:date>2021-05-24T13:08:12.791444+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 11–19 May 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-05-19-FOCUS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-05-19-FOCUS-coalitions-seats.png"
+        length="249982"
+        type="image/png"/>
+      <pubDate>Mon, 24 May 2021 13:08:12 +0200</pubDate>
+      <dc:date>2021-05-24T13:08:12.791444+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by FOCUS, 11–19 May 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-05-19-FOCUS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 10.0–13.9%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 10.4–14.5%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 7.2–10.7%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 3.7–6.4%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.4–7.3%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 3.6–6.3%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 5.9–9.1%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0.8–2.3%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 20.0–25.1%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 3.4–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-05-19-FOCUS.png"
+        length="449227"
+        type="image/png"/>
+      <pubDate>Mon, 24 May 2021 13:08:12 +0200</pubDate>
+      <dc:date>2021-05-24T13:08:12.791444+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO, 13–17 May 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-05-17-AKO.html#seats</link>
@@ -1899,6 +1929,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57.180634+02:00</dc:date>
     </item>
-    <dc:date>2021-05-21T14:01:48.755148+02:00</dc:date>
+    <dc:date>2021-05-24T13:08:12.791444+02:00</dc:date>
   </channel>
 </rss>
