@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.1% | 3.1–6.5% |
+| N/A | [Poll Average](average.html) | 6.0% | 4.7–7.5% | 4.4–7.9% | 4.2–8.2% | 3.8–8.8% |
+| [6–13 September 2021](2021-09-13-AKO.html) | AKO | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
+| [1–7 September 2021](2021-09-07-FOCUS.html) | FOCUS <br> TV Markíza | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
 | [10–15 August 2021](2021-08-15-AKO.html) | AKO | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.0–6.5% |
 | [6–12 July 2021](2021-07-12-AKO.html) | AKO | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [7–11 June 2021](2021-06-11-AKO.html) | AKO | 2.8% | 2.2–3.6% | 2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
@@ -89,12 +91,15 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 4% | 100% |  |
-| 3.5–4.5% | 41% | 96% |  |
-| 4.5–5.5% | 45% | 55% | Median |
-| 5.5–6.5% | 9% | 10% |  |
-| 6.5–7.5% | 0.5% | 0.5% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 7% | 99.8% |  |
+| 4.5–5.5% | 27% | 93% |  |
+| 5.5–6.5% | 31% | 65% | Median |
+| 6.5–7.5% | 24% | 34% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 1.1% | 1.1% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -105,7 +110,9 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–2 | 0–2 |
+| [6–13 September 2021](2021-09-13-AKO.html) | AKO | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [1–7 September 2021](2021-09-07-FOCUS.html) | FOCUS <br> TV Markíza | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [10–15 August 2021](2021-08-15-AKO.html) | AKO | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 July 2021](2021-07-12-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0–1 |
 | [7–11 June 2021](2021-06-11-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
@@ -183,8 +190,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 74% | 100% | Last Result, Median |
-| 1 | 26% | 26% |  |
-| 2 | 0% | 0% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 91% | 95% | Median |
+| 2 | 4% | 4% |  |
+| 3 | 0% | 0% |  |
 
 
