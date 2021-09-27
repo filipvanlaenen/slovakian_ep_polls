@@ -111,9 +111,9 @@ Last result: **1** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 2–3 | 1–3 | 1–3 |
-| [6–13 September 2021](2021-09-13-AKO.html) | AKO | 2 | 2 | 2–3 | 2–3 | 2–3 |
-| [1–7 September 2021](2021-09-07-FOCUS.html) | FOCUS <br> TV Markíza | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
+| [6–13 September 2021](2021-09-13-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–7 September 2021](2021-09-07-FOCUS.html) | FOCUS <br> TV Markíza | 2 | 2 | 2 | 1–2 | 1–3 |
 | [10–15 August 2021](2021-08-15-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–12 July 2021](2021-07-12-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–11 June 2021](2021-06-11-AKO.html) | AKO | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -191,9 +191,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 3% | 100% | Last Result |
-| 2 | 91% | 97% | Median |
-| 3 | 5% | 5% |  |
+| 1 | 1.4% | 100% | Last Result |
+| 2 | 63% | 98.6% | Median |
+| 3 | 36% | 36% |  |
 | 4 | 0% | 0% |  |
 
 
