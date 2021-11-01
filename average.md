@@ -9,9 +9,10 @@ The table below lists the polls on which the average is based. They are the most
 | Period     | Polling firm/Commissioner(s) | Smer–SD | KDH | OĽaNO | NOVA | SaS | SMK–MKP | MOST–HÍD | SNS | Kotleba–ĽSNS | PS | SME RODINA | SPOLU | PS–SPOLU | ZĽ | DV | V | HLAS–SD | REP |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | Poll Average | 12–16% <br> 2–3 | 5–8% <br> 0–1 | 7–12% <br> 1–2 | N/A <br> N/A | 10–16% <br> 2–3 | 3–7% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0 | 2–6% <br> 0–1 | N/A <br> N/A | 5–8% <br> 1 | N/A <br> N/A | 7–11% <br> 1–2 | 1–3% <br> 0 | 0–3% <br> 0 | N/A <br> N/A | 16–21% <br> 3–4 | 4–8% <br> 0–2 |
-| [6–13 September 2021](2021-09-13-AKO.html) | AKO | 12–16% <br> 2–3 | 5–8% <br> 0–1 | 8–12% <br> 1–2 | N/A <br> N/A | 12–17% <br> 2–3 | 3–5% <br> 0 | N/A <br> N/A | 3–5% <br> 0 | 2–4% <br> 0 | N/A <br> N/A | 5–9% <br> 1 | N/A <br> N/A | 8–11% <br> 1–2 | 1–3% <br> 0 | 0–2% <br> 0 | N/A <br> N/A | 16–21% <br> 3–4 | 4–7% <br> 0–1 |
-| [1–7 September 2021](2021-09-07-FOCUS.html) | FOCUS <br> TV Markíza | 12–17% <br> 2–3 | 5–8% <br> 0–1 | 7–10% <br> 1–2 | N/A <br> N/A | 10–14% <br> 1–2 | 4–7% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | 3–6% <br> 0–1 | N/A <br> N/A | 5–8% <br> 0–1 | N/A <br> N/A | 7–10% <br> 1–2 | 1–3% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 16–21% <br> 3–4 | 5–9% <br> 1–2 |
+| N/A | Poll Average | 14–20% <br> 2–3 | 5–8% <br> 0–1 | 6–10% <br> 1–2 | N/A <br> N/A | 9–14% <br> 2 | 4–7% <br> 0–1 | N/A <br> N/A | 2–4% <br> 0 | 2–5% <br> 0 | N/A <br> N/A | 5–8% <br> 1 | N/A <br> N/A | 6–10% <br> 1–2 | 2–4% <br> 0 | 2–3% <br> 0 | N/A <br> N/A | 17–22% <br> 3–4 | 4–7% <br> 0–1 |
+| [20–27 October 2021](2021-10-27-FOCUS.html) | FOCUS <br> TV Markíza | 13–18% <br> 2–3 | 5–8% <br> 0–1 | 7–10% <br> 1–2 | N/A <br> N/A | 10–14% <br> 2 | 4–7% <br> 0–1 | N/A <br> N/A | 2–5% <br> 0 | 3–5% <br> 0 | N/A <br> N/A | 5–8% <br> 1 | N/A <br> N/A | 7–10% <br> 1–2 | 2–4% <br> 0 | 1–3% <br> 0 | N/A <br> N/A | 17–22% <br> 3–4 | 4–7% <br> 0–1 |
+| [17–20 October 2021](2021-10-20-Actly.html) | Actly <br> Zoznam/Topky | 15–20% <br> N/A | 5–7% <br> N/A | 5–8% <br> N/A | N/A <br> N/A | 9–13% <br> N/A | 3–5% <br> N/A | N/A <br> N/A | 2–4% <br> N/A | 2–4% <br> N/A | N/A <br> N/A | 8–11% <br> N/A | N/A <br> N/A | 5–9% <br> N/A | 2–4% <br> N/A | 1–3% <br> N/A | N/A <br> N/A | 19–24% <br> N/A | 4–7% <br> N/A |
+| [4–7 October 2021](2021-10-07-AKO.html) | AKO <br> TV JOJ | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A |
 | 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
@@ -48,24 +49,24 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#smer–sociálna-demokracia-(s&d)">SMER–sociálna demokracia (S&D)</a> | 24.1% | 14.2% | 12.8–15.7% |12.4–16.1% | 12.1–16.5% | 11.5–17.2% |
-| <a href="#kresťanskodemokratické-hnutie-(epp)">Kresťanskodemokratické hnutie (EPP)</a> | 13.2% | 6.4% | 5.4–7.5% |5.1–7.8% | 4.9–8.1% | 4.5–8.7% |
-| <a href="#obyčajní-ľudia-a-nezávislé-osobnosti-(epp)">OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)</a> | 7.5% | 9.1% | 7.5–10.8% |7.2–11.2% | 6.9–11.6% | 6.4–12.3% |
+| <a href="#smer–sociálna-demokracia-(s&d)">SMER–sociálna demokracia (S&D)</a> | 24.1% | 16.6% | 14.5–18.8% |14.1–19.3% | 13.7–19.8% | 13.0–20.6% |
+| <a href="#kresťanskodemokratické-hnutie-(epp)">Kresťanskodemokratické hnutie (EPP)</a> | 13.2% | 6.2% | 5.3–7.2% |5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
+| <a href="#obyčajní-ľudia-a-nezávislé-osobnosti-(epp)">OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)</a> | 7.5% | 7.6% | 6.2–9.2% |5.8–9.7% | 5.6–10.0% | 5.1–10.7% |
 | <a href="#nova-(ecr)">NOVA (ECR)</a> | 6.8% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#sloboda-a-solidarita-(ecr)">Sloboda a Solidarita (ECR)</a> | 6.7% | 13.1% | 10.9–15.5% |10.5–16.0% | 10.1–16.4% | 9.5–17.3% |
-| <a href="#strana-maďarskej-koalície–magyar-koalíció-pártja-(epp)">Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)</a> | 6.5% | 4.7% | 3.4–6.2% |3.1–6.5% | 2.9–6.8% | 2.6–7.4% |
+| <a href="#sloboda-a-solidarita-(ecr)">Sloboda a Solidarita (ECR)</a> | 6.7% | 11.4% | 9.8–13.1% |9.4–13.6% | 9.1–14.0% | 8.5–14.8% |
+| <a href="#strana-maďarskej-koalície–magyar-koalíció-pártja-(epp)">Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)</a> | 6.5% | 5.2% | 4.4–6.2% |4.1–6.4% | 4.0–6.7% | 3.6–7.2% |
 | <a href="#most–híd-(epp)">MOST–HÍD (EPP)</a> | 5.8% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#slovenská-národná-strana-(ecr)">Slovenská národná strana (ECR)</a> | 3.6% | 3.6% | 2.9–4.4% |2.7–4.7% | 2.6–4.9% | 2.3–5.3% |
-| <a href="#kotleba–ľudová-strana-naše-slovensko-(ni)">Kotleba–Ľudová strana Naše Slovensko (NI)</a> | 1.7% | 3.7% | 2.4–5.2% |2.2–5.6% | 2.0–5.8% | 1.7–6.4% |
+| <a href="#slovenská-národná-strana-(ecr)">Slovenská národná strana (ECR)</a> | 3.6% | 3.2% | 2.6–4.0% |2.4–4.2% | 2.2–4.5% | 2.0–4.9% |
+| <a href="#kotleba–ľudová-strana-naše-slovensko-(ni)">Kotleba–Ľudová strana Naše Slovensko (NI)</a> | 1.7% | 3.1% | 2.1–4.4% |1.9–4.7% | 1.7–4.9% | 1.5–5.4% |
 | <a href="#progresívne-slovensko-(re)">Progresívne Slovensko (RE)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#sme-rodina-(id)">SME RODINA (ID)</a> | 0.0% | 6.8% | 5.8–7.9% |5.6–8.2% | 5.3–8.5% | 4.9–9.0% |
+| <a href="#sme-rodina-(id)">SME RODINA (ID)</a> | 0.0% | 6.4% | 5.5–7.4% |5.2–7.8% | 5.0–8.0% | 4.6–8.6% |
 | <a href="#spolu–občianska-demokracia-(epp)">SPOLU–Občianska Demokracia (EPP)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#progresívne-slovensko–spolu–občianska-demokracia-(re)">Progresívne Slovensko–SPOLU–Občianska Demokracia (RE)</a> | 0.0% | 8.8% | 7.4–10.4% |7.1–10.8% | 6.8–11.2% | 6.3–11.9% |
-| <a href="#za-ľudí-(epp)">Za ľudí (EPP)</a> | 0.0% | 2.0% | 1.4–2.7% |1.3–2.9% | 1.2–3.1% | 1.0–3.5% |
-| <a href="#dobrá-voľba-(*)">Dobrá voľba (*)</a> | 0.0% | 1.5% | 0.7–2.6% |0.6–2.8% | 0.5–3.0% | 0.4–3.4% |
+| <a href="#progresívne-slovensko–spolu–občianska-demokracia-(re)">Progresívne Slovensko–SPOLU–Občianska Demokracia (RE)</a> | 0.0% | 8.1% | 7.0–9.2% |6.7–9.6% | 6.5–9.9% | 6.1–10.5% |
+| <a href="#za-ľudí-(epp)">Za ľudí (EPP)</a> | 0.0% | 2.8% | 2.2–3.6% |2.1–3.8% | 1.9–4.0% | 1.7–4.4% |
+| <a href="#dobrá-voľba-(*)">Dobrá voľba (*)</a> | 0.0% | 2.2% | 1.7–2.9% |1.6–3.1% | 1.5–3.3% | 1.2–3.7% |
 | <a href="#vlasť-(*)">VLASŤ (*)</a> | 0.0% | N/A | N/A |N/A | N/A | N/A |
-| <a href="#hlas–sociálna-demokracia-(s&d)">HLAS–sociálna demokracia (S&D)</a> | 0.0% | 18.7% | 17.1–20.3% |16.7–20.8% | 16.3–21.2% | 15.6–22.0% |
-| <a href="#republika-(ni)">REPUBLIKA (NI)</a> | 0.0% | 6.0% | 4.7–7.5% |4.4–7.9% | 4.2–8.2% | 3.8–8.8% |
+| <a href="#hlas–sociálna-demokracia-(s&d)">HLAS–sociálna demokracia (S&D)</a> | 0.0% | 19.6% | 18.0–21.2% |17.6–21.7% | 17.2–22.1% | 16.5–22.9% |
+| <a href="#republika-(ni)">REPUBLIKA (NI)</a> | 0.0% | 5.5% | 4.6–6.5% |4.4–6.8% | 4.2–7.0% | 3.8–7.6% |
 
 ### SMER–sociálna demokracia (S&D)
 
@@ -73,19 +74,18 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 9.5–10.5% | 0% | 100% |  |
-| 10.5–11.5% | 0.7% | 100% |  |
-| 11.5–12.5% | 6% | 99.3% |  |
-| 12.5–13.5% | 22% | 93% |  |
-| 13.5–14.5% | 34% | 72% | Median |
-| 14.5–15.5% | 25% | 37% |  |
-| 15.5–16.5% | 10% | 12% |  |
-| 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.2% | 0.2% |  |
-| 18.5–19.5% | 0% | 0% |  |
-| 19.5–20.5% | 0% | 0% |  |
-| 20.5–21.5% | 0% | 0% |  |
-| 21.5–22.5% | 0% | 0% |  |
+| 10.5–11.5% | 0% | 100% |  |
+| 11.5–12.5% | 0.1% | 100% |  |
+| 12.5–13.5% | 2% | 99.9% |  |
+| 13.5–14.5% | 8% | 98% |  |
+| 14.5–15.5% | 17% | 90% |  |
+| 15.5–16.5% | 22% | 73% |  |
+| 16.5–17.5% | 21% | 51% | Median |
+| 17.5–18.5% | 17% | 30% |  |
+| 18.5–19.5% | 9% | 13% |  |
+| 19.5–20.5% | 3% | 4% |  |
+| 20.5–21.5% | 0.6% | 0.6% |  |
+| 21.5–22.5% | 0.1% | 0.1% |  |
 | 22.5–23.5% | 0% | 0% |  |
 | 23.5–24.5% | 0% | 0% | Last Result |
 
@@ -96,12 +96,12 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 13% | 99.4% |  |
-| 5.5–6.5% | 44% | 86% | Median |
-| 6.5–7.5% | 34% | 43% |  |
-| 7.5–8.5% | 8% | 9% |  |
-| 8.5–9.5% | 0.7% | 0.8% |  |
+| 3.5–4.5% | 0.9% | 100% |  |
+| 4.5–5.5% | 18% | 99.1% |  |
+| 5.5–6.5% | 49% | 81% | Median |
+| 6.5–7.5% | 28% | 32% |  |
+| 7.5–8.5% | 5% | 5% |  |
+| 8.5–9.5% | 0.3% | 0.3% |  |
 | 9.5–10.5% | 0% | 0% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
@@ -113,16 +113,15 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.9% | 100% |  |
-| 6.5–7.5% | 9% | 99.1% | Last Result |
-| 7.5–8.5% | 25% | 90% |  |
-| 8.5–9.5% | 28% | 65% | Median |
-| 9.5–10.5% | 23% | 37% |  |
-| 10.5–11.5% | 11% | 14% |  |
-| 11.5–12.5% | 2% | 3% |  |
-| 12.5–13.5% | 0.3% | 0.3% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 2% | 100% |  |
+| 5.5–6.5% | 17% | 98% |  |
+| 6.5–7.5% | 29% | 81% | Last Result |
+| 7.5–8.5% | 28% | 53% | Median |
+| 8.5–9.5% | 18% | 24% |  |
+| 9.5–10.5% | 5% | 6% |  |
+| 10.5–11.5% | 0.6% | 0.7% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 ### Sloboda a Solidarita (ECR)
 
@@ -131,18 +130,16 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 6.5–7.5% | 0% | 100% | Last Result |
-| 7.5–8.5% | 0% | 100% |  |
-| 8.5–9.5% | 0.6% | 100% |  |
-| 9.5–10.5% | 5% | 99.4% |  |
-| 10.5–11.5% | 16% | 94% |  |
-| 11.5–12.5% | 19% | 78% |  |
-| 12.5–13.5% | 16% | 59% | Median |
-| 13.5–14.5% | 18% | 43% |  |
-| 14.5–15.5% | 16% | 25% |  |
-| 15.5–16.5% | 7% | 9% |  |
-| 16.5–17.5% | 2% | 2% |  |
-| 17.5–18.5% | 0.2% | 0.3% |  |
-| 18.5–19.5% | 0% | 0% |  |
+| 7.5–8.5% | 0.6% | 100% |  |
+| 8.5–9.5% | 6% | 99.4% |  |
+| 9.5–10.5% | 19% | 93% |  |
+| 10.5–11.5% | 28% | 74% | Median |
+| 11.5–12.5% | 25% | 46% |  |
+| 12.5–13.5% | 15% | 21% |  |
+| 13.5–14.5% | 5% | 6% |  |
+| 14.5–15.5% | 0.7% | 0.8% |  |
+| 15.5–16.5% | 0.1% | 0.1% |  |
+| 16.5–17.5% | 0% | 0% |  |
 
 ### Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)
 
@@ -150,14 +147,13 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 15% | 99.7% |  |
-| 3.5–4.5% | 32% | 85% |  |
-| 4.5–5.5% | 28% | 53% | Median |
-| 5.5–6.5% | 21% | 25% |  |
-| 6.5–7.5% | 4% | 5% | Last Result |
-| 7.5–8.5% | 0.3% | 0.3% |  |
+| 1.5–2.5% | 0% | 100% |  |
+| 2.5–3.5% | 0.4% | 100% |  |
+| 3.5–4.5% | 16% | 99.6% |  |
+| 4.5–5.5% | 52% | 84% | Median |
+| 5.5–6.5% | 28% | 32% |  |
+| 6.5–7.5% | 4% | 4% | Last Result |
+| 7.5–8.5% | 0.1% | 0.2% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
 ### Slovenská národná strana (ECR)
@@ -167,12 +163,11 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 44% | 98% |  |
-| 3.5–4.5% | 47% | 54% | Last Result, Median |
-| 4.5–5.5% | 7% | 7% |  |
-| 5.5–6.5% | 0.2% | 0.2% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 9% | 100% |  |
+| 2.5–3.5% | 61% | 91% | Median |
+| 3.5–4.5% | 28% | 29% | Last Result |
+| 4.5–5.5% | 2% | 2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 ### Kotleba–Ľudová strana Naše Slovensko (NI)
 
@@ -180,14 +175,14 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 17% | 99.9% | Last Result |
-| 2.5–3.5% | 31% | 83% |  |
-| 3.5–4.5% | 24% | 52% | Median |
-| 4.5–5.5% | 23% | 28% |  |
-| 5.5–6.5% | 5% | 5% |  |
-| 6.5–7.5% | 0.3% | 0.3% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% |  |
+| 0.5–1.5% | 0.8% | 100% |  |
+| 1.5–2.5% | 28% | 99.2% | Last Result |
+| 2.5–3.5% | 36% | 71% | Median |
+| 3.5–4.5% | 29% | 35% |  |
+| 4.5–5.5% | 6% | 6% |  |
+| 5.5–6.5% | 0.3% | 0.3% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 ### SME RODINA (ID)
 
@@ -199,14 +194,13 @@ Only polls for which at least the sample size has been published are included in
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 5% | 99.9% |  |
-| 5.5–6.5% | 33% | 95% |  |
-| 6.5–7.5% | 44% | 62% | Median |
-| 7.5–8.5% | 16% | 18% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 12% | 99.6% |  |
+| 5.5–6.5% | 46% | 88% | Median |
+| 6.5–7.5% | 34% | 42% |  |
+| 7.5–8.5% | 7% | 8% |  |
+| 8.5–9.5% | 0.5% | 0.5% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 ### Progresívne Slovensko–SPOLU–Občianska Demokracia (RE)
 
@@ -220,15 +214,13 @@ Only polls for which at least the sample size has been published are included in
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 1.2% | 100% |  |
-| 6.5–7.5% | 11% | 98.7% |  |
-| 7.5–8.5% | 28% | 87% |  |
-| 8.5–9.5% | 31% | 59% | Median |
-| 9.5–10.5% | 20% | 28% |  |
-| 10.5–11.5% | 7% | 8% |  |
-| 11.5–12.5% | 1.0% | 1.1% |  |
-| 12.5–13.5% | 0.1% | 0.1% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 5.5–6.5% | 3% | 100% |  |
+| 6.5–7.5% | 23% | 97% |  |
+| 7.5–8.5% | 44% | 74% | Median |
+| 8.5–9.5% | 24% | 30% |  |
+| 9.5–10.5% | 5% | 5% |  |
+| 10.5–11.5% | 0.4% | 0.4% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 ### Za ľudí (EPP)
 
@@ -237,11 +229,12 @@ Only polls for which at least the sample size has been published are included in
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 17% | 100% |  |
-| 1.5–2.5% | 66% | 83% | Median |
-| 2.5–3.5% | 16% | 16% |  |
-| 3.5–4.5% | 0.5% | 0.5% |  |
-| 4.5–5.5% | 0% | 0% |  |
+| 0.5–1.5% | 0.2% | 100% |  |
+| 1.5–2.5% | 28% | 99.8% |  |
+| 2.5–3.5% | 62% | 72% | Median |
+| 3.5–4.5% | 10% | 10% |  |
+| 4.5–5.5% | 0.2% | 0.2% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 ### Dobrá voľba (*)
 
@@ -249,11 +242,11 @@ Only polls for which at least the sample size has been published are included in
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 48% | 97% |  |
-| 1.5–2.5% | 38% | 49% | Median |
-| 2.5–3.5% | 10% | 11% |  |
-| 3.5–4.5% | 0.3% | 0.3% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 5% | 100% |  |
+| 1.5–2.5% | 69% | 95% | Median |
+| 2.5–3.5% | 26% | 27% |  |
+| 3.5–4.5% | 0.8% | 0.8% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 ### HLAS–sociálna demokracia (S&D)
@@ -277,16 +270,17 @@ Only polls for which at least the sample size has been published are included in
 | 11.5–12.5% | 0% | 100% |  |
 | 12.5–13.5% | 0% | 100% |  |
 | 13.5–14.5% | 0% | 100% |  |
-| 14.5–15.5% | 0.4% | 100% |  |
-| 15.5–16.5% | 3% | 99.6% |  |
-| 16.5–17.5% | 14% | 96% |  |
-| 17.5–18.5% | 28% | 82% |  |
-| 18.5–19.5% | 30% | 54% | Median |
-| 19.5–20.5% | 17% | 24% |  |
-| 20.5–21.5% | 6% | 7% |  |
-| 21.5–22.5% | 1.1% | 1.3% |  |
-| 22.5–23.5% | 0.1% | 0.1% |  |
-| 23.5–24.5% | 0% | 0% |  |
+| 14.5–15.5% | 0% | 100% |  |
+| 15.5–16.5% | 0.6% | 100% |  |
+| 16.5–17.5% | 4% | 99.4% |  |
+| 17.5–18.5% | 16% | 95% |  |
+| 18.5–19.5% | 29% | 80% |  |
+| 19.5–20.5% | 28% | 50% | Median |
+| 20.5–21.5% | 16% | 22% |  |
+| 21.5–22.5% | 5% | 6% |  |
+| 22.5–23.5% | 0.9% | 1.0% |  |
+| 23.5–24.5% | 0.1% | 0.1% |  |
+| 24.5–25.5% | 0% | 0% |  |
 
 ### REPUBLIKA (NI)
 
@@ -297,15 +291,13 @@ Only polls for which at least the sample size has been published are included in
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 7% | 99.8% |  |
-| 4.5–5.5% | 27% | 93% |  |
-| 5.5–6.5% | 31% | 65% | Median |
-| 6.5–7.5% | 24% | 34% |  |
-| 7.5–8.5% | 9% | 10% |  |
-| 8.5–9.5% | 1.1% | 1.1% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
-| 10.5–11.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.1% | 100% |  |
+| 3.5–4.5% | 8% | 99.9% |  |
+| 4.5–5.5% | 44% | 92% |  |
+| 5.5–6.5% | 39% | 48% | Median |
+| 6.5–7.5% | 8% | 8% |  |
+| 7.5–8.5% | 0.5% | 0.5% |  |
+| 8.5–9.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -318,24 +310,24 @@ Only polls for which at least the sample size has been published are included in
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#smer–sociálna-demokracia-(s&d)">SMER–sociálna demokracia (S&D)</a> | 4 | 2 | 2–3 |2–3 | 2–3 | 2–3 |
-| <a href="#kresťanskodemokratické-hnutie-(epp)">Kresťanskodemokratické hnutie (EPP)</a> | 2 | 1 | 1 |0–1 | 0–1 | 0–1 |
+| <a href="#smer–sociálna-demokracia-(s&d)">SMER–sociálna demokracia (S&D)</a> | 4 | 3 | 2–3 |2–3 | 2–3 | 2–3 |
+| <a href="#kresťanskodemokratické-hnutie-(epp)">Kresťanskodemokratické hnutie (EPP)</a> | 2 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#obyčajní-ľudia-a-nezávislé-osobnosti-(epp)">OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)</a> | 1 | 2 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#nova-(ecr)">NOVA (ECR)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#sloboda-a-solidarita-(ecr)">Sloboda a Solidarita (ECR)</a> | 1 | 2 | 2–3 |2–3 | 2–3 | 1–3 |
-| <a href="#strana-maďarskej-koalície–magyar-koalíció-pártja-(epp)">Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)</a> | 1 | 0 | 0–1 |0–1 | 0–1 | 0–1 |
+| <a href="#sloboda-a-solidarita-(ecr)">Sloboda a Solidarita (ECR)</a> | 1 | 2 | 2 |2 | 2 | 2–3 |
+| <a href="#strana-maďarskej-koalície–magyar-koalíció-pártja-(epp)">Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)</a> | 1 | 1 | 0–1 |0–1 | 0–1 | 0–1 |
 | <a href="#most–híd-(epp)">MOST–HÍD (EPP)</a> | 1 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#slovenská-národná-strana-(ecr)">Slovenská národná strana (ECR)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
-| <a href="#kotleba–ľudová-strana-naše-slovensko-(ni)">Kotleba–Ľudová strana Naše Slovensko (NI)</a> | 0 | 0 | 0 |0–1 | 0–1 | 0–1 |
+| <a href="#kotleba–ľudová-strana-naše-slovensko-(ni)">Kotleba–Ľudová strana Naše Slovensko (NI)</a> | 0 | 0 | 0 |0 | 0 | 0–1 |
 | <a href="#progresívne-slovensko-(re)">Progresívne Slovensko (RE)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#sme-rodina-(id)">SME RODINA (ID)</a> | 0 | 1 | 1 |1 | 1 | 0–2 |
+| <a href="#sme-rodina-(id)">SME RODINA (ID)</a> | 0 | 1 | 1 |1 | 1 | 0–1 |
 | <a href="#spolu–občianska-demokracia-(epp)">SPOLU–Občianska Demokracia (EPP)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
 | <a href="#progresívne-slovensko–spolu–občianska-demokracia-(re)">Progresívne Slovensko–SPOLU–Občianska Demokracia (RE)</a> | 0 | 1 | 1–2 |1–2 | 1–2 | 1–2 |
 | <a href="#za-ľudí-(epp)">Za ľudí (EPP)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#dobrá-voľba-(*)">Dobrá voľba (*)</a> | 0 | 0 | 0 |0 | 0 | 0 |
 | <a href="#vlasť-(*)">VLASŤ (*)</a> | 0 | N/A | N/A |N/A | N/A | N/A |
-| <a href="#hlas–sociálna-demokracia-(s&d)">HLAS–sociálna demokracia (S&D)</a> | 0 | 3 | 3–4 |3–4 | 3–4 | 2–4 |
-| <a href="#republika-(ni)">REPUBLIKA (NI)</a> | 0 | 1 | 0–1 |0–1 | 0–2 | 0–2 |
+| <a href="#hlas–sociálna-demokracia-(s&d)">HLAS–sociálna demokracia (S&D)</a> | 0 | 3 | 3 |3–4 | 3–4 | 3–4 |
+| <a href="#republika-(ni)">REPUBLIKA (NI)</a> | 0 | 1 | 1 |1 | 0–1 | 0–1 |
 
 ### SMER–sociálna demokracia (S&D)
 
@@ -345,9 +337,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 59% | 100% | Median |
-| 3 | 41% | 41% |  |
-| 4 | 0% | 0% | Last Result |
+| 2 | 35% | 100% |  |
+| 3 | 65% | 65% | Median |
+| 4 | 0.1% | 0.1% | Last Result |
+| 5 | 0% | 0% |  |
 
 ### Kresťanskodemokratické hnutie (EPP)
 
@@ -357,9 +350,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 8% | 100% |  |
-| 1 | 92% | 92% | Median |
-| 2 | 0.2% | 0.2% | Last Result |
+| 0 | 48% | 100% |  |
+| 1 | 52% | 52% | Median |
+| 2 | 0.1% | 0.1% | Last Result |
 | 3 | 0% | 0% |  |
 
 ### OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)
@@ -370,8 +363,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 50% | 100% | Last Result |
-| 2 | 50% | 50% | Median |
+| 1 | 22% | 100% | Last Result |
+| 2 | 78% | 78% | Median |
 | 3 | 0% | 0% |  |
 
 ### NOVA (ECR)
@@ -388,9 +381,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.4% | 100% | Last Result |
-| 2 | 63% | 98.6% | Median |
-| 3 | 36% | 36% |  |
+| 1 | 0% | 100% | Last Result |
+| 2 | 99.3% | 100% | Median |
+| 3 | 0.7% | 0.7% |  |
 | 4 | 0% | 0% |  |
 
 ### Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)
@@ -401,10 +394,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Median |
-| 1 | 39% | 39% | Last Result |
-| 2 | 0.2% | 0.2% |  |
-| 3 | 0% | 0% |  |
+| 0 | 28% | 100% |  |
+| 1 | 72% | 72% | Last Result, Median |
+| 2 | 0% | 0% |  |
 
 ### MOST–HÍD (EPP)
 
@@ -420,8 +412,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 98% | 100% | Last Result, Median |
-| 1 | 2% | 2% |  |
+| 0 | 99.5% | 100% | Last Result, Median |
+| 1 | 0.5% | 0.5% |  |
 | 2 | 0% | 0% |  |
 
 ### Kotleba–Ľudová strana Naše Slovensko (NI)
@@ -432,8 +424,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 92% | 100% | Last Result, Median |
-| 1 | 8% | 8% |  |
+| 0 | 99.1% | 100% | Last Result, Median |
+| 1 | 0.9% | 0.9% |  |
 | 2 | 0% | 0% |  |
 
 ### Progresívne Slovensko (RE)
@@ -450,9 +442,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.4% | 100% | Last Result |
-| 1 | 97% | 98.6% | Median |
-| 2 | 1.3% | 1.3% |  |
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 98.7% | 99.1% | Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 ### SPOLU–Občianska Demokracia (EPP)
@@ -470,8 +462,8 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 72% | 100% | Median |
-| 2 | 28% | 28% |  |
+| 1 | 71% | 100% | Median |
+| 2 | 29% | 29% |  |
 | 3 | 0% | 0% |  |
 
 ### Za ľudí (EPP)
@@ -510,9 +502,9 @@ Only polls for which at least the sample size has been published are included in
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.1% | 100% |  |
-| 3 | 84% | 98.9% | Median |
-| 4 | 15% | 15% |  |
+| 2 | 0% | 100% |  |
+| 3 | 93% | 100% | Median |
+| 4 | 7% | 7% |  |
 | 5 | 0% | 0% |  |
 
 ### REPUBLIKA (NI)
@@ -523,10 +515,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 85% | 88% | Median |
-| 2 | 3% | 3% |  |
-| 3 | 0% | 0% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
+| 2 | 0% | 0% |  |
 
 
 ## Coalitions
@@ -537,12 +528,12 @@ Only polls for which at least the sample size has been published are included in
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| SMER–sociálna demokracia (S&D) – HLAS–sociálna demokracia (S&D) | 4 | 5 | 0% | 5–6 | 5–7 | 5–7 | 4–7 |
-| Kresťanskodemokratické hnutie (EPP) – OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP) – Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) – MOST–HÍD (EPP) – Za ľudí (EPP) | 5 | 3 | 0% | 2–3 | 2–4 | 2–4 | 1–4 |
-| NOVA (ECR) – Sloboda a Solidarita (ECR) – Slovenská národná strana (ECR) | 2 | 2 | 0% | 2–3 | 2–3 | 2–3 | 1–3 |
+| SMER–sociálna demokracia (S&D) – HLAS–sociálna demokracia (S&D) | 4 | 6 | 0% | 5–6 | 5–7 | 5–7 | 5–7 |
+| Kresťanskodemokratické hnutie (EPP) – OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP) – Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) – MOST–HÍD (EPP) – Za ľudí (EPP) | 5 | 3 | 0% | 3 | 3–4 | 2–4 | 2–4 |
+| NOVA (ECR) – Sloboda a Solidarita (ECR) – Slovenská národná strana (ECR) | 2 | 2 | 0% | 2 | 2 | 2 | 2–3 |
 | Progresívne Slovensko–SPOLU–Občianska Demokracia (RE) | 0 | 1 | 0% | 1–2 | 1–2 | 1–2 | 1–2 |
-| Kotleba–Ľudová strana Naše Slovensko (NI) – REPUBLIKA (NI) | 0 | 1 | 0% | 0–2 | 0–2 | 0–2 | 0–2 |
-| SME RODINA (ID) | 0 | 1 | 0% | 1 | 1 | 1 | 0–2 |
+| SME RODINA (ID) | 0 | 1 | 0% | 1 | 1 | 1 | 0–1 |
+| Kotleba–Ľudová strana Naše Slovensko (NI) – REPUBLIKA (NI) | 0 | 1 | 0% | 1 | 1 | 0–1 | 0–2 |
 | Dobrá voľba (*) – VLASŤ (*) | 0 | 0 | 0% | 0 | 0 | 0 | 0 |
 
 ### SMER–sociálna demokracia (S&D) – HLAS–sociálna demokracia (S&D)
@@ -551,10 +542,10 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0.5% | 100% | Last Result |
-| 5 | 51% | 99.5% | Median |
-| 6 | 43% | 49% |  |
-| 7 | 6% | 6% |  |
+| 4 | 0% | 100% | Last Result |
+| 5 | 34% | 100% |  |
+| 6 | 59% | 66% | Median |
+| 7 | 7% | 7% |  |
 | 8 | 0% | 0% | Majority |
 
 ### Kresťanskodemokratické hnutie (EPP) – OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP) – Strana maďarskej koalície–Magyar Koalíció Pártja (EPP) – MOST–HÍD (EPP) – Za ľudí (EPP)
@@ -563,10 +554,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 2% | 100% |  |
-| 2 | 22% | 98% |  |
-| 3 | 68% | 76% | Median |
-| 4 | 8% | 8% |  |
+| 2 | 3% | 100% |  |
+| 3 | 91% | 96% |  |
+| 4 | 6% | 6% | Median |
 | 5 | 0% | 0% | Last Result |
 
 ### NOVA (ECR) – Sloboda a Solidarita (ECR) – Slovenská národná strana (ECR)
@@ -575,9 +565,8 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 1.2% | 100% |  |
-| 2 | 61% | 98.8% | Last Result, Median |
-| 3 | 38% | 38% |  |
+| 2 | 98.8% | 100% | Last Result, Median |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 ### Progresívne Slovensko–SPOLU–Občianska Demokracia (RE)
@@ -587,8 +576,19 @@ Only polls for which at least the sample size has been published are included in
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 72% | 100% | Median |
-| 2 | 28% | 28% |  |
+| 1 | 71% | 100% | Median |
+| 2 | 29% | 29% |  |
+| 3 | 0% | 0% |  |
+
+### SME RODINA (ID)
+
+![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-smerodina.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 0.9% | 100% | Last Result |
+| 1 | 98.7% | 99.1% | Median |
+| 2 | 0.4% | 0.4% |  |
 | 3 | 0% | 0% |  |
 
 ### Kotleba–Ľudová strana Naše Slovensko (NI) – REPUBLIKA (NI)
@@ -597,21 +597,9 @@ Only polls for which at least the sample size has been published are included in
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 12% | 100% | Last Result |
-| 1 | 77% | 88% | Median |
-| 2 | 11% | 11% |  |
-| 3 | 0.1% | 0.1% |  |
-| 4 | 0% | 0% |  |
-
-### SME RODINA (ID)
-
-![Graph with seats probability mass function not yet produced](average-coalitions-seats-pmf-smerodina.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 1.4% | 100% | Last Result |
-| 1 | 97% | 98.6% | Median |
-| 2 | 1.3% | 1.3% |  |
+| 0 | 5% | 100% | Last Result |
+| 1 | 95% | 95% | Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### Dobrá voľba (*) – VLASŤ (*)
@@ -625,7 +613,7 @@ Only polls for which at least the sample size has been published are included in
 
 ## Technical Information
 
-+ **Number of polls included in this average:** 2
-+ **Lowest number of simulations done in a poll included in this average:** 1,048,576
-+ **Total number of simulations done in the polls included in this average:** 2,097,152
-+ **Error estimate:** 2.79%
++ **Number of polls included in this average:** 3
++ **Lowest number of simulations done in a poll included in this average:** 0
++ **Total number of simulations done in the polls included in this average:** 131,072
++ **Error estimate:** 2.62%
