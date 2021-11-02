@@ -116,7 +116,7 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
-| [20–27 October 2021](2021-10-27-FOCUS.html) | FOCUS <br> TV Markíza | 2 | 2 | 2–3 | 2–3 | 2–3 |
+| [20–27 October 2021](2021-10-27-FOCUS.html) | FOCUS <br> TV Markíza | 2 | 2–3 | 2–3 | 2–3 | 1–3 |
 | [17–20 October 2021](2021-10-20-Actly.html) | Actly <br> Zoznam/Topky | 2 | 2 | 2 | 2 | 1–2 |
 | [4–7 October 2021](2021-10-07-AKO.html) | AKO <br> TV JOJ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [6–13 September 2021](2021-09-13-AKO.html) | AKO | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
@@ -199,9 +199,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 0.8% | 100% | Last Result |
-| 2 | 66% | 99.2% | Median |
-| 3 | 33% | 33% |  |
+| 1 | 1.0% | 100% | Last Result |
+| 2 | 75% | 99.0% | Median |
+| 3 | 24% | 24% |  |
 | 4 | 0% | 0% |  |
 
 
