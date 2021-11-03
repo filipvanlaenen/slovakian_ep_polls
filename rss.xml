@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 01 Nov 2021 19:49:06 +0100</pubDate>
+    <pubDate>Tue, 02 Nov 2021 20:38:36 +0100</pubDate>
     <item>
       <title>Opinion Poll by FOCUS for TV Markíza, 20–27 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-10-27-FOCUS.html#seats</link>
@@ -280,14 +280,34 @@
       <dc:date>2021-06-20T13:25:45.028894+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by Actly, 4–7 June 2021 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-06-07-Actly.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 4–5 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-06-07-Actly-seats.png"
+        length="350596"
+        type="image/png"/>
+      <pubDate>Tue, 02 Nov 2021 20:38:36 +0100</pubDate>
+      <dc:date>2021-11-02T20:38:36.058254+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Actly, 4–7 June 2021 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-06-07-Actly.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-06-07-Actly-coalitions-seats.png"
+        length="227626"
+        type="image/png"/>
+      <pubDate>Tue, 02 Nov 2021 20:38:36 +0100</pubDate>
+      <dc:date>2021-11-02T20:38:36.058254+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Actly, 4–7 June 2021 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-06-07-Actly.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 12.7–17.1%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 9.8–13.7%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 2.5–4.8%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 2.1–4.3%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 4.3–7.1%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.0–8.0%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.7–5.1%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 6.8–10.3%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.6–3.6%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 20.0–25.2%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 4.2–7.0%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-06-07-Actly.png"
         length="448072"
         type="image/png"/>
-      <pubDate>Mon, 01 Nov 2021 18:26:04 +0100</pubDate>
-      <dc:date>2021-11-01T18:26:04.131891+01:00</dc:date>
+      <pubDate>Tue, 02 Nov 2021 20:38:36 +0100</pubDate>
+      <dc:date>2021-11-02T20:38:36.058254+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by FOCUS, 11–19 May 2021 – Seat Projections for the Parties</title>
@@ -2209,6 +2229,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57.180634+02:00</dc:date>
     </item>
-    <dc:date>2021-11-01T19:49:06.906778+01:00</dc:date>
+    <dc:date>2021-11-02T20:38:36.058254+01:00</dc:date>
   </channel>
 </rss>
