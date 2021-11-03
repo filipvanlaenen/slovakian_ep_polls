@@ -127,7 +127,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [6–12 July 2021](2021-07-12-AKO.html) | AKO | 2 | 2 | 2 | 1–2 | 1–2 |
 | [7–11 June 2021](2021-06-11-AKO.html) | AKO | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [2–9 June 2021](2021-06-09-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2 | 1–3 |
-| [4–7 June 2021](2021-06-07-Actly.html) | Actly | 3 | 3 | 3 | 2–3 | 2–3 |
+| [4–7 June 2021](2021-06-07-Actly.html) | Actly | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [11–19 May 2021](2021-05-19-FOCUS.html) | FOCUS | 2 | 2 | 2 | 2–3 | 1–3 |
 | [13–17 May 2021](2021-05-17-AKO.html) | AKO | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–17 April 2021](2021-04-17-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
