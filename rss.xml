@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 22 Nov 2021 19:53:34 +0100</pubDate>
+    <pubDate>Wed, 24 Nov 2021 18:41:55 +0100</pubDate>
     <item>
       <title>Opinion Poll by FOCUS for TV Markíza, 20–27 October 2021 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-10-27-FOCUS.html#seats</link>
@@ -68,6 +68,16 @@
         type="image/png"/>
       <pubDate>Mon, 22 Nov 2021 19:53:34 +0100</pubDate>
       <dc:date>2021-11-22T19:53:34.782742+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO for TV JOJ, 4–7 October 2021 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2021-10-07-AKO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 11.8–16.1%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 12.5–16.8%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 7.6–11.2%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 2.6–5.0%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1.5–3.4%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 5.9–9.2%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 3.4–6.0%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 8.1–11.8%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.1–2.8%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 15.9–20.7%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 3.8–6.5%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2021-10-07-AKO.png"
+        length="455828"
+        type="image/png"/>
+      <pubDate>Wed, 24 Nov 2021 18:41:55 +0100</pubDate>
+      <dc:date>2021-11-24T18:41:55.162065+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 6–12 July 2021 – Seat Projections for the Parties</title>
@@ -2079,6 +2089,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57+02:00</dc:date>
     </item>
-    <dc:date>2021-11-22T19:53:34.782742+01:00</dc:date>
+    <dc:date>2021-11-24T18:41:55.162065+01:00</dc:date>
   </channel>
 </rss>
