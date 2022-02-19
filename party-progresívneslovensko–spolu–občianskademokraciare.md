@@ -14,7 +14,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [8–14 February 2022](2022-02-14-AKO.html) | AKO <br> TV JOJ | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [27 January–1 February 2022](2022-02-01-Median.html) | Median | 12.2% | 11.0–13.7% | 10.6–14.1% | 10.3–14.4% | 9.8–15.1% |
 | [19–26 January 2022](2022-01-26-Focus.html) | Focus <br> TV Markíza | 8.9% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
-| [10–17 January 2022](2022-01-17-AKO.html) | AKO <br> TV JOJ | 9.3% | N/A | N/A | N/A | N/A |
+| [10–17 January 2022](2022-01-17-AKO.html) | AKO <br> TV JOJ | 9.3% | 8.2–10.6% | 7.9–10.9% | 7.7–11.3% | 7.2–11.9% |
 | [7–13 December 2021](2021-12-13-AKO.html) | AKO <br> TV JOJ | 8.6% | 7.6–9.8% | 7.3–10.2% | 7.0–10.5% | 6.5–11.1% |
 | [16–23 November 2021](2021-11-23-FOCUS.html) | FOCUS <br> TV Markíza | 8.7% | 7.6–9.9% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
 | [8–16 November 2021](2021-11-16-AKO.html) | AKO <br> TV JOJ | 8.7% | 7.7–10.0% | 7.3–10.3% | 7.1–10.6% | 6.6–11.2% |
@@ -130,7 +130,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [8–14 February 2022](2022-02-14-AKO.html) | AKO <br> TV JOJ | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [27 January–1 February 2022](2022-02-01-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–26 January 2022](2022-01-26-Focus.html) | Focus <br> TV Markíza | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–17 January 2022](2022-01-17-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [10–17 January 2022](2022-01-17-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–13 December 2021](2021-12-13-AKO.html) | AKO <br> TV JOJ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [16–23 November 2021](2021-11-23-FOCUS.html) | FOCUS <br> TV Markíza | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–16 November 2021](2021-11-16-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
