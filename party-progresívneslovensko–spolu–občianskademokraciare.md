@@ -10,7 +10,17 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.1–12.6% | 7.7–13.2% | 7.4–13.6% | 6.9–14.5% |
+| N/A | [Poll Average](average.html) | 10.1% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [7–14 July 2022](2022-07-14-AKO.html) | AKO <br> TV JOJ | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
+| [20–27 June 2022](2022-06-27-Focus.html) | Focus <br> TV Markíza | 10.0% | 8.9–11.4% | 8.6–11.7% | 8.3–12.1% | 7.8–12.7% |
+| [7–10 June 2022](2022-06-10-AKO.html) | AKO <br> TV JOJ | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
+| [25–31 May 2022](2022-05-31-Focus.html) | Focus <br> TV Markíza | 10.2% | N/A | N/A | N/A | N/A |
+| [10–16 May 2022](2022-05-16-AKO.html) | AKO <br> TV JOJ | 9.7% | N/A | N/A | N/A | N/A |
+| [5–11 April 2022](2022-04-11-AKO.html) | AKO <br> TV JOJ | 8.7% | N/A | N/A | N/A | N/A |
+| [30 March–6 April 2022](2022-04-06-Focus.html) | Focus <br> TV Markíza | 8.0% | N/A | N/A | N/A | N/A |
+| [8–11 March 2022](2022-03-11-AKO.html) | AKO <br> TV JOJ | 9.4% | N/A | N/A | N/A | N/A |
+| [22 February–1 March 2022](2022-03-01-Focus.html) | Focus <br> TV Markíza | 8.9% | N/A | N/A | N/A | N/A |
+| [9–20 February 2022](2022-02-20-Median.html) | Median | 11.2% | N/A | N/A | N/A | N/A |
 | [8–14 February 2022](2022-02-14-AKO.html) | AKO <br> TV JOJ | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [27 January–1 February 2022](2022-02-01-Median.html) | Median | 12.2% | 11.0–13.7% | 10.6–14.1% | 10.3–14.4% | 9.8–15.1% |
 | [19–26 January 2022](2022-01-26-Focus.html) | Focus <br> TV Markíza | 8.9% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
@@ -105,17 +115,15 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
-| 5.5–6.5% | 0.1% | 100% |  |
-| 6.5–7.5% | 3% | 99.9% |  |
-| 7.5–8.5% | 17% | 97% |  |
-| 8.5–9.5% | 27% | 80% |  |
-| 9.5–10.5% | 20% | 53% | Median |
-| 10.5–11.5% | 12% | 33% |  |
-| 11.5–12.5% | 10% | 21% |  |
-| 12.5–13.5% | 7% | 10% |  |
-| 13.5–14.5% | 2% | 3% |  |
-| 14.5–15.5% | 0.4% | 0.4% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 5.5–6.5% | 0% | 100% |  |
+| 6.5–7.5% | 0.2% | 100% |  |
+| 7.5–8.5% | 4% | 99.8% |  |
+| 8.5–9.5% | 24% | 95% |  |
+| 9.5–10.5% | 40% | 71% | Median |
+| 10.5–11.5% | 25% | 31% |  |
+| 11.5–12.5% | 6% | 7% |  |
+| 12.5–13.5% | 0.7% | 0.7% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -126,7 +134,17 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–3 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–14 July 2022](2022-07-14-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [20–27 June 2022](2022-06-27-Focus.html) | Focus <br> TV Markíza | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–10 June 2022](2022-06-10-AKO.html) | AKO <br> TV JOJ | 2 | 2 | 2 | 1–2 | 1–2 |
+| [25–31 May 2022](2022-05-31-Focus.html) | Focus <br> TV Markíza |  |  |  |  |  |
+| [10–16 May 2022](2022-05-16-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [5–11 April 2022](2022-04-11-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [30 March–6 April 2022](2022-04-06-Focus.html) | Focus <br> TV Markíza |  |  |  |  |  |
+| [8–11 March 2022](2022-03-11-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [22 February–1 March 2022](2022-03-01-Focus.html) | Focus <br> TV Markíza |  |  |  |  |  |
+| [9–20 February 2022](2022-02-20-Median.html) | Median |  |  |  |  |  |
 | [8–14 February 2022](2022-02-14-AKO.html) | AKO <br> TV JOJ | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [27 January–1 February 2022](2022-02-01-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [19–26 January 2022](2022-01-26-Focus.html) | Focus <br> TV Markíza | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -218,9 +236,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 41% | 100% |  |
-| 2 | 57% | 59% | Median |
-| 3 | 3% | 3% |  |
-| 4 | 0% | 0% |  |
+| 1 | 18% | 100% |  |
+| 2 | 82% | 82% | Median |
+| 3 | 0% | 0% |  |
 
 
