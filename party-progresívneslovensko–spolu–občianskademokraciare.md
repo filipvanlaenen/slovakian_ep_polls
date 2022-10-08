@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.7% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
+| N/A | [Poll Average](average.html) | 10.4% | 8.9–12.2% | 8.5–12.7% | 8.2–13.1% | 7.7–13.9% |
 | [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 9.6% | 8.5–10.9% | 8.2–11.3% | 7.9–11.6% | 7.4–12.2% |
-| [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 11.6% | N/A | N/A | N/A | N/A |
-| [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 10.0% | N/A | N/A | N/A | N/A |
+| [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 11.6% | 10.3–13.0% | 10.0–13.4% | 9.7–13.7% | 9.2–14.4% |
+| [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
 | [15–18 August 2022](2022-08-18-AKO.html) | AKO <br> TV JOJ | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [29 July–8 August 2022](2022-08-08-IPSOS.html) | IPSOS <br> Denník N | 11.4% | 10.2–12.7% | 9.9–13.1% | 9.6–13.5% | 9.0–14.1% |
 | [7–14 July 2022](2022-07-14-AKO.html) | AKO <br> TV JOJ | 10.0% | 8.9–11.3% | 8.6–11.7% | 8.3–12.0% | 7.8–12.7% |
@@ -121,14 +121,16 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
-| 6.5–7.5% | 0.7% | 100% |  |
-| 7.5–8.5% | 10% | 99.3% |  |
-| 8.5–9.5% | 35% | 89% |  |
-| 9.5–10.5% | 37% | 55% | Median |
-| 10.5–11.5% | 15% | 18% |  |
-| 11.5–12.5% | 3% | 3% |  |
-| 12.5–13.5% | 0.2% | 0.2% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 6.5–7.5% | 0.3% | 100% |  |
+| 7.5–8.5% | 5% | 99.7% |  |
+| 8.5–9.5% | 20% | 95% |  |
+| 9.5–10.5% | 30% | 74% | Median |
+| 10.5–11.5% | 24% | 45% |  |
+| 11.5–12.5% | 14% | 21% |  |
+| 12.5–13.5% | 5% | 6% |  |
+| 13.5–14.5% | 1.0% | 1.1% |  |
+| 14.5–15.5% | 0.1% | 0.1% |  |
+| 15.5–16.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -141,8 +143,8 @@ Last result: **0** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 2 | 2 | 1–2 | 1–2 | 1–2 |
-| [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N |  |  |  |  |  |
-| [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 2 | 2 | 2 | 2 | 1–3 |
+| [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–18 August 2022](2022-08-18-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [29 July–8 August 2022](2022-08-08-IPSOS.html) | IPSOS <br> Denník N | 2 | 2 | 2 | 2 | 2 |
 | [7–14 July 2022](2022-07-14-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -246,8 +248,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 7% | 100% |  |
-| 2 | 93% | 93% | Median |
-| 3 | 0% | 0% |  |
+| 1 | 9% | 100% |  |
+| 2 | 91% | 91% | Median |
+| 3 | 0.3% | 0.3% |  |
+| 4 | 0% | 0% |  |
 
 
