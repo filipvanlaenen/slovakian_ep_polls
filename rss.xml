@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Fri, 07 Oct 2022 22:41:42 +0200</pubDate>
+    <pubDate>Sat, 08 Oct 2022 09:57:39 +0200</pubDate>
     <item>
       <title>Opinion Poll by Focus for TV Markíza, 21–27 September 2022 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-27-Focus.html#seats</link>
@@ -38,6 +38,66 @@
         type="image/png"/>
       <pubDate>Fri, 07 Oct 2022 22:41:42 +0200</pubDate>
       <dc:date>2022-10-07T22:41:42.476689+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for Denník N, 14–20 September 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-20-IPSOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 1–2 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-20-IPSOS-seats.png"
+        length="366858"
+        type="image/png"/>
+      <pubDate>Sat, 08 Oct 2022 09:37:40 +0200</pubDate>
+      <dc:date>2022-10-08T09:37:40.854388+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for Denník N, 14–20 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-20-IPSOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-20-IPSOS-coalitions-seats.png"
+        length="243344"
+        type="image/png"/>
+      <pubDate>Sat, 08 Oct 2022 09:37:40 +0200</pubDate>
+      <dc:date>2022-10-08T09:37:40.854388+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for Denník N, 14–20 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-20-IPSOS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 13.4–17.8%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 7.6–11.2%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 6.3–9.6%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1.9–3.9%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.1–8.2%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 9.7–13.7%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 1.1–2.7%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 16.1–20.9%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 5.6–8.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-20-IPSOS.png"
+        length="435175"
+        type="image/png"/>
+      <pubDate>Sat, 08 Oct 2022 09:37:40 +0200</pubDate>
+      <dc:date>2022-10-08T09:37:40.854388+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO for TV JOJ, 8–18 September 2022 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-18-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 2–3 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1–2 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-18-AKO-seats.png"
+        length="376130"
+        type="image/png"/>
+      <pubDate>Sat, 08 Oct 2022 09:57:39 +0200</pubDate>
+      <dc:date>2022-10-08T09:57:39.882837+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO for TV JOJ, 8–18 September 2022 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-18-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-18-AKO-coalitions-seats.png"
+        length="238700"
+        type="image/png"/>
+      <pubDate>Sat, 08 Oct 2022 09:57:39 +0200</pubDate>
+      <dc:date>2022-10-08T09:57:39.882837+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO for TV JOJ, 8–18 September 2022 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-18-AKO.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 12.9–17.4%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 11.0–15.1%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 6.4–9.7%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 3.1–5.6%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1.5–3.4%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.9–7.9%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 1.9–3.9%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 8.3–12.0%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 1.5–3.4%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0.5–1.8%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 17.0–21.9%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 4.0–6.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2022-09-18-AKO.png"
+        length="452880"
+        type="image/png"/>
+      <pubDate>Sat, 08 Oct 2022 09:57:39 +0200</pubDate>
+      <dc:date>2022-10-08T09:57:39.882837+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO for TV JOJ, 15–18 August 2022 – Seat Projections for the Parties</title>
@@ -2499,6 +2559,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57+02:00</dc:date>
     </item>
-    <dc:date>2022-10-07T22:41:42.476689+02:00</dc:date>
+    <dc:date>2022-10-08T09:57:39.882837+02:00</dc:date>
   </channel>
 </rss>
