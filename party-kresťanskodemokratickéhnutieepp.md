@@ -138,7 +138,7 @@ Last result: **2** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 1 | 1 | 1 | 0–1 | 0–1 |
+| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 1 | 1 | 0–1 | 0–1 | 0–1 |
 | [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 1 | 1 | 0–1 | 0–1 | 0–2 |
 | [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1 | 0–1 |
 | [15–18 August 2022](2022-08-18-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1 | 1–2 |
@@ -243,9 +243,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 10% | 100% |  |
-| 1 | 89% | 90% | Median |
-| 2 | 0.4% | 0.4% | Last Result |
+| 0 | 11% | 100% |  |
+| 1 | 89% | 89% | Median |
+| 2 | 0.3% | 0.3% | Last Result |
 | 3 | 0% | 0% |  |
 
 

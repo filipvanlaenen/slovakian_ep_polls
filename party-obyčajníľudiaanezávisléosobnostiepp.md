@@ -134,9 +134,9 @@ Last result: **1** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 1 | 1 | 1 | 1–2 | 1–2 |
+| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 1 | 1 | 1–2 | 1–2 | 1–2 |
 | [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–18 August 2022](2022-08-18-AKO.html) | AKO <br> TV JOJ | 1 | 1–2 | 1–2 | 1–2 | 1–2 |

@@ -10,9 +10,9 @@ Last result: **24.1%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 15.8% | 14.2–17.5% | 13.8–18.0% | 13.4–18.4% | 12.8–19.2% |
+| N/A | [Poll Average](average.html) | 15.8% | 14.2–17.5% | 13.8–18.0% | 13.5–18.4% | 12.8–19.3% |
 | [12–19 October 2022](2022-10-19-AKO.html) | AKO <br> TV JOJ | 16.5% | 15.1–18.1% | 14.7–18.5% | 14.3–18.9% | 13.7–19.7% |
-| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 15.3% | 13.9–16.8% | 13.5–17.2% | 13.2–17.6% | 12.5–18.4% |
+| [21–27 September 2022](2022-09-27-Focus.html) | Focus <br> TV Markíza | 15.4% | 14.0–16.9% | 13.6–17.3% | 13.3–17.7% | 12.6–18.5% |
 | [14–20 September 2022](2022-09-20-IPSOS.html) | IPSOS <br> Denník N | 15.5% | 14.1–17.0% | 13.7–17.5% | 13.4–17.8% | 12.7–18.6% |
 | [8–18 September 2022](2022-09-18-AKO.html) | AKO <br> TV JOJ | 15.0% | 13.6–16.5% | 13.2–17.0% | 12.9–17.4% | 12.3–18.1% |
 | [15–18 August 2022](2022-08-18-AKO.html) | AKO <br> TV JOJ | 14.9% | 13.5–16.4% | 13.2–16.9% | 12.8–17.3% | 12.2–18.0% |
@@ -116,12 +116,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 10.5–11.5% | 0% | 100% |  |
-| 11.5–12.5% | 0.3% | 100% |  |
-| 12.5–13.5% | 3% | 99.7% |  |
+| 11.5–12.5% | 0.2% | 100% |  |
+| 12.5–13.5% | 3% | 99.8% |  |
 | 13.5–14.5% | 13% | 97% |  |
-| 14.5–15.5% | 27% | 84% |  |
-| 15.5–16.5% | 30% | 57% | Median |
-| 16.5–17.5% | 18% | 27% |  |
+| 14.5–15.5% | 27% | 85% |  |
+| 15.5–16.5% | 30% | 58% | Median |
+| 16.5–17.5% | 19% | 28% |  |
 | 17.5–18.5% | 7% | 9% |  |
 | 18.5–19.5% | 2% | 2% |  |
 | 19.5–20.5% | 0.2% | 0.3% |  |
@@ -246,8 +246,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 19% | 100% |  |
-| 3 | 81% | 81% | Median |
-| 4 | 0% | 0% | Last Result |
+| 2 | 22% | 100% |  |
+| 3 | 77% | 78% | Median |
+| 4 | 0.1% | 0.1% | Last Result |
+| 5 | 0% | 0% |  |
 
 
