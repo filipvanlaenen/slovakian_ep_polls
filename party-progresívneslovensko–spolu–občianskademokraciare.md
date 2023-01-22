@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 11.0% | 9.7–12.5% | 9.3–12.9% | 9.0–13.2% | 8.4–14.0% |
+| N/A | [Poll Average](average.html) | 13.8% | 12.4–15.2% | 12.0–15.7% | 11.7–16.0% | 11.1–16.8% |
+| [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 13.3% | 12.0–14.8% | 11.6–15.2% | 11.3–15.5% | 10.7–16.3% |
+| [19–23 December 2022](2022-12-23-Median.html) | Median | 14.1% | 12.8–15.6% | 12.4–16.0% | 12.1–16.4% | 11.5–17.1% |
+| [16–20 December 2022](2022-12-20-Focus.html) | Focus <br> TV Markíza | 13.8% | 12.6–15.2% | 12.3–15.6% | 12.0–15.9% | 11.4–16.6% |
+| [6–12 December 2022](2022-12-12-AKO.html) | AKO <br> TV JOJ | 12.0% | 10.8–13.4% | 10.4–13.8% | 10.1–14.2% | 9.6–14.9% |
 | [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 11.0% | 9.8–12.4% | 9.5–12.8% | 9.2–13.1% | 8.7–13.8% |
 | [22–28 November 2022](2022-11-28-IPSOS.html) | IPSOS <br> Denník N | 10.4% | 9.2–11.7% | 8.9–12.1% | 8.6–12.4% | 8.1–13.0% |
 | [8–12 November 2022](2022-11-12-AKO.html) | AKO <br> TV JOJ | 11.5% | 10.3–12.9% | 10.0–13.3% | 9.7–13.6% | 9.1–14.3% |
@@ -128,15 +132,18 @@ The following table shows the probability mass function per percentage block of 
 | 4.5–5.5% | 0% | 100% |  |
 | 5.5–6.5% | 0% | 100% |  |
 | 6.5–7.5% | 0% | 100% |  |
-| 7.5–8.5% | 0.7% | 100% |  |
-| 8.5–9.5% | 8% | 99.2% |  |
-| 9.5–10.5% | 25% | 92% |  |
-| 10.5–11.5% | 35% | 67% | Median |
-| 11.5–12.5% | 23% | 31% |  |
-| 12.5–13.5% | 7% | 9% |  |
-| 13.5–14.5% | 1.2% | 1.3% |  |
-| 14.5–15.5% | 0.1% | 0.1% |  |
-| 15.5–16.5% | 0% | 0% |  |
+| 7.5–8.5% | 0% | 100% |  |
+| 8.5–9.5% | 0% | 100% |  |
+| 9.5–10.5% | 0.1% | 100% |  |
+| 10.5–11.5% | 2% | 99.9% |  |
+| 11.5–12.5% | 11% | 98% |  |
+| 12.5–13.5% | 29% | 87% |  |
+| 13.5–14.5% | 34% | 59% | Median |
+| 14.5–15.5% | 19% | 25% |  |
+| 15.5–16.5% | 5% | 6% |  |
+| 16.5–17.5% | 0.8% | 0.9% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -147,7 +154,11 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2 | 1–2 | 1–2 | 1–3 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 2 | 2 | 2 | 2–3 | 2–3 |
+| [19–23 December 2022](2022-12-23-Median.html) | Median | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [16–20 December 2022](2022-12-20-Focus.html) | Focus <br> TV Markíza | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [6–12 December 2022](2022-12-12-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
 | [22–28 November 2022](2022-11-28-IPSOS.html) | IPSOS <br> Denník N | 2 | 2 | 2 | 1–2 | 1–2 |
 | [8–12 November 2022](2022-11-12-AKO.html) | AKO <br> TV JOJ | 2 | 2 | 2 | 1–2 | 1–3 |
@@ -260,9 +271,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 9% | 100% |  |
-| 2 | 90% | 91% | Median |
-| 3 | 0.9% | 0.9% |  |
+| 1 | 0% | 100% |  |
+| 2 | 68% | 100% | Median |
+| 3 | 32% | 32% |  |
 | 4 | 0% | 0% |  |
 
 
