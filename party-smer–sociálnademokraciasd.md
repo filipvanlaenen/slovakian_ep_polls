@@ -10,11 +10,11 @@ Last result: **24.1%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 16.5% | 14.0–21.7% | 13.5–22.4% | 13.0–22.9% | 12.3–23.9% |
+| N/A | [Poll Average](average.html) | 15.5% | 13.1–21.3% | 12.6–22.1% | 12.2–22.7% | 11.5–23.7% |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 14.6% | 13.2–16.1% | 12.8–16.5% | 12.5–16.9% | 11.9–17.6% |
 | [28 January–1 February 2023](2023-02-01-Polis.html) | Polis <br> SITA | 21.0% | 19.4–22.7% | 18.9–23.2% | 18.5–23.6% | 17.8–24.4% |
-| [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N | 13.6% | N/A | N/A | N/A | N/A |
+| [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N | 13.6% | 12.3–15.0% | 11.9–15.5% | 11.6–15.8% | 11.0–16.6% |
 | [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
 | [19–23 December 2022](2022-12-23-Median.html) | Median | 16.7% | 15.3–18.3% | 14.9–18.7% | 14.5–19.1% | 13.9–19.9% |
 | [16–20 December 2022](2022-12-20-Focus.html) | Focus <br> TV Markíza | 16.6% | 15.3–18.1% | 14.9–18.5% | 14.6–18.9% | 14.0–19.6% |
@@ -128,20 +128,21 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 10.5–11.5% | 0.1% | 100% |  |
-| 11.5–12.5% | 0.8% | 99.9% |  |
-| 12.5–13.5% | 5% | 99.1% |  |
-| 13.5–14.5% | 12% | 94% |  |
-| 14.5–15.5% | 17% | 82% |  |
-| 15.5–16.5% | 16% | 65% | Median |
-| 16.5–17.5% | 10% | 49% |  |
-| 17.5–18.5% | 5% | 39% |  |
-| 18.5–19.5% | 4% | 34% |  |
-| 19.5–20.5% | 8% | 29% |  |
-| 20.5–21.5% | 10% | 21% |  |
-| 21.5–22.5% | 7% | 11% |  |
-| 22.5–23.5% | 3% | 4% |  |
-| 23.5–24.5% | 0.8% | 0.9% | Last Result |
+| 9.5–10.5% | 0% | 100% |  |
+| 10.5–11.5% | 0.6% | 100% |  |
+| 11.5–12.5% | 4% | 99.4% |  |
+| 12.5–13.5% | 12% | 95% |  |
+| 13.5–14.5% | 17% | 84% |  |
+| 14.5–15.5% | 16% | 66% |  |
+| 15.5–16.5% | 13% | 50% | Median |
+| 16.5–17.5% | 8% | 37% |  |
+| 17.5–18.5% | 4% | 29% |  |
+| 18.5–19.5% | 3% | 25% |  |
+| 19.5–20.5% | 6% | 22% |  |
+| 20.5–21.5% | 8% | 16% |  |
+| 21.5–22.5% | 5% | 8% |  |
+| 22.5–23.5% | 2% | 3% |  |
+| 23.5–24.5% | 0.6% | 0.7% | Last Result |
 | 24.5–25.5% | 0.1% | 0.1% |  |
 | 25.5–26.5% | 0% | 0% |  |
 
@@ -158,7 +159,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 3 | 3 | 3 | 2–3 | 2–3 |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [28 January–1 February 2023](2023-02-01-Polis.html) | Polis <br> SITA | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
-| [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N |  |  |  |  |  |
+| [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [19–23 December 2022](2022-12-23-Median.html) | Median | 3 | 3 | 2–3 | 2–3 | 2–4 |
 | [16–20 December 2022](2022-12-20-Focus.html) | Focus <br> TV Markíza | 3 | 3 | 3 | 2–3 | 2–4 |
@@ -274,10 +275,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 14% | 100% |  |
-| 3 | 58% | 86% | Median |
-| 4 | 28% | 28% | Last Result |
-| 5 | 0.3% | 0.3% |  |
+| 2 | 24% | 100% |  |
+| 3 | 55% | 76% | Median |
+| 4 | 21% | 21% | Last Result |
+| 5 | 0.2% | 0.2% |  |
 | 6 | 0% | 0% |  |
 
 
