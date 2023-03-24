@@ -15,7 +15,7 @@ Last result: **24.1%** (General Election of 25 May 2019)
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 17.6% | 16.1–19.2% | 15.7–19.7% | 15.4–20.1% | 14.7–20.9% |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 16.3% | 14.9–17.9% | 14.5–18.3% | 14.1–18.7% | 13.5–19.5% |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 14.6% | 13.2–16.1% | 12.8–16.5% | 12.5–16.9% | 11.9–17.6% |
-| [9 January–5 February 2023](2023-02-05-Median.html) | Median | 17.9% | N/A | N/A | N/A | N/A |
+| [9 January–5 February 2023](2023-02-05-Median.html) | Median | 17.9% | 16.4–19.5% | 16.0–20.0% | 15.7–20.3% | 15.0–21.1% |
 | [28 January–1 February 2023](2023-02-01-Polis.html) | Polis <br> SITA | 21.0% | 19.4–22.7% | 18.9–23.2% | 18.5–23.6% | 17.8–24.4% |
 | [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N | 13.6% | 12.3–15.0% | 11.9–15.5% | 11.6–15.8% | 11.0–16.6% |
 | [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 15.9% | 14.5–17.5% | 14.1–17.9% | 13.8–18.3% | 13.1–19.1% |
@@ -159,7 +159,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 3 | 3 | 3 | 2–3 | 2–3 |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [9 January–5 February 2023](2023-02-05-Median.html) | Median |  |  |  |  |  |
+| [9 January–5 February 2023](2023-02-05-Median.html) | Median | 3 | 3 | 3 | 3 | 3–4 |
 | [28 January–1 February 2023](2023-02-01-Polis.html) | Polis <br> SITA | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [10–16 January 2023](2023-01-16-AKO.html) | AKO <br> TV JOJ | 3 | 3 | 2–3 | 2–3 | 2–3 |
