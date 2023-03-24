@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovakian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2023-03-23T22:29:52.35711+01:00</updated>
+  <updated>2023-03-24T19:40:44.260222+01:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia (S&amp;D): 14.0–18.6%, 3 seats</li><li>Sloboda a Solidarita (ECR): 5.0–8.1%, 0–1 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 3.6–6.3%, 0–1 seats</li><li>Slovenská národná strana (ECR): 2.1–4.3%, 0 seats</li><li>Kotleba–Ľudová strana Naše Slovensko (NI): 1.4–3.3%, 0 seats</li><li>SME RODINA (ID): 6.9–10.4%, 1–2 seats</li><li>Kresťanskodemokratické hnutie (EPP): 4.4–7.3%, 0–1 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.8–5.2%, 0–1 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 13.7–18.2%, 2–3 seats</li><li>Za ľudí (EPP): 2.0–4.1%, 0 seats</li><li>HLAS–sociálna demokracia (S&amp;D): 13.8–18.4%, 2–3 seats</li><li>REPUBLIKA (NI): 7.0–10.5%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-03-31-IPSOS.html</id>
@@ -38,6 +38,14 @@
     <title>Opinion Poll by Focus for TV Markíza, 1–8 February 2023</title>
     <updated>2023-02-21T19:28:57.962293+01:00</updated>
     <dc:date>2023-02-21T19:28:57.962293+01:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia (S&amp;D): 15.7–20.3%, 3 seats</li><li>Sloboda a Solidarita (ECR): 6.3–9.6%, 1–2 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 7.2–10.6%, 1–2 seats</li><li>Slovenská národná strana (ECR): 1.3–3.1%, 0 seats</li><li>Kotleba–Ľudová strana Naše Slovensko (NI): 1.6–3.6%, 0 seats</li><li>SME RODINA (ID): 9.1–12.9%, 2 seats</li><li>Kresťanskodemokratické hnutie (EPP): 5.1–8.1%, 1 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.9–5.4%, 0 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 9.0–12.8%, 1–2 seats</li><li>Za ľudí (EPP): 1.3–3.1%, 0 seats</li><li>Dobrá voľba (*): 1.2–2.9%, 0 seats</li><li>HLAS–sociálna demokracia (S&amp;D): 13.5–18.0%, 3 seats</li><li>REPUBLIKA (NI): 3.4–5.9%, 0–1 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-02-05-Median.html</id>
+    <link href="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-02-05-Median.html"/>
+    <title>Opinion Poll by Median, 9 January–5 February 2023</title>
+    <updated>2023-03-24T19:40:44.260222+01:00</updated>
+    <dc:date>2023-03-24T19:40:44.260222+01:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>SMER–sociálna demokracia (S&amp;D): 18.5–23.6%, 3–4 seats</li><li>Sloboda a Solidarita (ECR): 4.0–6.8%, 0–1 seats</li><li>OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 5.7–9.0%, 1 seats</li><li>Slovenská národná strana (ECR): 2.8–5.2%, 0–1 seats</li><li>Kotleba–Ľudová strana Naše Slovensko (NI): 1.5–3.4%, 0 seats</li><li>SME RODINA (ID): 5.1–8.2%, 1 seats</li><li>Kresťanskodemokratické hnutie (EPP): 3.8–6.5%, 0–1 seats</li><li>Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 3.5–6.2%, 0–1 seats</li><li>Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 8.7–12.5%, 1–2 seats</li><li>Za ľudí (EPP): 2.2–4.4%, 0 seats</li><li>Dobrá voľba (*): 2.5–4.8%, 0 seats</li><li>HLAS–sociálna demokracia (S&amp;D): 17.0–21.9%, 3–4 seats</li><li>REPUBLIKA (NI): 5.7–8.9%, 1 seats</li></ul></div></content>
@@ -807,5 +815,5 @@
     <updated>2020-05-29T19:09:57+02:00</updated>
     <dc:date>2020-05-29T19:09:57+02:00</dc:date>
   </entry>
-  <dc:date>2023-03-23T22:29:52.35711+01:00</dc:date>
+  <dc:date>2023-03-24T19:40:44.260222+01:00</dc:date>
 </feed>
