@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 23 Mar 2023 22:29:52 +0100</pubDate>
+    <pubDate>Fri, 24 Mar 2023 19:40:44 +0100</pubDate>
     <item>
       <title>Opinion Poll by IPSOS for Denník N, 1–31 March 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-03-31-IPSOS.html#seats</link>
@@ -128,6 +128,36 @@
         type="image/png"/>
       <pubDate>Tue, 21 Feb 2023 19:28:57 +0100</pubDate>
       <dc:date>2023-02-21T19:28:57.962293+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 9 January–5 February 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-02-05-Median.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 2 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 1–2 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 0 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 3 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-02-05-Median-seats.png"
+        length="338184"
+        type="image/png"/>
+      <pubDate>Fri, 24 Mar 2023 19:40:44 +0100</pubDate>
+      <dc:date>2023-03-24T19:40:44.260222+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 9 January–5 February 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-02-05-Median.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-02-05-Median-coalitions-seats.png"
+        length="214804"
+        type="image/png"/>
+      <pubDate>Fri, 24 Mar 2023 19:40:44 +0100</pubDate>
+      <dc:date>2023-03-24T19:40:44.260222+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Median, 9 January–5 February 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-02-05-Median.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 15.7–20.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 6.3–9.6%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP): 7.2–10.6%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1.6–3.6%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 9.1–12.9%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.1–8.1%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko–SPOLU–Občianska Demokracia (RE): 9.0–12.8%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 1.3–3.1%&lt;/li&gt;&lt;li&gt;Dobrá voľba (*): 1.2–2.9%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 13.5–18.0%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 3.4–5.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-02-05-Median.png"
+        length="451421"
+        type="image/png"/>
+      <pubDate>Fri, 24 Mar 2023 19:40:44 +0100</pubDate>
+      <dc:date>2023-03-24T19:40:44.260222+01:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Polis for SITA, 28 January–1 February 2023 – Seat Projections for the Parties</title>
@@ -3009,6 +3039,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57+02:00</dc:date>
     </item>
-    <dc:date>2023-03-23T22:29:52.35711+01:00</dc:date>
+    <dc:date>2023-03-24T19:40:44.260222+01:00</dc:date>
   </channel>
 </rss>
