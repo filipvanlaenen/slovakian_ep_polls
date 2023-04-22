@@ -10,9 +10,14 @@ Last result: **7.5%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.9% | 4.1–5.9% | 3.9–6.2% | 3.7–6.4% | 3.4–6.9% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.1–7.3% | 3.8–7.8% | 3.6–8.2% | 3.2–8.8% |
+| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
+| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
+| [28 March–2 April 2023](2023-04-02-NMS.html) | NMS | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
+| [14–22 March 2023](2023-03-22-Focus.html) | Focus <br> TV Markíza | 4.3% | 3.6–5.3% | 3.4–5.5% | 3.2–5.8% | 2.9–6.2% |
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 5.0% | 4.2–6.0% | 4.0–6.3% | 3.8–6.5% | 3.5–7.1% |
+| [1 February–5 March 2023](2023-03-05-Median.html) | Median | 8.5% | 7.5–9.6% | 7.2–10.0% | 6.9–10.3% | 6.5–10.9% |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.0–8.1% | 4.6–8.6% |
 | [9 January–5 February 2023](2023-02-05-Median.html) | Median | 8.7% | 7.7–10.0% | 7.4–10.3% | 7.2–10.6% | 6.7–11.2% |
@@ -132,13 +137,15 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 1.3% | 100% |  |
-| 3.5–4.5% | 27% | 98.7% |  |
-| 4.5–5.5% | 52% | 72% | Median |
-| 5.5–6.5% | 19% | 20% |  |
-| 6.5–7.5% | 2% | 2% | Last Result |
-| 7.5–8.5% | 0.1% | 0.1% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 2% | 100% |  |
+| 3.5–4.5% | 17% | 98% |  |
+| 4.5–5.5% | 30% | 80% |  |
+| 5.5–6.5% | 27% | 51% | Median |
+| 6.5–7.5% | 17% | 24% | Last Result |
+| 7.5–8.5% | 6% | 7% |  |
+| 8.5–9.5% | 1.0% | 1.0% |  |
+| 9.5–10.5% | 0.1% | 0.1% |  |
+| 10.5–11.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -149,9 +156,14 @@ Last result: **1** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 1 | 1 | 1 | 1 | 1–2 |
+| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [28 March–2 April 2023](2023-04-02-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [14–22 March 2023](2023-03-22-Focus.html) | Focus <br> TV Markíza | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [1 February–5 March 2023](2023-03-05-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1–2 | 1–2 |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 1 | 1 | 1 | 1 | 0–2 |
 | [9 January–5 February 2023](2023-02-05-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -272,8 +284,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 69% | 100% | Median |
-| 1 | 31% | 31% | Last Result |
-| 2 | 0% | 0% |  |
+| 0 | 28% | 100% |  |
+| 1 | 72% | 72% | Last Result, Median |
+| 2 | 0.3% | 0.3% |  |
+| 3 | 0% | 0% |  |
 
 

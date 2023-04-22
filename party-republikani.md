@@ -10,9 +10,14 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.7% | 6.2–9.4% | 5.9–9.8% | 5.6–10.2% | 5.2–10.8% |
+| N/A | [Poll Average](average.html) | 9.1% | 6.5–10.7% | 6.0–11.1% | 5.7–11.5% | 5.2–12.2% |
+| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 8.8% | 7.7–10.1% | 7.5–10.4% | 7.2–10.7% | 6.7–11.4% |
+| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
+| [28 March–2 April 2023](2023-04-02-NMS.html) | NMS | 9.9% | 8.8–11.2% | 8.5–11.6% | 8.2–11.9% | 7.7–12.6% |
 | [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 8.6% | 7.5–9.8% | 7.2–10.2% | 7.0–10.5% | 6.5–11.1% |
+| [14–22 March 2023](2023-03-22-Focus.html) | Focus <br> TV Markíza | 9.6% | 8.5–10.9% | 8.2–11.3% | 8.0–11.6% | 7.5–12.2% |
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 6.8% | 5.9–7.9% | 5.6–8.3% | 5.4–8.5% | 5.0–9.1% |
+| [1 February–5 March 2023](2023-03-05-Median.html) | Median | 6.1% | 5.3–7.2% | 5.0–7.5% | 4.8–7.7% | 4.5–8.3% |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 8.5% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
 | [9 January–5 February 2023](2023-02-05-Median.html) | Median | 4.5% | 3.7–5.4% | 3.5–5.7% | 3.4–5.9% | 3.0–6.4% |
@@ -137,14 +142,15 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0% | 100% |  |
 | 4.5–5.5% | 2% | 100% |  |
-| 5.5–6.5% | 16% | 98% |  |
-| 6.5–7.5% | 27% | 82% |  |
-| 7.5–8.5% | 27% | 55% | Median |
-| 8.5–9.5% | 20% | 28% |  |
-| 9.5–10.5% | 7% | 8% |  |
-| 10.5–11.5% | 1.0% | 1.0% |  |
-| 11.5–12.5% | 0.1% | 0.1% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 5.5–6.5% | 10% | 98% |  |
+| 6.5–7.5% | 12% | 89% |  |
+| 7.5–8.5% | 14% | 77% |  |
+| 8.5–9.5% | 26% | 62% | Median |
+| 9.5–10.5% | 24% | 36% |  |
+| 10.5–11.5% | 10% | 12% |  |
+| 11.5–12.5% | 2% | 2% |  |
+| 12.5–13.5% | 0.2% | 0.2% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -155,9 +161,14 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1 | 0–2 |
+| [28 March–2 April 2023](2023-04-02-NMS.html) | NMS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [14–22 March 2023](2023-03-22-Focus.html) | Focus <br> TV Markíza | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1 | 0–2 |
+| [1 February–5 March 2023](2023-03-05-Median.html) | Median | 1 | 1 | 1 | 0–1 | 0–1 |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1 | 0–2 |
 | [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9 January–5 February 2023](2023-02-05-Median.html) | Median | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -278,9 +289,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% | Last Result |
-| 1 | 72% | 99.6% | Median |
-| 2 | 27% | 27% |  |
+| 0 | 0.2% | 100% | Last Result |
+| 1 | 43% | 99.8% |  |
+| 2 | 57% | 57% | Median |
 | 3 | 0% | 0% |  |
 
 
