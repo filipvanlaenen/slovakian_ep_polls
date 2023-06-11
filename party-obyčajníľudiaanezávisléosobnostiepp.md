@@ -10,11 +10,14 @@ Last result: **7.5%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.3–8.2% | 5.0–8.5% | 4.7–8.8% | 4.2–9.5% |
+| N/A | [Poll Average](average.html) | 7.0% | 5.5–8.3% | 5.2–8.6% | 4.9–8.9% | 4.4–9.4% |
+| [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> Denník N | 7.0% | 6.0–8.1% | 5.8–8.4% | 5.5–8.7% | 5.1–9.3% |
 | [4–10 May 2023](2023-05-10-AKO.html) | AKO <br> TV JOJ | 7.4% | 6.4–8.6% | 6.2–8.9% | 5.9–9.2% | 5.5–9.8% |
+| [29 April–6 May 2023](2023-05-06-PolisSlovakia.html) | Polis Slovakia | 6.6% | 5.7–7.7% | 5.5–8.1% | 5.2–8.3% | 4.8–8.9% |
+| [1 April–6 May 2023](2023-05-06-Median.html) | Median | 7.9% | 7.1–8.7% | 6.9–9.0% | 6.8–9.2% | 6.4–9.6% |
 | [19–26 April 2023](2023-04-26-Focus.html) | Focus <br> TV Markíza | 5.6% | 4.8–6.7% | 4.6–7.0% | 4.4–7.2% | 4.0–7.8% |
-| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.3% |
-| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
+| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 7.0% | N/A | N/A | N/A | N/A |
+| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 5.8% | N/A | N/A | N/A | N/A |
 | [28 March–2 April 2023](2023-04-02-NMS.html) | NMS | 5.2% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.6–7.3% |
 | [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [14–22 March 2023](2023-03-22-Focus.html) | Focus <br> TV Markíza | 4.3% | 3.6–5.3% | 3.4–5.5% | 3.2–5.8% | 2.9–6.2% |
@@ -29,7 +32,7 @@ Last result: **7.5%** (General Election of 25 May 2019)
 | [19–23 December 2022](2022-12-23-Median.html) | Median | 6.3% | 5.4–7.4% | 5.1–7.7% | 4.9–7.9% | 4.5–8.5% |
 | [16–20 December 2022](2022-12-20-Focus.html) | Focus <br> TV Markíza | 7.4% | 6.5–8.4% | 6.2–8.7% | 6.0–9.0% | 5.6–9.6% |
 | [6–12 December 2022](2022-12-12-AKO.html) | AKO <br> TV JOJ | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.9% | 6.0–10.5% |
-| [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 7.1% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.4% |
+| [30 November–7 December 2022](2022-12-07-Focus.html) | Focus <br> TV Markíza | 7.0% | 6.1–8.2% | 5.9–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [22–28 November 2022](2022-11-28-IPSOS.html) | IPSOS <br> Denník N | 8.0% | 7.0–9.2% | 6.7–9.6% | 6.5–9.8% | 6.1–10.5% |
 | [8–12 November 2022](2022-11-12-AKO.html) | AKO <br> TV JOJ | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [8–11 November 2022](2022-11-11-Focus.html) | Focus <br> TV Markíza | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.3% |
@@ -124,7 +127,7 @@ Last result: **7.5%** (General Election of 25 May 2019)
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 6.8% | 5.9–7.9% | 5.6–8.2% | 5.4–8.5% | 5.0–9.1% |
-| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
+| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 7.3% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 6.0% | 5.1–7.0% | 4.9–7.3% | 4.7–7.6% | 4.3–8.2% |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
@@ -139,13 +142,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 13% | 98% |  |
-| 5.5–6.5% | 27% | 85% |  |
-| 6.5–7.5% | 33% | 58% | Last Result, Median |
-| 7.5–8.5% | 20% | 25% |  |
-| 8.5–9.5% | 4% | 5% |  |
-| 9.5–10.5% | 0.4% | 0.4% |  |
+| 3.5–4.5% | 1.0% | 100% |  |
+| 4.5–5.5% | 9% | 99.0% |  |
+| 5.5–6.5% | 24% | 90% |  |
+| 6.5–7.5% | 34% | 66% | Last Result, Median |
+| 7.5–8.5% | 26% | 32% |  |
+| 8.5–9.5% | 6% | 6% |  |
+| 9.5–10.5% | 0.3% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -157,11 +160,14 @@ Last result: **1** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
-| [4–10 May 2023](2023-05-10-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1–2 | 1–2 |
-| [19–26 April 2023](2023-04-26-Focus.html) | Focus <br> TV Markíza | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N | 1 | 1 | 1 | 1 | 1–2 |
-| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1–2 | 0–2 |
+| [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> Denník N | 1 | 1 | 1 | 1–2 | 1–2 |
+| [4–10 May 2023](2023-05-10-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [29 April–6 May 2023](2023-05-06-PolisSlovakia.html) | Polis Slovakia | 1 | 1 | 1 | 0–1 | 0–1 |
+| [1 April–6 May 2023](2023-05-06-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [19–26 April 2023](2023-04-26-Focus.html) | Focus <br> TV Markíza | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N |  |  |  |  |  |
+| [4–11 April 2023](2023-04-11-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [28 March–2 April 2023](2023-04-02-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [1–31 March 2023](2023-03-31-IPSOS.html) | IPSOS <br> Denník N | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [14–22 March 2023](2023-03-22-Focus.html) | Focus <br> TV Markíza | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -287,9 +293,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% |  |
-| 1 | 92% | 94% | Last Result, Median |
-| 2 | 2% | 2% |  |
+| 0 | 2% | 100% |  |
+| 1 | 93% | 98% | Last Result, Median |
+| 2 | 5% | 5% |  |
 | 3 | 0% | 0% |  |
 
 
