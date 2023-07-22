@@ -184,7 +184,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> Denník N | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [3–17 May 2023](2023-05-17-NMS.html) | NMS |  |  |  |  |  |
 | [4–10 May 2023](2023-05-10-AKO.html) | AKO <br> TV JOJ | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [29 April–6 May 2023](2023-05-06-PolisSlovakia.html) | Polis Slovakia | 4 | 4 | 4 | 4 | 3–5 |
+| [29 April–6 May 2023](2023-05-06-PolisSlovakia.html) | Polis Slovakia | 4 | 4 | 4 | 4–5 | 3–5 |
 | [1 April–6 May 2023](2023-05-06-Median.html) | Median | 3 | 3 | 3 | 3 | 2–3 |
 | [19–26 April 2023](2023-04-26-Focus.html) | Focus <br> TV Markíza | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [10–14 April 2023](2023-04-14-IPSOS.html) | IPSOS <br> Denník N |  |  |  |  |  |
