@@ -2,14 +2,15 @@
 
 The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
 
-| Period     | Polling firm/Commissioner(s) | Smer–SD | KDH | OĽaNO | NOVA | SaS | SMK–MKP | MOST–HÍD | SNS | Kotleba–ĽSNS | PS | SME RODINA | SPOLU | PS–SPOLU | ZĽ | DV | V | HLAS–SD | REP |
-|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
-| N/A | [Poll Average](average.html) | 15–21% <br> 3–4 | 4–8% <br> 0–1 | 4–9% <br> 0–1 | N/A <br> N/A | 4–9% <br> 0–1 | 1–5% <br> 0–1 | 1–2% <br> 0 | 3–6% <br> 0–1 | 1–3% <br> 0 | 11–16% <br> 2–3 | 5–9% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 0–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 14–20% <br> 2–4 | 6–11% <br> 1–2 |
-| [6–9 June 2023](2023-06-09-AKO.html) | AKO <br> TV JOJ | 17–22% <br> 3–4 | 5–8% <br> 1 | 6–9% <br> 1 | N/A <br> N/A | 6–10% <br> 1 | 1–2% <br> 0 | 1–2% <br> 0 | 4–6% <br> 0–1 | 1–2% <br> 0 | 12–17% <br> 2–3 | 5–8% <br> 1 | 2–4% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | 15–20% <br> 3 | 6–9% <br> 1 |
-| [24–31 May 2023](2023-05-31-Focus.html) | Focus <br> TV Markíza | 16–20% <br> 3–4 | 4–7% <br> 0–1 | 4–7% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 | 3–5% <br> 0–1 | 1–2% <br> 0 | 4–6% <br> 0–1 | 2–4% <br> 0 | 11–15% <br> 2–3 | 5–8% <br> 1–2 | 2–4% <br> 0 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | 15–20% <br> 3–4 | 8–12% <br> 1–2 |
-| [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> Denník N | 15–19% <br> 3–4 | 4–7% <br> 0–1 | 6–9% <br> 1–2 | N/A <br> N/A | 5–8% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | 3–5% <br> 0–1 | 1–3% <br> 0 | 11–16% <br> 2–3 | 6–9% <br> 1–2 | 2–5% <br> 0 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 14–18% <br> 2–4 | 7–11% <br> 1–2 |
-| 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| Period     | Polling firm/Commissioner(s) | Smer–SD | KDH | OĽaNO | NOVA | SaS | SMK–MKP | MOST–HÍD | SNS | Kotleba–ĽSNS | PS | SME RODINA | SPOLU | PS–SPOLU | ZĽ | DV | V | HLAS–SD | REP | MODRÍ | MODRÍ–MOST–HÍD | OĽaNO–KÚ–ZĽ | KÚ | HLAS–SD–DV | MF |
+|:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
+| N/A | [Poll Average](average.html) | 16–22% <br> 3–4 | 5–8% <br> 0–1 | 5–9% <br> 0–2 | N/A <br> N/A | 4–9% <br> 0–1 | 1–5% <br> 0 | N/A <br> N/A | 4–7% <br> 0–1 | 1–4% <br> 0 | 10–17% <br> 2–3 | 5–8% <br> 0–1 | 2–6% <br> 0–1 | N/A <br> N/A | 0–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 6–12% <br> 1–2 | N/A <br> N/A | 1–2% <br> 0 | 6–9% <br> 1–2 | N/A <br> N/A | 10–18% <br> 2–3 | 0–2% <br> 0 |
+| [10–17 July 2023](2023-07-17-AKO.html) | AKO | 16–21% <br> 2–4 | 5–8% <br> 0–1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | 1–3% <br> 0 | N/A <br> N/A | 4–7% <br> 0–1 | 1–3% <br> 0 | 13–18% <br> 2–3 | 5–8% <br> 0–1 | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 5–9% <br> 1 | N/A <br> N/A | N/A <br> N/A | 6–9% <br> 1–2 | N/A <br> N/A | 14–19% <br> 2–3 | N/A <br> N/A |
+| [4–9 July 2023](2023-07-09-NMS.html) | NMS | 19–23% <br> 3–5 | 5–7% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 | 3–4% <br> 0 | N/A <br> N/A | 4–6% <br> 0–1 | 2–4% <br> 0 | 14–18% <br> 2–3 | 4–7% <br> 0–1 | 2–4% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 9–12% <br> 2 | N/A <br> N/A | 1–2% <br> 0 | 6–8% <br> 1–2 | N/A <br> N/A | 10–13% <br> 2 | 0–1% <br> 0 |
+| [21–28 June 2023](2023-06-28-Focus.html) | Focus <br> TV Markíza | 17–22% <br> 3–4 | 5–8% <br> 0–1 | 5–8% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 | 3–5% <br> 0–1 | N/A <br> N/A | 4–7% <br> 0–1 | 1–3% <br> 0 | 12–16% <br> 2–3 | 5–8% <br> 0–1 | 3–5% <br> 0 | N/A <br> N/A | 0–1% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–11% <br> 1–2 | N/A <br> N/A | 1–3% <br> 0 | N/A <br> N/A | N/A <br> N/A | 14–19% <br> 2–3 | 1–2% <br> 0 |
+| [15 May–20 June 2023](2023-06-20-Median.html) | Median | 16–20% <br> 3–4 | 5–8% <br> 1 | 6–9% <br> 1–2 | N/A <br> N/A | 5–8% <br> 1 | N/A <br> N/A | N/A <br> N/A | 4–6% <br> 0–1 | 2–4% <br> 0 | 10–14% <br> 2 | 6–9% <br> 1–2 | 4–6% <br> 0–1 | N/A <br> N/A | 1–2% <br> 0 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 7–10% <br> 1–2 | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | N/A <br> N/A | 12–16% <br> 2–3 | N/A <br> N/A |
+| 25 May 2019 | General Election | 24.1% <br> 4 | 13.2% <br> 2 | 7.5% <br> 1 | 6.8% <br> 1 | 6.7% <br> 1 | 6.5% <br> 1 | 5.8% <br> 1 | 3.6% <br> 0 | 1.7% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 | 0.0% <br> 0 |
 
 Only polls for which at least the sample size has been published are included in the table above.
 
@@ -34,6 +35,12 @@ Only polls for which at least the sample size has been published are included in
 + **V:** VLASŤ (*)
 + **HLAS–SD:** HLAS–sociálna demokracia (S&D)
 + **REP:** REPUBLIKA (NI)
++ **MODRÍ:** MODRÍ–Európske Slovensko (EPP)
++ **MODRÍ–MOST–HÍD:** MODRÍ–Európske Slovensko–MOST–HÍD (EPP)
++ **OĽaNO–KÚ–ZĽ:** OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí (EPP)
++ **KÚ:** Kresťanská únia (ECR)
++ **HLAS–SD–DV:** HLAS–sociálna demokracia–Dobrá voľba (S&D)
++ **MF:** Magyar Fórum (EPP)
 + **N/A (single party):** Party not included the published results
 + **N/A (entire row):** Calculation for this opinion poll not started yet
 
