@@ -23,6 +23,7 @@
 | Kotleba–Ľudová strana Naše Slovensko (NI) | 1.7% | 2.4% | 1.9–3.1% |1.7–3.3% |1.6–3.5% |1.4–3.9% |
 | SPOLU–Občianska Demokracia (EPP) | 0.0% | 2.1% | 1.6–2.8% |1.5–3.0% |1.4–3.2% |1.2–3.5% |
 | Za ľudí (EPP) | 0.0% | 1.0% | 0.7–1.5% |0.6–1.7% |0.5–1.8% |0.4–2.1% |
+| Magyar Fórum (EPP) | 0.0% | 0.6% | 0.4–1.1% |0.3–1.2% |0.3–1.3% |0.2–1.6% |
 
 *Note:* The poll result column reflects the actual value used in the calculations. Published results may vary slightly, and in addition be rounded to fewer digits.
 
@@ -36,19 +37,20 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#smer–sociálna-demokracia-(s&d)">SMER–sociálna demokracia (S&D)</a> | 4 | 4 | 4 |4–5 |3–5 |3–5 |
-| <a href="#hlas–sociálna-demokracia-(s&d)">HLAS–sociálna demokracia (S&D)</a> | 0 | 2 | 2–3 |2–3 |2–3 |2–3 |
-| <a href="#progresívne-slovensko-(re)">Progresívne Slovensko (RE)</a> | 0 | 2 | 1–2 |1–2 |1–2 |1–3 |
+| <a href="#smer–sociálna-demokracia-(s&d)">SMER–sociálna demokracia (S&D)</a> | 4 | 4 | 4 |4 |4 |3–5 |
+| <a href="#hlas–sociálna-demokracia-(s&d)">HLAS–sociálna demokracia (S&D)</a> | 0 | 4 | 3–4 |2–4 |2–4 |2–4 |
+| <a href="#progresívne-slovensko-(re)">Progresívne Slovensko (RE)</a> | 0 | 2 | 2–3 |2–3 |2–3 |1–3 |
 | <a href="#republika-(ni)">REPUBLIKA (NI)</a> | 0 | 1 | 1 |1 |1 |1–2 |
-| <a href="#sme-rodina-(id)">SME RODINA (ID)</a> | 0 | 1 | 1 |1 |1 |1–2 |
-| <a href="#obyčajní-ľudia-a-nezávislé-osobnosti-(epp)">OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)</a> | 1 | 1 | 1 |1 |0–1 |0–1 |
+| <a href="#sme-rodina-(id)">SME RODINA (ID)</a> | 0 | 1 | 1 |1 |1 |0–2 |
+| <a href="#obyčajní-ľudia-a-nezávislé-osobnosti-(epp)">OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)</a> | 1 | 1 | 0–1 |0–1 |0–1 |0–2 |
 | <a href="#sloboda-a-solidarita-(ecr)">Sloboda a Solidarita (ECR)</a> | 1 | 1 | 1 |0–1 |0–1 |0–2 |
-| <a href="#kresťanskodemokratické-hnutie-(epp)">Kresťanskodemokratické hnutie (EPP)</a> | 2 | 1 | 1 |0–1 |0–1 |0–1 |
-| <a href="#slovenská-národná-strana-(ecr)">Slovenská národná strana (ECR)</a> | 0 | 1 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#kresťanskodemokratické-hnutie-(epp)">Kresťanskodemokratické hnutie (EPP)</a> | 2 | 0 | 0–1 |0–1 |0–1 |0–1 |
+| <a href="#slovenská-národná-strana-(ecr)">Slovenská národná strana (ECR)</a> | 0 | 0 | 0–1 |0–1 |0–1 |0–1 |
 | <a href="#strana-maďarskej-koalície–magyar-koalíció-pártja-(epp)">Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)</a> | 1 | 0 | 0 |0 |0 |0 |
 | <a href="#kotleba–ľudová-strana-naše-slovensko-(ni)">Kotleba–Ľudová strana Naše Slovensko (NI)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#spolu–občianska-demokracia-(epp)">SPOLU–Občianska Demokracia (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#za-ľudí-(epp)">Za ľudí (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
+| <a href="#magyar-fórum-(epp)">Magyar Fórum (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 
 ### SMER–sociálna demokracia (S&D)
 
@@ -58,9 +60,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 3% | 100% |  |
-| 4 | 89% | 97% | Last Result, Median |
-| 5 | 9% | 9% |  |
+| 3 | 0.7% | 100% |  |
+| 4 | 97% | 99.3% | Last Result, Median |
+| 5 | 2% | 2% |  |
 | 6 | 0% | 0% |  |
 
 ### HLAS–sociálna demokracia (S&D)
@@ -73,9 +75,9 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 54% | 100% | Median |
-| 3 | 45% | 46% |  |
-| 4 | 0.2% | 0.2% |  |
+| 2 | 6% | 100% |  |
+| 3 | 38% | 94% |  |
+| 4 | 56% | 56% | Median |
 | 5 | 0% | 0% |  |
 
 ### Progresívne Slovensko (RE)
@@ -87,9 +89,9 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 12% | 100% |  |
-| 2 | 86% | 88% | Median |
-| 3 | 2% | 2% |  |
+| 1 | 0.9% | 100% |  |
+| 2 | 88% | 99.1% | Median |
+| 3 | 11% | 11% |  |
 | 4 | 0% | 0% |  |
 
 ### REPUBLIKA (NI)
@@ -100,9 +102,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 98.7% | 99.9% | Median |
-| 2 | 1.2% | 1.2% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 98% | 100% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### SME RODINA (ID)
@@ -113,9 +115,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 98.8% | 99.7% | Median |
-| 2 | 0.9% | 0.9% |  |
+| 0 | 1.4% | 100% | Last Result |
+| 1 | 98% | 98.6% | Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 ### OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)
@@ -126,9 +128,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 4% | 100% |  |
-| 1 | 95% | 96% | Last Result, Median |
-| 2 | 0.1% | 0.1% |  |
+| 0 | 12% | 100% |  |
+| 1 | 86% | 88% | Last Result, Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### Sloboda a Solidarita (ECR)
@@ -140,8 +142,8 @@
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 9% | 100% |  |
-| 1 | 89% | 91% | Last Result, Median |
-| 2 | 1.2% | 1.2% |  |
+| 1 | 91% | 91% | Last Result, Median |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 ### Kresťanskodemokratické hnutie (EPP)
@@ -152,8 +154,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 5% | 100% |  |
-| 1 | 95% | 95% | Median |
+| 0 | 58% | 100% | Median |
+| 1 | 42% | 42% |  |
 | 2 | 0% | 0% | Last Result |
 
 ### Slovenská národná strana (ECR)
@@ -164,8 +166,8 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 26% | 100% | Last Result |
-| 1 | 74% | 74% | Median |
+| 0 | 87% | 100% | Last Result, Median |
+| 1 | 13% | 13% |  |
 | 2 | 0% | 0% |  |
 
 ### Strana maďarskej koalície–Magyar Koalíció Pártja (EPP)
@@ -209,6 +211,16 @@
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 100% | 100% | Last Result, Median |
 
+### Magyar Fórum (EPP)
+
+*For a full overview of the results for this party, see the [Magyar Fórum (EPP)](party-magyarfórumepp.html) page.*
+
+![Graph with seats probability mass function not yet produced](2023-05-06-PolisSlovakia-seats-pmf-magyarfórumepp.png "Seats Probability Mass Function")
+
+| Number of Seats | Probability | Accumulated | Special Marks |
+|:---------------:|:-----------:|:-----------:|:-------------:|
+| 0 | 100% | 100% | Last Result, Median |
+
 
 ## Coalitions
 
@@ -218,23 +230,8 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| SMER–sociálna demokracia (S&D) – HLAS–sociálna demokracia (S&D) | 4 | 6 | 9% | 6–7 | 6–8 | 6–8 | 6–8 |
 | REPUBLIKA (NI) – Kotleba–Ľudová strana Naše Slovensko (NI) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-| SME RODINA (ID) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
-
-### SMER–sociálna demokracia (S&D) – HLAS–sociálna demokracia (S&D)
-
-![Graph with seats probability mass function not yet produced](2023-05-06-PolisSlovakia-coalitions-seats-pmf-smer–sd–hlas–sd.png "Seats Probability Mass Function")
-
-| Number of Seats | Probability | Accumulated | Special Marks |
-|:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 0% | 100% | Last Result |
-| 5 | 0% | 100% |  |
-| 6 | 57% | 100% | Median |
-| 7 | 34% | 43% |  |
-| 8 | 9% | 9% | Majority |
-| 9 | 0.1% | 0.1% |  |
-| 10 | 0% | 0% |  |
+| SME RODINA (ID) | 0 | 1 | 0% | 1 | 1 | 1 | 0–2 |
 
 ### REPUBLIKA (NI) – Kotleba–Ľudová strana Naše Slovensko (NI)
 
@@ -242,9 +239,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 98.7% | 99.9% | Median |
-| 2 | 1.2% | 1.2% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 98% | 100% | Median |
+| 2 | 2% | 2% |  |
 | 3 | 0% | 0% |  |
 
 ### SME RODINA (ID)
@@ -253,9 +250,9 @@
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.3% | 100% | Last Result |
-| 1 | 98.8% | 99.7% | Median |
-| 2 | 0.9% | 0.9% |  |
+| 0 | 1.4% | 100% | Last Result |
+| 1 | 98% | 98.6% | Median |
+| 2 | 0.7% | 0.7% |  |
 | 3 | 0% | 0% |  |
 
 
@@ -270,6 +267,6 @@
 ### Calculations
 
 + **Sample size:** 1011
-+ **Simulations done:** 1,048,576
-+ **Error estimate:** 3.40%
++ **Simulations done:** 262,144
++ **Error estimate:** 5.20%
 

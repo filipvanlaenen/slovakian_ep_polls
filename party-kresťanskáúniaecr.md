@@ -1,4 +1,4 @@
-# HLAS–sociálna demokracia (S&D)
+# Kresťanská únia (ECR)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
