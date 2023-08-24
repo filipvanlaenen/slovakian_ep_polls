@@ -22,7 +22,7 @@ Last result: **24.1%** (General Election of 25 May 2019)
 | [21–26 July 2023](2023-07-26-Median.html) | Median <br> RTVS | 21.5% | 19.9–23.2% | 19.4–23.7% | 19.1–24.1% | 18.3–25.0% |
 | [21–26 July 2023](2023-07-26-Focus.html) | Focus <br> TV Markíza | 18.1% | 16.6–19.7% | 16.2–20.1% | 15.8–20.5% | 15.2–21.3% |
 | [19–21 July 2023](2023-07-21-Median.html) | Median | 20.1% | N/A | N/A | N/A | N/A |
-| [17–21 July 2023](2023-07-21-IPSOS.html) | IPSOS <br> Denník N | 19.4% | N/A | N/A | N/A | N/A |
+| [17–21 July 2023](2023-07-21-IPSOS.html) | IPSOS <br> Denník N | 19.4% | 17.9–21.1% | 17.4–21.6% | 17.1–22.0% | 16.4–22.8% |
 | [10–17 July 2023](2023-07-17-AKO.html) | AKO | 18.1% | 16.6–19.7% | 16.2–20.2% | 15.8–20.6% | 15.2–21.4% |
 | [4–9 July 2023](2023-07-09-NMS.html) | NMS | 20.6% | 19.3–22.0% | 18.9–22.4% | 18.6–22.8% | 17.9–23.5% |
 | [21–28 June 2023](2023-06-28-Focus.html) | Focus <br> TV Markíza | 19.0% | 17.5–20.6% | 17.0–21.1% | 16.7–21.5% | 16.0–22.3% |
@@ -198,7 +198,7 @@ Last result: **4** seats (General Election of 25 May 2019)
 | [21–26 July 2023](2023-07-26-Median.html) | Median <br> RTVS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [21–26 July 2023](2023-07-26-Focus.html) | Focus <br> TV Markíza | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [19–21 July 2023](2023-07-21-Median.html) | Median |  |  |  |  |  |
-| [17–21 July 2023](2023-07-21-IPSOS.html) | IPSOS <br> Denník N |  |  |  |  |  |
+| [17–21 July 2023](2023-07-21-IPSOS.html) | IPSOS <br> Denník N | 3 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [10–17 July 2023](2023-07-17-AKO.html) | AKO | 3 | 3 | 2–3 | 2–4 | 2–4 |
 | [4–9 July 2023](2023-07-09-NMS.html) | NMS | 4 | 3–4 | 3–5 | 3–5 | 3–5 |
 | [21–28 June 2023](2023-06-28-Focus.html) | Focus <br> TV Markíza | 4 | 3–4 | 3–4 | 3–4 | 2–4 |
