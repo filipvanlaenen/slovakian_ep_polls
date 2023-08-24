@@ -10,7 +10,19 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.2% | 5.0–7.5% | 4.8–7.9% | 4.6–8.3% | 4.2–8.9% |
+| N/A | [Poll Average](average.html) | 5.7% | 4.6–7.4% | 4.4–7.9% | 4.2–8.4% | 3.8–9.1% |
+| [11–16 August 2023](2023-08-16-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 5.3% | 4.5–6.3% | 4.2–6.6% | 4.0–6.8% | 3.7–7.3% |
+| [9–16 August 2023](2023-08-16-Focus.html) | Focus <br> TV Markíza | 5.1% | 4.3–6.1% | 4.1–6.3% | 3.9–6.6% | 3.5–7.1% |
+| [10–14 August 2023](2023-08-14-IPSOS.html) | IPSOS <br> Denník N | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.2–7.1% | 3.9–7.6% |
+| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.9% |
+| [1–7 August 2023](2023-08-07-NMS.html) | NMS | 5.6% | 4.9–6.4% | 4.7–6.7% | 4.5–6.9% | 4.2–7.3% |
+| [26 July–1 August 2023](2023-08-01-IPSOS.html) | IPSOS <br> Pravda | 5.6% | N/A | N/A | N/A | N/A |
+| [24–28 July 2023](2023-07-28-AKO.html) | AKO <br> TV JOJ | 6.1% | 5.2–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
+| [22–27 July 2023](2023-07-27-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 4.5% | 3.8–5.5% | 3.6–5.7% | 3.4–6.0% | 3.1–6.5% |
+| [21–26 July 2023](2023-07-26-Median.html) | Median <br> RTVS | 7.4% | 6.5–8.6% | 6.2–8.9% | 6.0–9.2% | 5.5–9.8% |
+| [21–26 July 2023](2023-07-26-Focus.html) | Focus <br> TV Markíza | 5.6% | 4.7–6.6% | 4.5–6.9% | 4.3–7.1% | 3.9–7.7% |
+| [19–21 July 2023](2023-07-21-Median.html) | Median | 6.1% | N/A | N/A | N/A | N/A |
+| [17–21 July 2023](2023-07-21-IPSOS.html) | IPSOS <br> Denník N | 6.4% | N/A | N/A | N/A | N/A |
 | [10–17 July 2023](2023-07-17-AKO.html) | AKO | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [4–9 July 2023](2023-07-09-NMS.html) | NMS | 5.3% | 4.6–6.2% | 4.4–6.4% | 4.3–6.6% | 3.9–7.0% |
 | [21–28 June 2023](2023-06-28-Focus.html) | Focus <br> TV Markíza | 6.1% | 5.3–7.2% | 5.0–7.5% | 4.8–7.8% | 4.4–8.3% |
@@ -136,7 +148,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.9–10.2% |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.3–9.5% |
-| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 7.5% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
+| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–7.9% | 4.6–8.5% |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
@@ -153,14 +165,14 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 2% | 100% |  |
-| 4.5–5.5% | 23% | 98% |  |
-| 5.5–6.5% | 38% | 75% | Median |
-| 6.5–7.5% | 27% | 36% |  |
-| 7.5–8.5% | 9% | 10% |  |
-| 8.5–9.5% | 1.2% | 1.2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 8% | 99.8% |  |
+| 4.5–5.5% | 37% | 92% |  |
+| 5.5–6.5% | 34% | 55% | Median |
+| 6.5–7.5% | 13% | 21% |  |
+| 7.5–8.5% | 6% | 8% |  |
+| 8.5–9.5% | 2% | 2% |  |
+| 9.5–10.5% | 0.2% | 0.2% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -172,7 +184,19 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [11–16 August 2023](2023-08-16-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [9–16 August 2023](2023-08-16-Focus.html) | Focus <br> TV Markíza | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–14 August 2023](2023-08-14-IPSOS.html) | IPSOS <br> Denník N | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [1–7 August 2023](2023-08-07-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [26 July–1 August 2023](2023-08-01-IPSOS.html) | IPSOS <br> Pravda |  |  |  |  |  |
+| [24–28 July 2023](2023-07-28-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 0–1 | 0–1 |
+| [22–27 July 2023](2023-07-27-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [21–26 July 2023](2023-07-26-Median.html) | Median <br> RTVS | 1 | 1 | 1 | 1–2 | 1–2 |
+| [21–26 July 2023](2023-07-26-Focus.html) | Focus <br> TV Markíza | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [19–21 July 2023](2023-07-21-Median.html) | Median |  |  |  |  |  |
+| [17–21 July 2023](2023-07-21-IPSOS.html) | IPSOS <br> Denník N |  |  |  |  |  |
 | [10–17 July 2023](2023-07-17-AKO.html) | AKO | 1 | 1 | 1 | 0–1 | 0–1 |
 | [4–9 July 2023](2023-07-09-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [21–28 June 2023](2023-06-28-Focus.html) | Focus <br> TV Markíza | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -314,9 +338,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 14% | 100% | Last Result |
-| 1 | 85% | 86% | Median |
-| 2 | 0.7% | 0.7% |  |
+| 0 | 20% | 100% | Last Result |
+| 1 | 80% | 80% | Median |
+| 2 | 0.5% | 0.5% |  |
 | 3 | 0% | 0% |  |
 
 
