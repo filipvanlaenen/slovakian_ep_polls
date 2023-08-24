@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 24 Aug 2023 20:15:19 +0200</pubDate>
+    <pubDate>Thu, 24 Aug 2023 22:06:24 +0200</pubDate>
     <item>
       <title>Opinion Poll by Polis Slovakia for Zoznam, 11–16 August 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-08-16-PolisSlovakia.html#seats</link>
@@ -278,6 +278,36 @@
         type="image/png"/>
       <pubDate>Thu, 24 Aug 2023 20:15:19 +0200</pubDate>
       <dc:date>2023-08-24T20:15:19.12897+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for Denník N, 17–21 July 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-07-21-IPSOS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 2–3 seats&lt;/li&gt;&lt;li&gt;Magyar Fórum (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;MODRÍ–Európske Slovensko–MOST–HÍD (EPP): 0 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí (EPP): 1 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-07-21-IPSOS-seats.png"
+        length="442183"
+        type="image/png"/>
+      <pubDate>Thu, 24 Aug 2023 22:06:24 +0200</pubDate>
+      <dc:date>2023-08-24T22:06:24.928834+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for Denník N, 17–21 July 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-07-21-IPSOS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-07-21-IPSOS-coalitions-seats.png"
+        length="228669"
+        type="image/png"/>
+      <pubDate>Thu, 24 Aug 2023 22:06:24 +0200</pubDate>
+      <dc:date>2023-08-24T22:06:24.928834+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by IPSOS for Denník N, 17–21 July 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-07-21-IPSOS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 3.8–6.5%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 12.8–17.3%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 13.8–18.3%&lt;/li&gt;&lt;li&gt;Magyar Fórum (EPP): 0.4–1.6%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.6–7.5%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 3.8–6.5%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (EPP): 1.4–3.2%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.5–4.8%&lt;/li&gt;&lt;li&gt;MODRÍ–Európske Slovensko–MOST–HÍD (EPP): 1.1–2.8%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí (EPP): 5.6–8.8%&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 17.1–22.0%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 7.0–10.5%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 5.0–8.1%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1.8–3.8%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-07-21-IPSOS.png"
+        length="512387"
+        type="image/png"/>
+      <pubDate>Thu, 24 Aug 2023 22:06:24 +0200</pubDate>
+      <dc:date>2023-08-24T22:06:24.928834+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO, 10–17 July 2023 – Seat Projections for the Parties</title>
@@ -3669,6 +3699,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57+02:00</dc:date>
     </item>
-    <dc:date>2023-08-24T20:15:19.12897+02:00</dc:date>
+    <dc:date>2023-08-24T22:06:24.928834+02:00</dc:date>
   </channel>
 </rss>
