@@ -10,12 +10,18 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.1–9.9% | 5.7–10.4% | 5.4–10.8% | 4.9–11.6% |
+| N/A | [Poll Average](average.html) | 6.6% | 4.7–8.8% | 4.5–9.2% | 4.2–9.5% | 3.8–10.2% |
+| [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 8.0% | 7.0–9.2% | 6.7–9.5% | 6.5–9.8% | 6.0–10.5% |
+| [5–11 September 2023](2023-09-11-AKO.html) | AKO <br> TV JOJ | 5.2% | 4.4–6.3% | 4.1–6.6% | 4.0–6.9% | 3.6–7.4% |
+| [5–9 September 2023](2023-09-09-NMS.html) | NMS | 8.3% | N/A | N/A | N/A | N/A |
+| [1–6 September 2023](2023-09-06-PolisSlovakia.html) | Polis Slovakia <br> eReport | 7.6% | N/A | N/A | N/A | N/A |
+| [25–31 August 2023](2023-08-31-Median.html) | Median <br> RTVS | 10.2% | N/A | N/A | N/A | N/A |
+| [21–24 August 2023](2023-08-24-Median.html) | Median <br> RTVS | 10.0% | N/A | N/A | N/A | N/A |
 | [11–16 August 2023](2023-08-16-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 6.6% | 5.7–7.8% | 5.5–8.1% | 5.3–8.4% | 4.8–8.9% |
 | [9–16 August 2023](2023-08-16-Focus.html) | Focus <br> TV Markíza | 8.8% | 7.8–10.1% | 7.5–10.4% | 7.2–10.7% | 6.7–11.4% |
 | [10–14 August 2023](2023-08-14-IPSOS.html) | IPSOS <br> Denník N | 7.9% | 6.9–9.1% | 6.6–9.4% | 6.4–9.7% | 5.9–10.3% |
-| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.6% |
-| [1–7 August 2023](2023-08-07-NMS.html) | NMS | 7.5% | 6.7–8.5% | 6.4–8.7% | 6.2–9.0% | 5.9–9.5% |
+| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ | 6.3% | N/A | N/A | N/A | N/A |
+| [1–7 August 2023](2023-08-07-NMS.html) | NMS | 7.5% | N/A | N/A | N/A | N/A |
 | [26 July–1 August 2023](2023-08-01-IPSOS.html) | IPSOS <br> Pravda | 8.8% | N/A | N/A | N/A | N/A |
 | [24–28 July 2023](2023-07-28-AKO.html) | AKO <br> TV JOJ | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.4% | 4.9–9.0% |
 | [22–27 July 2023](2023-07-27-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
@@ -165,18 +171,16 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 16% | 97% |  |
-| 6.5–7.5% | 25% | 81% |  |
-| 7.5–8.5% | 24% | 55% | Median |
-| 8.5–9.5% | 17% | 32% |  |
-| 9.5–10.5% | 10% | 14% |  |
-| 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.6% | 0.6% |  |
-| 12.5–13.5% | 0% | 0% |  |
-| 13.5–14.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.2% | 100% |  |
+| 3.5–4.5% | 7% | 99.8% |  |
+| 4.5–5.5% | 24% | 93% |  |
+| 5.5–6.5% | 18% | 69% |  |
+| 6.5–7.5% | 14% | 50% | Median |
+| 7.5–8.5% | 22% | 36% |  |
+| 8.5–9.5% | 12% | 14% |  |
+| 9.5–10.5% | 2% | 2% |  |
+| 10.5–11.5% | 0.2% | 0.2% |  |
+| 11.5–12.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -187,22 +191,28 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [5–11 September 2023](2023-09-11-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [5–9 September 2023](2023-09-09-NMS.html) | NMS |  |  |  |  |  |
+| [1–6 September 2023](2023-09-06-PolisSlovakia.html) | Polis Slovakia <br> eReport |  |  |  |  |  |
+| [25–31 August 2023](2023-08-31-Median.html) | Median <br> RTVS |  |  |  |  |  |
+| [21–24 August 2023](2023-08-24-Median.html) | Median <br> RTVS |  |  |  |  |  |
 | [11–16 August 2023](2023-08-16-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 1 | 1 | 1 | 1 | 1–2 |
-| [9–16 August 2023](2023-08-16-Focus.html) | Focus <br> TV Markíza | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [10–14 August 2023](2023-08-14-IPSOS.html) | IPSOS <br> Denník N | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 0–1 | 0–1 | 0–1 |
-| [1–7 August 2023](2023-08-07-NMS.html) | NMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [9–16 August 2023](2023-08-16-Focus.html) | Focus <br> TV Markíza | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–14 August 2023](2023-08-14-IPSOS.html) | IPSOS <br> Denník N | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [1–7 August 2023](2023-08-07-NMS.html) | NMS |  |  |  |  |  |
 | [26 July–1 August 2023](2023-08-01-IPSOS.html) | IPSOS <br> Pravda |  |  |  |  |  |
-| [24–28 July 2023](2023-07-28-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1 | 1–2 |
-| [22–27 July 2023](2023-07-27-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [24–28 July 2023](2023-07-28-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [22–27 July 2023](2023-07-27-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [21–26 July 2023](2023-07-26-Median.html) | Median <br> RTVS | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [21–26 July 2023](2023-07-26-Focus.html) | Focus <br> TV Markíza | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [21–26 July 2023](2023-07-26-Focus.html) | Focus <br> TV Markíza | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [19–21 July 2023](2023-07-21-Median.html) | Median |  |  |  |  |  |
-| [17–21 July 2023](2023-07-21-IPSOS.html) | IPSOS <br> Denník N | 1 | 1 | 1–2 | 1–2 | 1–2 |
-| [10–17 July 2023](2023-07-17-AKO.html) | AKO | 1 | 1 | 1 | 1 | 0–2 |
-| [4–9 July 2023](2023-07-09-NMS.html) | NMS | 2 | 2 | 2 | 2 | 2 |
-| [21–28 June 2023](2023-06-28-Focus.html) | Focus <br> TV Markíza | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [17–21 July 2023](2023-07-21-IPSOS.html) | IPSOS <br> Denník N | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [10–17 July 2023](2023-07-17-AKO.html) | AKO | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [4–9 July 2023](2023-07-09-NMS.html) | NMS | 2 | 2 | 2 | 2 | 2–3 |
+| [21–28 June 2023](2023-06-28-Focus.html) | Focus <br> TV Markíza | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15 May–20 June 2023](2023-06-20-Median.html) | Median | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [12–16 June 2023](2023-06-16-IPSOS.html) | IPSOS <br> Denník N | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [6–9 June 2023](2023-06-09-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1 | 1–2 |
@@ -341,9 +351,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% | Last Result |
-| 1 | 76% | 98% | Median |
-| 2 | 22% | 22% |  |
+| 0 | 0% | 100% | Last Result |
+| 1 | 74% | 100% | Median |
+| 2 | 26% | 26% |  |
 | 3 | 0% | 0% |  |
 
 
