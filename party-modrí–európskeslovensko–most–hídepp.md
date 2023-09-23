@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.3% | 0.8–2.0% | 0.7–2.1% | 0.6–2.3% | 0.5–2.7% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.8% | 0.7–2.0% | 0.6–2.2% | 0.4–2.6% |
+| [16–20 September 2023](2023-09-20-PolisSlovakia.html) | Polis Slovakia | 1.2% | 0.9–1.7% | 0.8–1.9% | 0.7–2.0% | 0.5–2.3% |
+| [15–19 September 2023](2023-09-19-IPSOS.html) | IPSOS <br> Pravda | 0.9% | 0.6–1.4% | 0.5–1.5% | 0.5–1.7% | 0.4–2.0% |
 | [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [5–11 September 2023](2023-09-11-AKO.html) | AKO <br> TV JOJ | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [5–9 September 2023](2023-09-09-NMS.html) | NMS | 0.9% | 0.7–1.3% | 0.6–1.5% | 0.5–1.6% | 0.4–1.8% |
@@ -20,8 +22,8 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [11–16 August 2023](2023-08-16-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 1.8% | 1.4–2.5% | 1.2–2.6% | 1.1–2.8% | 0.9–3.2% |
 | [9–16 August 2023](2023-08-16-Focus.html) | Focus <br> TV Markíza | 1.7% | 1.3–2.3% | 1.1–2.5% | 1.1–2.7% | 0.9–3.0% |
 | [10–14 August 2023](2023-08-14-IPSOS.html) | IPSOS <br> Denník N | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
-| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ | 2.1% | N/A | N/A | N/A | N/A |
-| [1–7 August 2023](2023-08-07-NMS.html) | NMS | 1.6% | N/A | N/A | N/A | N/A |
+| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
+| [1–7 August 2023](2023-08-07-NMS.html) | NMS | 1.6% | 1.3–2.1% | 1.2–2.3% | 1.1–2.4% | 0.9–2.7% |
 | [26 July–1 August 2023](2023-08-01-IPSOS.html) | IPSOS <br> Pravda | 1.6% | N/A | N/A | N/A | N/A |
 | [24–28 July 2023](2023-07-28-AKO.html) | AKO <br> TV JOJ | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [22–27 July 2023](2023-07-27-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 2.5% | 2.0–3.3% | 1.8–3.5% | 1.7–3.7% | 1.5–4.1% |
@@ -168,10 +170,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0.9% | 100% | Last Result |
-| 0.5–1.5% | 68% | 99.1% | Median |
-| 1.5–2.5% | 31% | 31% |  |
-| 2.5–3.5% | 0.9% | 0.9% |  |
+| 0.0–0.5% | 2% | 100% | Last Result |
+| 0.5–1.5% | 75% | 98% | Median |
+| 1.5–2.5% | 23% | 23% |  |
+| 2.5–3.5% | 0.5% | 0.5% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -184,6 +186,8 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–20 September 2023](2023-09-20-PolisSlovakia.html) | Polis Slovakia | 0 | 0 | 0 | 0 | 0 |
+| [15–19 September 2023](2023-09-19-IPSOS.html) | IPSOS <br> Pravda | 0 | 0 | 0 | 0 | 0 |
 | [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
 | [5–11 September 2023](2023-09-11-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [5–9 September 2023](2023-09-09-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
@@ -193,8 +197,8 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [11–16 August 2023](2023-08-16-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 0 | 0 | 0 | 0 | 0 |
 | [9–16 August 2023](2023-08-16-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
 | [10–14 August 2023](2023-08-14-IPSOS.html) | IPSOS <br> Denník N | 0 | 0 | 0 | 0 | 0 |
-| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
-| [1–7 August 2023](2023-08-07-NMS.html) | NMS |  |  |  |  |  |
+| [7–14 August 2023](2023-08-14-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
+| [1–7 August 2023](2023-08-07-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [26 July–1 August 2023](2023-08-01-IPSOS.html) | IPSOS <br> Pravda |  |  |  |  |  |
 | [24–28 July 2023](2023-07-28-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [22–27 July 2023](2023-07-27-PolisSlovakia.html) | Polis Slovakia <br> Zoznam | 0 | 0 | 0 | 0 | 0 |
