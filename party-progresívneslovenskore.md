@@ -10,7 +10,12 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.3% | 15.1–19.1% | 14.5–19.6% | 14.0–20.1% | 13.2–20.9% |
+| N/A | [Poll Average](average.html) | 17.2% | 14.9–19.7% | 14.4–20.4% | 13.9–20.9% | 13.1–21.9% |
+| [25–26 September 2023](2023-09-26-Median.html) | Median | 19.3% | 17.8–21.0% | 17.4–21.5% | 17.0–21.9% | 16.3–22.7% |
+| [22–26 September 2023](2023-09-26-Focus.html) | Focus | 16.6% | 15.2–18.2% | 14.8–18.6% | 14.4–19.0% | 13.8–19.8% |
+| [20–26 September 2023](2023-09-26-AKO.html) | AKO | 18.0% | 16.5–19.6% | 16.1–20.1% | 15.7–20.5% | 15.1–21.3% |
+| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos | 19.8% | N/A | N/A | N/A | N/A |
+| [21–24 September 2023](2023-09-24-NMS.html) | NMS | 19.7% | N/A | N/A | N/A | N/A |
 | [16–20 September 2023](2023-09-20-PolisSlovakia.html) | Polis Slovakia | 15.1% | 13.8–16.6% | 13.5–17.0% | 13.1–17.4% | 12.5–18.1% |
 | [15–19 September 2023](2023-09-19-IPSOS.html) | IPSOS <br> Pravda | 17.1% | 15.6–18.6% | 15.2–19.1% | 14.9–19.5% | 14.2–20.3% |
 | [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 16.5% | 15.1–18.1% | 14.6–18.5% | 14.3–18.9% | 13.7–19.7% |
@@ -183,17 +188,18 @@ The following table shows the probability mass function per percentage block of 
 | 9.5–10.5% | 0% | 100% |  |
 | 10.5–11.5% | 0% | 100% |  |
 | 11.5–12.5% | 0.1% | 100% |  |
-| 12.5–13.5% | 1.0% | 99.9% |  |
-| 13.5–14.5% | 5% | 98.9% |  |
-| 14.5–15.5% | 10% | 94% |  |
-| 15.5–16.5% | 17% | 84% |  |
-| 16.5–17.5% | 23% | 67% | Median |
-| 17.5–18.5% | 24% | 43% |  |
-| 18.5–19.5% | 14% | 20% |  |
-| 19.5–20.5% | 5% | 6% |  |
-| 20.5–21.5% | 0.9% | 1.0% |  |
-| 21.5–22.5% | 0.1% | 0.1% |  |
-| 22.5–23.5% | 0% | 0% |  |
+| 12.5–13.5% | 1.1% | 99.9% |  |
+| 13.5–14.5% | 5% | 98.8% |  |
+| 14.5–15.5% | 12% | 94% |  |
+| 15.5–16.5% | 18% | 82% |  |
+| 16.5–17.5% | 20% | 64% | Median |
+| 17.5–18.5% | 19% | 44% |  |
+| 18.5–19.5% | 14% | 25% |  |
+| 19.5–20.5% | 8% | 12% |  |
+| 20.5–21.5% | 3% | 4% |  |
+| 21.5–22.5% | 0.8% | 0.9% |  |
+| 22.5–23.5% | 0.1% | 0.1% |  |
+| 23.5–24.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -204,7 +210,12 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
+| N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 2–4 | 2–4 |
+| [25–26 September 2023](2023-09-26-Median.html) | Median | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [22–26 September 2023](2023-09-26-Focus.html) | Focus | 3 | 3 | 3–4 | 3–4 | 2–4 |
+| [20–26 September 2023](2023-09-26-AKO.html) | AKO | 3 | 2–4 | 2–4 | 2–4 | 2–4 |
+| [22–25 September 2023](2023-09-25-Ipsos.html) | Ipsos |  |  |  |  |  |
+| [21–24 September 2023](2023-09-24-NMS.html) | NMS |  |  |  |  |  |
 | [16–20 September 2023](2023-09-20-PolisSlovakia.html) | Polis Slovakia | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [15–19 September 2023](2023-09-19-IPSOS.html) | IPSOS <br> Pravda | 3 | 3 | 3 | 3–4 | 3–4 |
 | [6–13 September 2023](2023-09-13-Focus.html) | Focus <br> TV Markíza | 3 | 3 | 3 | 3–4 | 2–4 |
@@ -368,10 +379,9 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 1.1% | 100% |  |
-| 3 | 86% | 98.9% | Median |
-| 4 | 13% | 13% |  |
-| 5 | 0.3% | 0.3% |  |
-| 6 | 0% | 0% |  |
+| 2 | 4% | 100% |  |
+| 3 | 76% | 96% | Median |
+| 4 | 20% | 20% |  |
+| 5 | 0% | 0% |  |
 
 
