@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 04 Oct 2023 18:25:43 +0200</pubDate>
+    <pubDate>Wed, 04 Oct 2023 19:58:42 +0200</pubDate>
     <item>
       <title>Opinion Poll by Median, 25–26 September 2023 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-26-Median.html#seats</link>
@@ -70,14 +70,64 @@
       <dc:date>2023-10-04T18:19:35.386155+02:00</dc:date>
     </item>
     <item>
+      <title>Opinion Poll by AKO, 20–26 September 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-26-AKO.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SME RODINA (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;MODRÍ–Európske Slovensko–MOST–HÍD (EPP): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Magyar Fórum (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 2–4 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 2–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-26-AKO-seats.png"
+        length="532529"
+        type="image/png"/>
+      <pubDate>Wed, 04 Oct 2023 19:22:45 +0200</pubDate>
+      <dc:date>2023-10-04T19:22:45.559475+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by AKO, 20–26 September 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-26-AKO.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-26-AKO-coalitions-seats.png"
+        length="253726"
+        type="image/png"/>
+      <pubDate>Wed, 04 Oct 2023 19:22:45 +0200</pubDate>
+      <dc:date>2023-10-04T19:22:45.559475+02:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by AKO, 20–26 September 2023 – Voting Intentions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-26-AKO.html</link>
       <description>&lt;ul&gt;&lt;li&gt;SME RODINA (ID): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.8–7.8%&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 15.5–20.2%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 4.2–7.0%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 4.7–7.7%&lt;/li&gt;&lt;li&gt;MODRÍ–Európske Slovensko–MOST–HÍD (EPP): 0.5–1.8%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (EPP): 3.2–5.7%&lt;/li&gt;&lt;li&gt;Magyar Fórum (EPP): 0.3–1.3%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 1.9–4.0%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 5.8–9.1%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 12.9–17.4%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0.1–0.9%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí (EPP): 7.7–11.4%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 15.7–20.5%&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-26-AKO.png"
         length="511696"
         type="image/png"/>
-      <pubDate>Wed, 04 Oct 2023 18:25:43 +0200</pubDate>
-      <dc:date>2023-10-04T18:25:43.069309+02:00</dc:date>
+      <pubDate>Wed, 04 Oct 2023 19:22:45 +0200</pubDate>
+      <dc:date>2023-10-04T19:22:45.559475+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 22–25 September 2023 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-25-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;SME RODINA (ID): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–2 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;MODRÍ–Európske Slovensko–MOST–HÍD (EPP): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Magyar Fórum (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 3–4 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-25-Ipsos-seats.png"
+        length="454108"
+        type="image/png"/>
+      <pubDate>Wed, 04 Oct 2023 19:58:42 +0200</pubDate>
+      <dc:date>2023-10-04T19:58:42.326315+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 22–25 September 2023 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-25-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-25-Ipsos-coalitions-seats.png"
+        length="241007"
+        type="image/png"/>
+      <pubDate>Wed, 04 Oct 2023 19:58:42 +0200</pubDate>
+      <dc:date>2023-10-04T19:58:42.326315+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos, 22–25 September 2023 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-25-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;SME RODINA (ID): 2.9–5.4%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.6–7.5%&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (S&amp;amp;D): 18.2–23.2%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 6.1–9.4%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ECR): 4.4–7.3%&lt;/li&gt;&lt;li&gt;MODRÍ–Európske Slovensko–MOST–HÍD (EPP): 0.3–1.3%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (EPP): 2.4–4.6%&lt;/li&gt;&lt;li&gt;Magyar Fórum (EPP): 0.0–0.6%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 2.4–4.7%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 5.6–8.8%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 10.0–14.1%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1.0–2.6%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí (EPP): 6.6–10.1%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 17.4–22.4%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2023-09-25-Ipsos.png"
+        length="510500"
+        type="image/png"/>
+      <pubDate>Wed, 04 Oct 2023 19:58:42 +0200</pubDate>
+      <dc:date>2023-10-04T19:58:42.326315+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Polis Slovakia, 16–20 September 2023 – Seat Projections for the Parties</title>
@@ -3769,6 +3819,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57+02:00</dc:date>
     </item>
-    <dc:date>2023-10-04T18:25:43.069309+02:00</dc:date>
+    <dc:date>2023-10-04T19:58:42.326315+02:00</dc:date>
   </channel>
 </rss>
