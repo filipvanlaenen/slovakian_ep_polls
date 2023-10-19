@@ -20,7 +20,7 @@ Only polls for which at least the sample size has been published are included in
 **Legend:**
 + **Top half of each row:** Voting intentions (95% confidence interval)
 + **Bottom half of each row:** Seat projections for the European Parliament (95% confidence interval)
-+ **Smer–SD:** SMER–sociálna demokracia (S&D)
++ **Smer–SD:** SMER–sociálna demokracia (NI)
 + **KDH:** Kresťanskodemokratické hnutie (EPP)
 + **OĽaNO:** OBYČAJNÍ ĽUDIA a nezávislé osobnosti (EPP)
 + **NOVA:** NOVA (ECR)
