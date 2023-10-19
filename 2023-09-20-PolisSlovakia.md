@@ -10,7 +10,7 @@
 
 | Party | Last Result | Poll Result | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| SMER–sociálna demokracia (S&D) | 24.1% | 24.4% | 22.8–26.1% |22.4–26.6% |22.0–27.0% |21.2–27.9% |
+| SMER–sociálna demokracia (NI) | 24.1% | 24.4% | 22.8–26.1% |22.4–26.6% |22.0–27.0% |21.2–27.9% |
 | Progresívne Slovensko (RE) | 0.0% | 15.1% | 13.8–16.6% |13.5–17.0% |13.1–17.4% |12.5–18.1% |
 | HLAS–sociálna demokracia (S&D) | 0.0% | 12.6% | 11.4–14.0% |11.1–14.4% |10.8–14.7% |10.2–15.4% |
 | REPUBLIKA (NI) | 0.0% | 6.8% | 5.9–7.8% |5.6–8.1% |5.4–8.4% |5.0–8.9% |
@@ -37,7 +37,7 @@
 
 | Party | Last Result | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:-----:|:-----------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| <a href="#smer–sociálna-demokracia-(s&d)">SMER–sociálna demokracia (S&D)</a> | 4 | 4 | 4 |4–5 |4–5 |4–5 |
+| <a href="#smer–sociálna-demokracia-(ni)">SMER–sociálna demokracia (NI)</a> | 4 | 4 | 4 |4–5 |4–5 |4–5 |
 | <a href="#progresívne-slovensko-(re)">Progresívne Slovensko (RE)</a> | 0 | 3 | 3 |2–3 |2–3 |2–3 |
 | <a href="#hlas–sociálna-demokracia-(s&d)">HLAS–sociálna demokracia (S&D)</a> | 0 | 2 | 2 |2 |2–3 |2–3 |
 | <a href="#republika-(ni)">REPUBLIKA (NI)</a> | 0 | 1 | 1 |1 |1 |1–2 |
@@ -52,11 +52,11 @@
 | <a href="#modrí–európske-slovensko–most–híd-(epp)">MODRÍ–Európske Slovensko–MOST–HÍD (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 | <a href="#magyar-fórum-(epp)">Magyar Fórum (EPP)</a> | 0 | 0 | 0 |0 |0 |0 |
 
-### SMER–sociálna demokracia (S&D)
+### SMER–sociálna demokracia (NI)
 
-*For a full overview of the results for this party, see the [SMER–sociálna demokracia (S&D)](party-smer–sociálnademokraciasd.html) page.*
+*For a full overview of the results for this party, see the [SMER–sociálna demokracia (NI)](party-smer–sociálnademokraciani.html) page.*
 
-![Graph with seats probability mass function not yet produced](2023-09-20-PolisSlovakia-seats-pmf-smer–sociálnademokraciasd.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-20-PolisSlovakia-seats-pmf-smer–sociálnademokraciani.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
@@ -229,19 +229,20 @@
 
 | Coalition | Last Result | Median | Majority? | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:---------:|:-----------:|:------:|:---------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| REPUBLIKA (NI) – Kotleba–Ľudová strana Naše Slovensko (NI) | 0 | 1 | 0% | 1 | 1 | 1 | 1–2 |
+| SMER–sociálna demokracia (NI) – REPUBLIKA (NI) – Kotleba–Ľudová strana Naše Slovensko (NI) | 4 | 5 | 0% | 5 | 5–6 | 5–6 | 5–7 |
 | SME RODINA (ID) | 0 | 0 | 0% | 0 | 0–1 | 0–1 | 0–1 |
 
-### REPUBLIKA (NI) – Kotleba–Ľudová strana Naše Slovensko (NI)
+### SMER–sociálna demokracia (NI) – REPUBLIKA (NI) – Kotleba–Ľudová strana Naše Slovensko (NI)
 
-![Graph with seats probability mass function not yet produced](2023-09-20-PolisSlovakia-coalitions-seats-pmf-rep–kotleba–ľsns.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](2023-09-20-PolisSlovakia-coalitions-seats-pmf-smer–sd–rep–kotleba–ľsns.png "Seats Probability Mass Function")
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.1% | 100% | Last Result |
-| 1 | 98% | 99.9% | Median |
-| 2 | 2% | 2% |  |
-| 3 | 0% | 0% |  |
+| 4 | 0.1% | 100% | Last Result |
+| 5 | 91% | 99.9% | Median |
+| 6 | 8% | 9% |  |
+| 7 | 0.5% | 0.5% |  |
+| 8 | 0% | 0% | Majority |
 
 ### SME RODINA (ID)
 
