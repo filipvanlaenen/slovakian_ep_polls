@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 8.1% | 5.7–9.9% | 5.3–10.4% | 5.0–10.7% | 4.5–11.4% |
+| N/A | [Poll Average](average.html) | 6.5% | 5.5–7.5% | 5.2–7.9% | 5.0–8.1% | 4.6–8.7% |
+| [7–14 November 2023](2023-11-14-AKO.html) | AKO | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.9% |
+| [2–7 November 2023](2023-11-07-Ipsos.html) | Ipsos | 6.2% | 5.3–7.3% | 5.1–7.6% | 4.9–7.9% | 4.5–8.4% |
 | [25–26 September 2023](2023-09-26-Median.html) | Median | 6.2% | 5.3–7.3% | 5.0–7.6% | 4.8–7.8% | 4.5–8.4% |
 | [22–26 September 2023](2023-09-26-Focus.html) | Focus | 8.2% | 7.1–9.4% | 6.9–9.7% | 6.6–10.0% | 6.2–10.6% |
 | [20–26 September 2023](2023-09-26-AKO.html) | AKO | 9.4% | 8.3–10.7% | 8.0–11.1% | 7.7–11.4% | 7.2–12.0% |
@@ -179,16 +181,13 @@ The following table shows the probability mass function per percentage block of 
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.6% | 100% |  |
-| 4.5–5.5% | 8% | 99.4% |  |
-| 5.5–6.5% | 15% | 92% |  |
-| 6.5–7.5% | 14% | 77% |  |
-| 7.5–8.5% | 23% | 63% | Median |
-| 8.5–9.5% | 23% | 40% |  |
-| 9.5–10.5% | 13% | 16% |  |
-| 10.5–11.5% | 3% | 4% |  |
-| 11.5–12.5% | 0.3% | 0.3% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 3.5–4.5% | 0.4% | 100% |  |
+| 4.5–5.5% | 11% | 99.6% |  |
+| 5.5–6.5% | 43% | 89% | Median |
+| 6.5–7.5% | 36% | 45% |  |
+| 7.5–8.5% | 9% | 10% |  |
+| 8.5–9.5% | 0.8% | 0.8% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -199,7 +198,9 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–1 |
+| [7–14 November 2023](2023-11-14-AKO.html) | AKO | 1 | 1 | 1 | 1 | 1 |
+| [2–7 November 2023](2023-11-07-Ipsos.html) | Ipsos | 1 | 1 | 1 | 0–1 | 0–1 |
 | [25–26 September 2023](2023-09-26-Median.html) | Median | 1 | 1 | 1 | 1 | 0–1 |
 | [22–26 September 2023](2023-09-26-Focus.html) | Focus | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [20–26 September 2023](2023-09-26-AKO.html) | AKO | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -366,9 +367,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.9% | 100% | Last Result |
-| 1 | 56% | 99.1% | Median |
-| 2 | 43% | 43% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 98% | 98% | Median |
+| 2 | 0.2% | 0.2% |  |
 | 3 | 0% | 0% |  |
 
 

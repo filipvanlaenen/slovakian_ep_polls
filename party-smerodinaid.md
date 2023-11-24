@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.6% | 3.6–5.8% | 3.4–6.1% | 3.2–6.4% | 2.8–6.9% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.3% | 1.7–3.5% | 1.6–3.7% | 1.4–4.2% |
+| [7–14 November 2023](2023-11-14-AKO.html) | AKO | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
+| [2–7 November 2023](2023-11-07-Ipsos.html) | Ipsos | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [25–26 September 2023](2023-09-26-Median.html) | Median | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.0–5.5% | 2.7–6.0% |
 | [22–26 September 2023](2023-09-26-Focus.html) | Focus | 4.1% | 3.4–5.0% | 3.2–5.3% | 3.1–5.5% | 2.8–6.0% |
 | [20–26 September 2023](2023-09-26-AKO.html) | AKO | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
@@ -161,7 +163,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [7–10 October 2019](2019-10-10-AKO.html) | AKO | 5.9% | 5.0–7.0% | 4.8–7.3% | 4.6–7.5% | 4.2–8.1% |
 | [18–25 September 2019](2019-09-25-AKO.html) | AKO | 7.8% | 6.8–9.0% | 6.5–9.3% | 6.3–9.6% | 5.9–10.2% |
 | [11–17 September 2019](2019-09-17-FOCUS.html) | FOCUS | 7.2% | 6.3–8.4% | 6.0–8.7% | 5.8–9.0% | 5.3–9.5% |
-| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 7.5% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
+| [26–29 August 2019](2019-08-29-AKO.html) | AKO | 7.1% | 6.2–8.3% | 5.9–8.6% | 5.7–8.9% | 5.2–9.4% |
 | [12 August 2019](2019-08-12-MVK.html) | MVK | 5.5% | 4.7–6.5% | 4.4–6.8% | 4.3–7.1% | 3.9–7.6% |
 | [1–7 August 2019](2019-08-07-FOCUS.html) | FOCUS | 6.3% | 5.4–7.4% | 5.2–7.7% | 4.9–7.9% | 4.6–8.5% |
 | [19–25 June 2019](2019-06-25-FOCUS.html) | FOCUS | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
@@ -176,15 +178,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.1% | 100% |  |
-| 2.5–3.5% | 9% | 99.9% |  |
-| 3.5–4.5% | 39% | 91% |  |
-| 4.5–5.5% | 37% | 52% | Median |
-| 5.5–6.5% | 14% | 15% |  |
-| 6.5–7.5% | 1.4% | 1.5% |  |
-| 7.5–8.5% | 0% | 0% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 48% | 98% |  |
+| 2.5–3.5% | 45% | 50% | Median |
+| 3.5–4.5% | 5% | 5% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
+| 5.5–6.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -195,7 +194,9 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–14 November 2023](2023-11-14-AKO.html) | AKO | 0 | 0 | 0 | 0 | 0 |
+| [2–7 November 2023](2023-11-07-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
 | [25–26 September 2023](2023-09-26-Median.html) | Median | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [22–26 September 2023](2023-09-26-Focus.html) | Focus | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [20–26 September 2023](2023-09-26-AKO.html) | AKO | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -362,8 +363,6 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 76% | 100% | Last Result, Median |
-| 1 | 24% | 24% |  |
-| 2 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
