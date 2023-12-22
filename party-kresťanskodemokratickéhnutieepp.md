@@ -10,7 +10,10 @@ Last result: **13.2%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.4% | 5.3–7.7% | 5.0–8.1% | 4.7–8.4% | 4.3–9.0% |
+| N/A | [Poll Average](average.html) | 7.1% | 5.9–8.4% | 5.6–8.7% | 5.4–9.0% | 4.9–9.6% |
+| [11–13 December 2023](2023-12-13-Ipsos.html) | Ipsos | 6.4% | 5.5–7.5% | 5.3–7.8% | 5.1–8.0% | 4.7–8.6% |
+| [11–13 December 2023](2023-12-13-AKO.html) | AKO <br> TV JOJ | 7.3% | 6.3–8.5% | 6.1–8.8% | 5.8–9.1% | 5.4–9.7% |
+| [15–22 November 2023](2023-11-22-Focus.html) | Focus <br> TV Markíza | 7.5% | 6.5–8.7% | 6.2–9.0% | 6.0–9.3% | 5.6–9.9% |
 | [7–14 November 2023](2023-11-14-AKO.html) | AKO | 6.9% | 6.0–8.0% | 5.7–8.4% | 5.5–8.7% | 5.1–9.2% |
 | [2–7 November 2023](2023-11-07-Ipsos.html) | Ipsos | 5.8% | 5.0–6.9% | 4.7–7.2% | 4.5–7.4% | 4.2–8.0% |
 | [25–26 September 2023](2023-09-26-Median.html) | Median | 7.7% | 6.7–8.9% | 6.4–9.2% | 6.2–9.5% | 5.7–10.1% |
@@ -178,13 +181,13 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 1.3% | 100% |  |
-| 4.5–5.5% | 16% | 98.7% |  |
-| 5.5–6.5% | 38% | 82% | Median |
-| 6.5–7.5% | 31% | 44% |  |
-| 7.5–8.5% | 11% | 13% |  |
-| 8.5–9.5% | 2% | 2% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0.1% | 100% |  |
+| 4.5–5.5% | 4% | 99.9% |  |
+| 5.5–6.5% | 23% | 96% |  |
+| 6.5–7.5% | 40% | 73% | Median |
+| 7.5–8.5% | 26% | 33% |  |
+| 8.5–9.5% | 6% | 7% |  |
+| 9.5–10.5% | 0.6% | 0.6% |  |
 | 10.5–11.5% | 0% | 0% |  |
 | 11.5–12.5% | 0% | 0% |  |
 | 12.5–13.5% | 0% | 0% | Last Result |
@@ -198,7 +201,10 @@ Last result: **2** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1–2 | 1–2 | 0–2 |
+| [11–13 December 2023](2023-12-13-Ipsos.html) | Ipsos | 1 | 1 | 1 | 1 | 0–2 |
+| [11–13 December 2023](2023-12-13-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1–2 | 1–2 | 1–2 |
+| [15–22 November 2023](2023-11-22-Focus.html) | Focus <br> TV Markíza | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [7–14 November 2023](2023-11-14-AKO.html) | AKO | 1 | 1 | 1 | 1 | 0–1 |
 | [2–7 November 2023](2023-11-07-Ipsos.html) | Ipsos | 1 | 1 | 1 | 1 | 0–2 |
 | [25–26 September 2023](2023-09-26-Median.html) | Median | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -367,9 +373,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 2% | 100% |  |
-| 1 | 97% | 98% | Median |
-| 2 | 1.1% | 1.1% | Last Result |
+| 0 | 0.7% | 100% |  |
+| 1 | 92% | 99.3% | Median |
+| 2 | 7% | 7% | Last Result |
 | 3 | 0% | 0% |  |
 
 
