@@ -11,7 +11,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 15.0% | 13.5–16.6% | 13.1–17.1% | 12.7–17.5% | 12.1–18.3% |
-| [11–13 December 2023](2023-12-13-Ipsos.html) | Ipsos | 15.6% | 14.3–17.2% | 13.9–17.6% | 13.6–18.0% | 12.9–18.7% |
+| [13–18 December 2023](2023-12-18-Ipsos.html) | Ipsos | 15.6% | 14.3–17.2% | 13.9–17.6% | 13.6–18.0% | 12.9–18.7% |
 | [11–13 December 2023](2023-12-13-AKO.html) | AKO <br> TV JOJ | 14.6% | 13.2–16.1% | 12.9–16.6% | 12.5–16.9% | 11.9–17.7% |
 | [15–22 November 2023](2023-11-22-Focus.html) | Focus <br> TV Markíza | 14.6% | 13.2–16.1% | 12.9–16.5% | 12.5–16.9% | 11.9–17.6% |
 | [7–14 November 2023](2023-11-14-AKO.html) | AKO | 15.4% | 14.0–16.9% | 13.6–17.4% | 13.3–17.8% | 12.7–18.5% |
@@ -212,7 +212,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [11–13 December 2023](2023-12-13-Ipsos.html) | Ipsos | 3 | 3 | 2–3 | 2–3 | 2–3 |
+| [13–18 December 2023](2023-12-18-Ipsos.html) | Ipsos | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [11–13 December 2023](2023-12-13-AKO.html) | AKO <br> TV JOJ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [15–22 November 2023](2023-11-22-Focus.html) | Focus <br> TV Markíza | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–14 November 2023](2023-11-14-AKO.html) | AKO | 3 | 3 | 3 | 2–3 | 2–3 |
