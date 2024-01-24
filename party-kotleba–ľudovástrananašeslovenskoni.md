@@ -10,7 +10,9 @@ Last result: **1.7%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.8% | 0.2–1.5% | 0.1–1.7% | 0.1–1.8% | 0.1–2.2% |
+| N/A | [Poll Average](average.html) | 0.6% | 0.3–1.1% | 0.2–1.2% | 0.2–1.4% | 0.1–1.7% |
+| [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
+| [10–14 January 2024](2024-01-14-NMS.html) | NMS <br> Denník SME | 0.5% | N/A | N/A | N/A | N/A |
 | [13–18 December 2023](2023-12-18-Ipsos.html) | Ipsos | 0.8% | 0.5–1.2% | 0.4–1.4% | 0.4–1.5% | 0.3–1.8% |
 | [11–13 December 2023](2023-12-13-AKO.html) | AKO <br> TV JOJ | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [15–22 November 2023](2023-11-22-Focus.html) | Focus <br> TV Markíza | 1.2% | 0.8–1.8% | 0.7–1.9% | 0.7–2.1% | 0.5–2.4% |
@@ -180,11 +182,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 35% | 100% |  |
-| 0.5–1.5% | 58% | 65% | Median |
-| 1.5–2.5% | 7% | 7% | Last Result |
-| 2.5–3.5% | 0.1% | 0.1% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 40% | 100% |  |
+| 0.5–1.5% | 59% | 60% | Median |
+| 1.5–2.5% | 0.9% | 0.9% | Last Result |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -196,6 +197,8 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
+| [10–14 January 2024](2024-01-14-NMS.html) | NMS <br> Denník SME |  |  |  |  |  |
 | [13–18 December 2023](2023-12-18-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
 | [11–13 December 2023](2023-12-13-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [15–22 November 2023](2023-11-22-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
