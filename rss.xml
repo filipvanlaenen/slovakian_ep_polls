@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sun, 04 Feb 2024 19:37:09 +0100</pubDate>
+    <pubDate>Sat, 10 Feb 2024 20:47:52 +0100</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Denník N, 22–25 January 2024 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2024-01-25-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 0 seats&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1 seats&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 4–5 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 2–3 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 3–5 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ID): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-01-25-Ipsos-seats.png"
+        length="410963"
+        type="image/png"/>
+      <pubDate>Sat, 10 Feb 2024 20:47:52 +0100</pubDate>
+      <dc:date>2024-02-10T20:47:52.316053+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Denník N, 22–25 January 2024 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2024-01-25-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-01-25-Ipsos-coalitions-seats.png"
+        length="243517"
+        type="image/png"/>
+      <pubDate>Sat, 10 Feb 2024 20:47:52 +0100</pubDate>
+      <dc:date>2024-02-10T20:47:52.316053+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Denník N, 22–25 January 2024 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2024-01-25-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 5.2–8.2%&lt;/li&gt;&lt;li&gt;SME RODINA (ID): 1.7–3.6%&lt;/li&gt;&lt;li&gt;SPOLU–Občianska Demokracia (EPP): 2.1–4.3%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 1.0–2.5%&lt;/li&gt;&lt;li&gt;REPUBLIKA (NI): 3.9–6.6%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.2–8.2%&lt;/li&gt;&lt;li&gt;Strana maďarskej koalície–Magyar Koalíció Pártja (EPP): 3.0–5.4%&lt;/li&gt;&lt;li&gt;OBYČAJNÍ ĽUDIA a nezávislé osobnosti–Kresťanská únia–Za ľudí (EPP): 4.1–6.8%&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 21.9–27.2%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (S&amp;amp;D): 13.3–17.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 18.3–23.2%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (ID): 3.2–5.7%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-01-25-Ipsos.png"
+        length="449111"
+        type="image/png"/>
+      <pubDate>Sat, 10 Feb 2024 20:47:52 +0100</pubDate>
+      <dc:date>2024-02-10T20:47:52.316053+01:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by NMS for TV JOJ, 11–16 January 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2024-01-16-NMS.html#seats</link>
@@ -3669,6 +3699,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57+02:00</dc:date>
     </item>
-    <dc:date>2024-02-04T19:37:09.313514+01:00</dc:date>
+    <dc:date>2024-02-10T20:47:52.316053+01:00</dc:date>
   </channel>
 </rss>
