@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.1% | 1.8–3.4% | 1.6–3.5% | 1.4–3.9% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.7–3.6% | 1.4–4.0% |
-| [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 2.4% | N/A | N/A | N/A | N/A |
+| [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 2.4% | 1.9–3.1% | 1.7–3.3% | 1.6–3.5% | 1.4–3.9% |
 | [10–14 January 2024](2024-01-14-NMS.html) | NMS <br> Denník SME | 3.3% | N/A | N/A | N/A | N/A |
 | [13–18 December 2023](2023-12-18-Ipsos.html) | Ipsos | 2.7% | 2.1–3.4% | 2.0–3.6% | 1.9–3.8% | 1.6–4.2% |
@@ -185,9 +185,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 1.4% | 100% |  |
-| 1.5–2.5% | 54% | 98.6% | Median |
-| 2.5–3.5% | 42% | 44% |  |
+| 0.5–1.5% | 2% | 100% |  |
+| 1.5–2.5% | 55% | 98% | Median |
+| 2.5–3.5% | 41% | 43% |  |
 | 3.5–4.5% | 2% | 2% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
@@ -202,7 +202,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
-| [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza |  |  |  |  |  |
+| [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
 | [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [10–14 January 2024](2024-01-14-NMS.html) | NMS <br> Denník SME |  |  |  |  |  |
 | [13–18 December 2023](2023-12-18-Ipsos.html) | Ipsos | 0 | 0 | 0 | 0 | 0 |
