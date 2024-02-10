@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.3% | 4.5–6.2% | 4.2–6.5% | 4.0–6.8% | 3.7–7.3% |
+| N/A | [Poll Average](average.html) | 5.3% | 4.4–6.2% | 4.2–6.5% | 4.0–6.8% | 3.7–7.3% |
+| [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.1% |
+| [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 4.8% | N/A | N/A | N/A | N/A |
 | [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.8–7.4% |
 | [10–14 January 2024](2024-01-14-NMS.html) | NMS <br> Denník SME | 6.5% | N/A | N/A | N/A | N/A |
 | [13–18 December 2023](2023-12-18-Ipsos.html) | Ipsos | 5.2% | 4.4–6.1% | 4.1–6.4% | 4.0–6.7% | 3.6–7.2% |
@@ -185,11 +187,11 @@ The following table shows the probability mass function per percentage block of 
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 0.2% | 100% |  |
-| 3.5–4.5% | 13% | 99.8% |  |
-| 4.5–5.5% | 50% | 87% | Median |
-| 5.5–6.5% | 32% | 37% |  |
-| 6.5–7.5% | 4% | 5% |  |
+| 2.5–3.5% | 0.3% | 100% |  |
+| 3.5–4.5% | 14% | 99.7% |  |
+| 4.5–5.5% | 50% | 86% | Median |
+| 5.5–6.5% | 31% | 35% |  |
+| 6.5–7.5% | 4% | 4% |  |
 | 7.5–8.5% | 0.2% | 0.2% |  |
 | 8.5–9.5% | 0% | 0% |  |
 
@@ -203,6 +205,8 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza |  |  |  |  |  |
 | [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–14 January 2024](2024-01-14-NMS.html) | NMS <br> Denník SME |  |  |  |  |  |
 | [13–18 December 2023](2023-12-18-Ipsos.html) | Ipsos | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -376,8 +380,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% | Last Result |
-| 1 | 64% | 64% | Median |
+| 0 | 32% | 100% | Last Result |
+| 1 | 68% | 68% | Median |
 | 2 | 0% | 0% |  |
 
 
