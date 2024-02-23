@@ -10,7 +10,9 @@ Last result: **1.7%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.4% | 0.3–2.1% | 0.3–2.3% | 0.2–2.5% | 0.1–2.9% |
+| N/A | [Poll Average](average.html) | 1.5% | 0.2–2.2% | 0.2–2.3% | 0.1–2.5% | 0.1–2.9% |
+| [14–18 February 2024](2024-02-18-NMS.html) | NMS <br> TV JOJ | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
+| [5–12 February 2024](2024-02-12-AKO.html) | AKO <br> TV JOJ | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.5% | 0.8–2.9% |
 | [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.1–2.7% | 0.9–3.0% |
 | [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
@@ -185,8 +187,8 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 23% | 100% |  |
-| 0.5–1.5% | 35% | 77% | Median |
-| 1.5–2.5% | 40% | 42% | Last Result |
+| 0.5–1.5% | 31% | 77% |  |
+| 1.5–2.5% | 44% | 46% | Last Result, Median |
 | 2.5–3.5% | 2% | 2% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
@@ -200,6 +202,8 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–18 February 2024](2024-02-18-NMS.html) | NMS <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
+| [5–12 February 2024](2024-02-12-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 0 | 0 | 0 | 0 | 0 |
 | [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
