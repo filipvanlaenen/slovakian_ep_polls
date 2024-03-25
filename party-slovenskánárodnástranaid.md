@@ -10,13 +10,8 @@ Last result: **3.6%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.2% | 4.0–6.3% | 3.7–6.7% | 3.5–6.9% | 3.1–7.5% |
-| [11–18 March 2024](2024-03-18-AKO.html) | AKO <br> TV JOJ | 5.1% | 4.3–6.1% | 4.1–6.4% | 3.9–6.6% | 3.6–7.2% |
-| [12–16 March 2024](2024-03-16-Ipsos.html) | Ipsos <br> Denník N | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.7–7.3% |
-| [16–21 February 2024](2024-02-21-Ipsos.html) | Ipsos <br> Denník N | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
-| [14–21 February 2024](2024-02-21-Focus.html) | Focus <br> TV Markíza | 5.8% | 4.9–6.8% | 4.7–7.1% | 4.5–7.4% | 4.1–7.9% |
-| [14–18 February 2024](2024-02-18-NMS.html) | NMS <br> TV JOJ | 4.2% | 3.5–5.1% | 3.3–5.4% | 3.1–5.6% | 2.8–6.1% |
-| [5–12 February 2024](2024-02-12-AKO.html) | AKO <br> TV JOJ | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.9% | 3.7–7.4% |
+| N/A | [Poll Average](average.html) | 4.8% | 4.2–5.6% | 4.0–5.8% | 3.8–6.0% | 3.5–6.4% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4.8% | 4.1–5.6% | 4.0–5.8% | 3.8–6.0% | 3.5–6.4% |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 4.3% | 3.6–5.2% | 3.4–5.5% | 3.2–5.7% | 2.9–6.2% |
 | [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 5.7% | 4.9–6.8% | 4.6–7.1% | 4.4–7.3% | 4.1–7.8% |
 | [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 5.4% | 4.6–6.4% | 4.4–6.7% | 4.2–7.0% | 3.9–7.5% |
@@ -191,13 +186,12 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 1.5–2.5% | 0% | 100% |  |
-| 2.5–3.5% | 3% | 100% |  |
-| 3.5–4.5% | 22% | 97% | Last Result |
-| 4.5–5.5% | 41% | 75% | Median |
-| 5.5–6.5% | 28% | 34% |  |
-| 6.5–7.5% | 6% | 6% |  |
-| 7.5–8.5% | 0.4% | 0.5% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 2.5–3.5% | 0.5% | 100% |  |
+| 3.5–4.5% | 30% | 99.5% | Last Result |
+| 4.5–5.5% | 59% | 69% | Median |
+| 5.5–6.5% | 11% | 11% |  |
+| 6.5–7.5% | 0.2% | 0.2% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -208,13 +202,8 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–18 March 2024](2024-03-18-AKO.html) | AKO <br> TV JOJ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [12–16 March 2024](2024-03-16-Ipsos.html) | Ipsos <br> Denník N | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [16–21 February 2024](2024-02-21-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0–1 | 0–1 | 0–1 |
-| [14–21 February 2024](2024-02-21-Focus.html) | Focus <br> TV Markíza | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [14–18 February 2024](2024-02-18-NMS.html) | NMS <br> TV JOJ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–12 February 2024](2024-02-12-AKO.html) | AKO <br> TV JOJ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 1 | 1 | 0–1 | 0–1 | 0–1 |
@@ -390,8 +379,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 31% | 100% | Last Result |
-| 1 | 69% | 69% | Median |
+| 0 | 73% | 100% | Last Result, Median |
+| 1 | 27% | 27% |  |
 | 2 | 0% | 0% |  |
 
 
