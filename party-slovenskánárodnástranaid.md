@@ -206,7 +206,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 1 | 1 | 0–1 | 0–1 | 0–1 |
+| [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [10–14 January 2024](2024-01-14-NMS.html) | NMS <br> Denník SME |  |  |  |  |  |
 | [13–18 December 2023](2023-12-18-Ipsos.html) | Ipsos | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–13 December 2023](2023-12-13-AKO.html) | AKO <br> TV JOJ | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
