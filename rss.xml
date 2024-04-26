@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 24 Apr 2024 20:43:44 +0200</pubDate>
+    <pubDate>Fri, 26 Apr 2024 11:50:50 +0200</pubDate>
     <item>
       <title>Opinion Poll by AKO for TV JOJ, 9–16 April 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2024-04-16-AKO.html#seats</link>
@@ -16,8 +16,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-04-16-AKO-seats.png"
         length="348328"
         type="image/png"/>
-      <pubDate>Wed, 24 Apr 2024 20:43:44 +0200</pubDate>
-      <dc:date>2024-04-24T20:43:44.299845+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2024 11:50:50 +0200</pubDate>
+      <dc:date>2024-04-26T11:50:50.040257+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO for TV JOJ, 9–16 April 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -26,8 +26,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-04-16-AKO-coalitions-seats.png"
         length="230208"
         type="image/png"/>
-      <pubDate>Wed, 24 Apr 2024 20:43:44 +0200</pubDate>
-      <dc:date>2024-04-24T20:43:44.299845+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2024 11:50:50 +0200</pubDate>
+      <dc:date>2024-04-26T11:50:50.040257+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO for TV JOJ, 9–16 April 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-04-16-AKO.png"
         length="419754"
         type="image/png"/>
-      <pubDate>Wed, 24 Apr 2024 20:43:44 +0200</pubDate>
-      <dc:date>2024-04-24T20:43:44.299845+02:00</dc:date>
+      <pubDate>Fri, 26 Apr 2024 11:50:50 +0200</pubDate>
+      <dc:date>2024-04-26T11:50:50.040257+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Euronews, 23 February–5 March 2024 – Seat Projections for the Parties</title>
@@ -3789,6 +3789,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57+02:00</dc:date>
     </item>
-    <dc:date>2024-04-24T20:43:44.299845+02:00</dc:date>
+    <dc:date>2024-04-26T11:50:50.040257+02:00</dc:date>
   </channel>
 </rss>
