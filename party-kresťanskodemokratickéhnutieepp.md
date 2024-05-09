@@ -211,7 +211,7 @@ Last result: **2** seats (General Election of 25 May 2019)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [18–24 April 2024](2024-04-24-NMS.html) | NMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1–2 | 1–2 |
+| [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1 | 1–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 1 | 1 | 1 | 1 | 0–2 |
 | [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 1 | 1 | 0–1 | 0–1 | 0–2 |
@@ -388,9 +388,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 36% | 100% |  |
-| 1 | 62% | 64% | Median |
-| 2 | 2% | 2% | Last Result |
+| 0 | 33% | 100% |  |
+| 1 | 66% | 67% | Median |
+| 2 | 0.7% | 0.7% | Last Result |
 | 3 | 0% | 0% |  |
 
 

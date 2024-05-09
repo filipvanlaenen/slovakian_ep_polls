@@ -1,4 +1,4 @@
-# Kresťanská únia (ECR)
+# ZDRAVÝ ROZUM (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
-| [18–24 April 2024](2024-04-24-NMS.html) | NMS | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
-| [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
+| N/A | [Poll Average](average.html) | 1.9% | 1.3–2.7% | 1.1–2.9% | 1.0–3.1% | 0.8–3.5% |
+| [18–24 April 2024](2024-04-24-NMS.html) | NMS | 2.2% | 1.7–2.9% | 1.6–3.1% | 1.4–3.3% | 1.2–3.7% |
+| [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 0.0% | N/A | N/A | N/A | N/A |
@@ -53,7 +53,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [21–28 June 2023](2023-06-28-Focus.html) | Focus <br> TV Markíza | 0.0% | N/A | N/A | N/A | N/A |
 | [15 May–20 June 2023](2023-06-20-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 June 2023](2023-06-16-IPSOS.html) | IPSOS <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
-| [6–9 June 2023](2023-06-09-AKO.html) | AKO <br> TV JOJ | 0.3% | N/A | N/A | N/A | N/A |
+| [6–9 June 2023](2023-06-09-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [2–8 June 2023](2023-06-08-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
 | [24–31 May 2023](2023-05-31-Focus.html) | Focus <br> TV Markíza | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -70,7 +70,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [1 February–5 March 2023](2023-03-05-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
-| [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 0.2% | N/A | N/A | N/A | N/A |
+| [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 0.0% | N/A | N/A | N/A | N/A |
 | [9 January–5 February 2023](2023-02-05-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [28 January–1 February 2023](2023-02-01-Polis.html) | Polis <br> SITA | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -183,14 +183,16 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Kresťanská únia (ECR).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for ZDRAVÝ ROZUM (*).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% | Last Result |
-| 0.5–1.5% | 87% | 89% | Median |
-| 1.5–2.5% | 3% | 3% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 27% | 100% |  |
+| 1.5–2.5% | 59% | 73% | Median |
+| 2.5–3.5% | 14% | 14% |  |
+| 3.5–4.5% | 0.4% | 0.4% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -374,9 +376,9 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-kresťanskáúniaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-zdravýrozum.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Kresťanská únia (ECR).
+The following table shows the probability mass function per seat for the [poll average](average.html) for ZDRAVÝ ROZUM (*).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|

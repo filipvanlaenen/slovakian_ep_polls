@@ -1,4 +1,4 @@
-# Kresťanská únia (ECR)
+# Slovensko–Za ľudí (EPP)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
@@ -10,9 +10,9 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
-| [18–24 April 2024](2024-04-24-NMS.html) | NMS | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
-| [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.9% |
+| N/A | [Poll Average](average.html) | 3.4% | 2.7–4.3% | 2.5–4.5% | 2.4–4.7% | 2.1–5.2% |
+| [18–24 April 2024](2024-04-24-NMS.html) | NMS | 3.6% | 2.9–4.4% | 2.7–4.7% | 2.6–4.9% | 2.3–5.3% |
+| [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.0% | N/A | N/A | N/A | N/A |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 0.0% | N/A | N/A | N/A | N/A |
@@ -53,7 +53,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [21–28 June 2023](2023-06-28-Focus.html) | Focus <br> TV Markíza | 0.0% | N/A | N/A | N/A | N/A |
 | [15 May–20 June 2023](2023-06-20-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 June 2023](2023-06-16-IPSOS.html) | IPSOS <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
-| [6–9 June 2023](2023-06-09-AKO.html) | AKO <br> TV JOJ | 0.3% | N/A | N/A | N/A | N/A |
+| [6–9 June 2023](2023-06-09-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [2–8 June 2023](2023-06-08-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
 | [24–31 May 2023](2023-05-31-Focus.html) | Focus <br> TV Markíza | 0.0% | N/A | N/A | N/A | N/A |
 | [16–19 May 2023](2023-05-19-IPSOS.html) | IPSOS <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -70,7 +70,7 @@ Last result: **0.0%** (General Election of 25 May 2019)
 | [12 March 2023](2023-03-12-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [1 February–5 March 2023](2023-03-05-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [7–13 February 2023](2023-02-13-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
-| [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 0.2% | N/A | N/A | N/A | N/A |
+| [1–8 February 2023](2023-02-08-Focus.html) | Focus <br> TV Markíza | 0.0% | N/A | N/A | N/A | N/A |
 | [9 January–5 February 2023](2023-02-05-Median.html) | Median | 0.0% | N/A | N/A | N/A | N/A |
 | [28 January–1 February 2023](2023-02-01-Polis.html) | Polis <br> SITA | 0.0% | N/A | N/A | N/A | N/A |
 | [18–20 January 2023](2023-01-20-IPSOS.html) | IPSOS <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -183,14 +183,18 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Kresťanská únia (ECR).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Slovensko–Za ľudí (EPP).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% | Last Result |
-| 0.5–1.5% | 87% | 89% | Median |
-| 1.5–2.5% | 3% | 3% |  |
-| 2.5–3.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 0% | 100% |  |
+| 1.5–2.5% | 5% | 100% |  |
+| 2.5–3.5% | 52% | 95% | Median |
+| 3.5–4.5% | 38% | 43% |  |
+| 4.5–5.5% | 4% | 4% |  |
+| 5.5–6.5% | 0.1% | 0.1% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -201,8 +205,8 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [18–24 April 2024](2024-04-24-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [18–24 April 2024](2024-04-24-NMS.html) | NMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews |  |  |  |  |  |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
@@ -374,12 +378,14 @@ Last result: **0** seats (General Election of 25 May 2019)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-kresťanskáúniaecr.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-slovensko–zaľudíepp.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Kresťanská únia (ECR).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Slovensko–Za ľudí (EPP).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 100% | 100% | Last Result, Median |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 9% | 9% |  |
+| 2 | 0% | 0% |  |
 
 
