@@ -10,9 +10,10 @@ Last result: **0.0%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.1% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
-| [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
-| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4.9% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.6–6.6% |
+| N/A | [Poll Average](average.html) | 4.2% | 3.4–5.1% | 3.2–5.4% | 3.1–5.6% | 2.8–6.1% |
+| [18–24 April 2024](2024-04-24-NMS.html) | NMS | 0.0% | 3.6–5.3% | 3.4–5.6% | 3.3–5.8% | 2.9–6.3% |
+| [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 0.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
+| [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0.0% | 4.3–5.7% | 4.1–5.9% | 3.9–6.1% | 3.6–6.6% |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 5.3% | 4.5–6.3% | 4.3–6.6% | 4.1–6.8% | 3.7–7.3% |
 | [16–23 January 2024](2024-01-23-Focus.html) | Focus <br> TV Markíza | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
 | [11–16 January 2024](2024-01-16-NMS.html) | NMS <br> TV JOJ | 7.0% | 6.1–8.1% | 5.8–8.4% | 5.6–8.7% | 5.2–9.2% |
@@ -188,12 +189,13 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.2% | 100% |  |
-| 2.5–3.5% | 19% | 99.8% |  |
-| 3.5–4.5% | 58% | 80% | Median |
-| 4.5–5.5% | 21% | 22% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 13% | 99.9% |  |
+| 3.5–4.5% | 55% | 86% | Median |
+| 4.5–5.5% | 28% | 32% |  |
+| 5.5–6.5% | 3% | 3% |  |
+| 6.5–7.5% | 0.1% | 0.1% |  |
+| 7.5–8.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -205,6 +207,7 @@ Last result: **0** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [18–24 April 2024](2024-04-24-NMS.html) | NMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [22–25 January 2024](2024-01-25-Ipsos.html) | Ipsos <br> Denník N | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -382,8 +385,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Last Result, Median |
-| 1 | 7% | 7% |  |
+| 0 | 91% | 100% | Last Result, Median |
+| 1 | 9% | 9% |  |
 | 2 | 0% | 0% |  |
 
 
