@@ -10,7 +10,9 @@ Last result: **6.7%** (General Election of 25 May 2019)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 6.8% | 5.8–7.9% | 5.5–8.3% | 5.3–8.6% | 4.9–9.2% |
+| N/A | [Poll Average](average.html) | 7.1% | 6.0–8.3% | 5.7–8.6% | 5.5–8.9% | 5.1–9.5% |
+| [7–14 May 2024](2024-05-14-AKO.html) | AKO <br> TV JOJ | 6.7% | 5.8–7.8% | 5.5–8.2% | 5.3–8.4% | 4.9–9.0% |
+| [9–13 May 2024](2024-05-13-NMS.html) | NMS | 7.4% | 6.4–8.5% | 6.1–8.8% | 5.9–9.1% | 5.5–9.7% |
 | [18–24 April 2024](2024-04-24-NMS.html) | NMS | 7.0% | 6.1–8.2% | 5.8–8.5% | 5.6–8.8% | 5.2–9.4% |
 | [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.8% |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 4.6% | 4.0–5.4% | 3.8–5.6% | 3.6–5.8% | 3.4–6.2% |
@@ -187,14 +189,13 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 5% | 99.9% |  |
-| 5.5–6.5% | 32% | 95% |  |
-| 6.5–7.5% | 43% | 63% | Last Result, Median |
-| 7.5–8.5% | 17% | 20% |  |
-| 8.5–9.5% | 2% | 3% |  |
-| 9.5–10.5% | 0.1% | 0.1% |  |
+| 3.5–4.5% | 0% | 100% |  |
+| 4.5–5.5% | 3% | 100% |  |
+| 5.5–6.5% | 24% | 97% |  |
+| 6.5–7.5% | 43% | 73% | Last Result, Median |
+| 7.5–8.5% | 25% | 30% |  |
+| 8.5–9.5% | 5% | 5% |  |
+| 9.5–10.5% | 0.4% | 0.4% |  |
 | 10.5–11.5% | 0% | 0% |  |
 
 
@@ -207,6 +208,8 @@ Last result: **1** seats (General Election of 25 May 2019)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [7–14 May 2024](2024-05-14-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1–2 | 1–2 |
+| [9–13 May 2024](2024-05-13-NMS.html) | NMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–24 April 2024](2024-04-24-NMS.html) | NMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [9–16 April 2024](2024-04-16-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1–2 | 0–2 |
 | [23 February–5 March 2024](2024-03-05-Ipsos.html) | Ipsos <br> Euronews | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -385,9 +388,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 0.4% | 100% |  |
-| 1 | 89% | 99.6% | Last Result, Median |
-| 2 | 10% | 10% |  |
+| 0 | 0.2% | 100% |  |
+| 1 | 74% | 99.8% | Last Result, Median |
+| 2 | 26% | 26% |  |
 | 3 | 0% | 0% |  |
 
 
