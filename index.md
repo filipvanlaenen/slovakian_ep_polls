@@ -1,6 +1,6 @@
 # Overview
 
-The table below lists the most recent polls (less than 30 days old) registered and analyzed so far.
+The table below lists the most recent polls (less than 14 days old) registered and analyzed so far.
 
 | Period     | Polling firm/Commissioner(s) | Smer–SD | KDH | SK | NOVA | SaS | SMK–MKP | MOST–HÍD | SNS | Kotleba–ĽSNS | PS | SME RODINA | SPOLU | PS–SPOLU | ZĽ | DV | V | HLAS–SD | REP | MODRÍ | MODRÍ–MOST–HÍD | SK–KÚ–ZĽ | KÚ | HLAS–SD–DV | MF | SK–ZĽ | ZR |
 |:----------:|:----------------------------:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
