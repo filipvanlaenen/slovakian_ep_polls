@@ -8,7 +8,7 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 22 Jun 2024 20:32:09 +0200</pubDate>
+    <pubDate>Sat, 22 Jun 2024 22:55:35 +0200</pubDate>
     <item>
       <title>Opinion Poll by Ipsos for Denník N, 30 May–4 June 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2024-06-04-Ipsos.html#seats</link>
@@ -76,8 +76,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-05-27-Median-seats.png"
         length="304968"
         type="image/png"/>
-      <pubDate>Sat, 22 Jun 2024 20:32:09 +0200</pubDate>
-      <dc:date>2024-06-22T20:32:09.663386+02:00</dc:date>
+      <pubDate>Sat, 22 Jun 2024 22:55:35 +0200</pubDate>
+      <dc:date>2024-06-22T22:55:35.724003+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 21–27 May 2024 – Seat Projections for a Selection of Coalitions</title>
@@ -86,8 +86,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-05-27-Median-coalitions-seats.png"
         length="217054"
         type="image/png"/>
-      <pubDate>Sat, 22 Jun 2024 20:32:09 +0200</pubDate>
-      <dc:date>2024-06-22T20:32:09.663386+02:00</dc:date>
+      <pubDate>Sat, 22 Jun 2024 22:55:35 +0200</pubDate>
+      <dc:date>2024-06-22T22:55:35.724003+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Median, 21–27 May 2024 – Voting Intentions</title>
@@ -96,8 +96,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-05-27-Median.png"
         length="430598"
         type="image/png"/>
-      <pubDate>Sat, 22 Jun 2024 20:32:09 +0200</pubDate>
-      <dc:date>2024-06-22T20:32:09.663386+02:00</dc:date>
+      <pubDate>Sat, 22 Jun 2024 22:55:35 +0200</pubDate>
+      <dc:date>2024-06-22T22:55:35.724003+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO for TV JOJ, 7–14 May 2024 – Seat Projections for the Parties</title>
@@ -3969,6 +3969,6 @@
       <pubDate>Fri, 29 May 2020 19:09:57 +0200</pubDate>
       <dc:date>2020-05-29T19:09:57+02:00</dc:date>
     </item>
-    <dc:date>2024-06-22T20:32:09.663386+02:00</dc:date>
+    <dc:date>2024-06-22T22:55:35.724003+02:00</dc:date>
   </channel>
 </rss>
