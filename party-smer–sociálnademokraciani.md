@@ -10,8 +10,11 @@ Last result: **24.1%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.9% | 21.7–26.0% | 21.2–26.6% | 20.7–27.2% | 19.8–28.1% |
+| N/A | [Poll Average](average.html) | 24.3% | 21.8–26.7% | 21.2–27.3% | 20.7–27.8% | 19.8–28.8% |
+| [8–12 August 2024](2024-08-12-NMS.html) | NMS | 22.4% | 20.8–24.1% | 20.3–24.6% | 19.9–25.1% | 19.2–25.9% |
+| [6–12 August 2024](2024-08-12-AKO.html) | AKO <br> TV JOJ | 23.6% | 21.9–25.4% | 21.5–25.9% | 21.1–26.3% | 20.3–27.2% |
 | [9–15 July 2024](2024-07-15-AKO.html) | AKO <br> TV JOJ | 23.5% | 21.8–25.3% | 21.4–25.8% | 21.0–26.2% | 20.2–27.1% |
+| [9–14 July 2024](2024-07-14-Focus.html) | Focus | 25.7% | 24.0–27.5% | 23.5–28.0% | 23.1–28.5% | 22.3–29.3% |
 | [4–8 July 2024](2024-07-08-NMS.html) | NMS | 22.5% | 20.8–24.2% | 20.4–24.7% | 20.0–25.1% | 19.2–26.0% |
 | [26 June–1 July 2024](2024-07-01-Ipsos.html) | Ipsos <br> Denník N | 25.2% | 23.5–27.0% | 23.0–27.5% | 22.6–27.9% | 21.8–28.8% |
 | [11–18 June 2024](2024-06-18-AKO.html) | AKO <br> TV JOJ | 23.8% | N/A | N/A | N/A | N/A |
@@ -27,15 +30,16 @@ The following table shows the probability mass function per percentage block of 
 | 18.5–19.5% | 0.3% | 100% |  |
 | 19.5–20.5% | 2% | 99.7% |  |
 | 20.5–21.5% | 6% | 98% |  |
-| 21.5–22.5% | 14% | 92% |  |
-| 22.5–23.5% | 21% | 78% |  |
-| 23.5–24.5% | 23% | 57% | Last Result, Median |
-| 24.5–25.5% | 18% | 34% |  |
-| 25.5–26.5% | 11% | 16% |  |
-| 26.5–27.5% | 4% | 6% |  |
-| 27.5–28.5% | 1.1% | 1.4% |  |
-| 28.5–29.5% | 0.2% | 0.2% |  |
-| 29.5–30.5% | 0% | 0% |  |
+| 21.5–22.5% | 12% | 92% |  |
+| 22.5–23.5% | 16% | 80% |  |
+| 23.5–24.5% | 19% | 64% | Last Result, Median |
+| 24.5–25.5% | 19% | 45% |  |
+| 25.5–26.5% | 15% | 26% |  |
+| 26.5–27.5% | 8% | 11% |  |
+| 27.5–28.5% | 3% | 3% |  |
+| 28.5–29.5% | 0.6% | 0.7% |  |
+| 29.5–30.5% | 0.1% | 0.1% |  |
+| 30.5–31.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -47,7 +51,10 @@ Last result: **4** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [8–12 August 2024](2024-08-12-NMS.html) | NMS | 4 | 4 | 4 | 4–5 | 4–5 |
+| [6–12 August 2024](2024-08-12-AKO.html) | AKO <br> TV JOJ | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [9–15 July 2024](2024-07-15-AKO.html) | AKO <br> TV JOJ | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [9–14 July 2024](2024-07-14-Focus.html) | Focus | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–8 July 2024](2024-07-08-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [26 June–1 July 2024](2024-07-01-Ipsos.html) | Ipsos <br> Denník N | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [11–18 June 2024](2024-06-18-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
@@ -61,8 +68,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 39% | 100% | Last Result |
-| 5 | 61% | 61% | Median |
+| 4 | 43% | 100% | Last Result |
+| 5 | 57% | 57% | Median |
 | 6 | 0.3% | 0.3% |  |
 | 7 | 0% | 0% |  |
 
