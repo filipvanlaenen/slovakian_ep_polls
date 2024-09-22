@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.4% | 2.5–4.7% | 2.3–5.1% | 2.1–5.4% | 1.8–6.0% |
+| N/A | [Poll Average](average.html) | 3.5% | 2.6–4.5% | 2.3–4.7% | 2.1–5.0% | 1.8–5.5% |
+| [6–10 September 2024](2024-09-10-Ipsos.html) | Ipsos <br> Denník N | 3.7% | 3.0–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
+| [5–9 September 2024](2024-09-09-NMS.html) | NMS | 3.9% | 3.2–4.8% | 3.0–5.1% | 2.9–5.3% | 2.6–5.8% |
 | [8–12 August 2024](2024-08-12-NMS.html) | NMS | 4.4% | 3.7–5.4% | 3.5–5.7% | 3.3–5.9% | 3.0–6.4% |
 | [6–12 August 2024](2024-08-12-AKO.html) | AKO <br> TV JOJ | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [9–15 July 2024](2024-07-15-AKO.html) | AKO <br> TV JOJ | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
@@ -28,13 +30,12 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 0.1% | 100% |  |
-| 1.5–2.5% | 12% | 99.9% |  |
-| 2.5–3.5% | 45% | 88% | Median |
-| 3.5–4.5% | 30% | 43% |  |
-| 4.5–5.5% | 11% | 13% |  |
-| 5.5–6.5% | 2% | 2% |  |
-| 6.5–7.5% | 0.1% | 0.1% |  |
-| 7.5–8.5% | 0% | 0% |  |
+| 1.5–2.5% | 10% | 99.9% |  |
+| 2.5–3.5% | 43% | 90% | Median |
+| 3.5–4.5% | 39% | 47% |  |
+| 4.5–5.5% | 8% | 8% |  |
+| 5.5–6.5% | 0.4% | 0.4% |  |
+| 6.5–7.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -46,6 +47,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
+| [6–10 September 2024](2024-09-10-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [5–9 September 2024](2024-09-09-NMS.html) | NMS | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [8–12 August 2024](2024-08-12-NMS.html) | NMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [6–12 August 2024](2024-08-12-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [9–15 July 2024](2024-07-15-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
