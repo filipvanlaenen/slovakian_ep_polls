@@ -66,8 +66,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 3–5 | 3–5 |
-| [8–12 August 2024](2024-08-12-NMS.html) | NMS | 4 | 4 | 4 | 4–5 | 4–5 |
-| [6–12 August 2024](2024-08-12-AKO.html) | AKO <br> TV JOJ | 4 | 4 | 4–5 | 3–5 | 3–5 |
+| [8–12 August 2024](2024-08-12-NMS.html) | NMS | 4 | 4 | 4–5 | 4–5 | 4–5 |
+| [6–12 August 2024](2024-08-12-AKO.html) | AKO <br> TV JOJ | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [9–15 July 2024](2024-07-15-AKO.html) | AKO <br> TV JOJ | 4 | 3–4 | 3–4 | 3–5 | 3–5 |
 | [9–14 July 2024](2024-07-14-Focus.html) | Focus | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [4–8 July 2024](2024-07-08-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -87,8 +87,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 89% | 97% | Median |
-| 5 | 8% | 8% |  |
+| 4 | 87% | 97% | Median |
+| 5 | 10% | 10% |  |
 | 6 | 0% | 0% |  |
 
 
