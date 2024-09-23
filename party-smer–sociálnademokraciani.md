@@ -51,13 +51,13 @@ Last result: **4** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [6–10 September 2024](2024-09-10-Ipsos.html) | Ipsos <br> Denník N | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
-| [5–9 September 2024](2024-09-09-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [5–9 September 2024](2024-09-09-NMS.html) | NMS | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
 | [8–12 August 2024](2024-08-12-NMS.html) | NMS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [6–12 August 2024](2024-08-12-AKO.html) | AKO <br> TV JOJ | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [9–15 July 2024](2024-07-15-AKO.html) | AKO <br> TV JOJ | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [9–14 July 2024](2024-07-14-Focus.html) | Focus | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [9–14 July 2024](2024-07-14-Focus.html) | Focus | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [4–8 July 2024](2024-07-08-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [26 June–1 July 2024](2024-07-01-Ipsos.html) | Ipsos <br> Denník N | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [11–18 June 2024](2024-06-18-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
@@ -71,9 +71,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 4 | 28% | 100% | Last Result |
-| 5 | 70% | 72% | Median |
-| 6 | 1.5% | 1.5% |  |
+| 4 | 27% | 100% | Last Result |
+| 5 | 70% | 73% | Median |
+| 6 | 3% | 3% |  |
 | 7 | 0% | 0% |  |
 
 

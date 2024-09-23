@@ -52,7 +52,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [8–12 August 2024](2024-08-12-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [6–12 August 2024](2024-08-12-AKO.html) | AKO <br> TV JOJ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [9–15 July 2024](2024-07-15-AKO.html) | AKO <br> TV JOJ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [9–14 July 2024](2024-07-14-Focus.html) | Focus | 0 | 0 | 0 | 0 | 0–1 |
+| [9–14 July 2024](2024-07-14-Focus.html) | Focus | 0 | 0 | 0 | 0 | 0 |
 | [4–8 July 2024](2024-07-08-NMS.html) | NMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [26 June–1 July 2024](2024-07-01-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [11–18 June 2024](2024-06-18-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
