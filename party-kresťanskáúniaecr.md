@@ -10,8 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.6% | 0.6–1.7% | 0.5–1.9% | 0.4–2.2% |
-| [2–7 October 2024](2024-10-07-NMS.html) | NMS | 0.2% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 0.9% | 0.2–1.5% | 0.2–1.7% | 0.1–1.8% | 0.1–2.1% |
+| [2–7 October 2024](2024-10-07-NMS.html) | NMS | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [17–26 September 2024](2024-09-26-Focus.html) | Focus | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [10–16 September 2024](2024-09-16-AKO.html) | AKO <br> TV JOJ | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [6–10 September 2024](2024-09-10-Ipsos.html) | Ipsos <br> Denník N | 1.2% | 0.8–1.7% | 0.7–1.9% | 0.7–2.0% | 0.5–2.3% |
@@ -31,10 +31,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 3% | 100% | Last Result |
-| 0.5–1.5% | 86% | 97% | Median |
-| 1.5–2.5% | 11% | 11% |  |
-| 2.5–3.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 25% | 100% | Last Result |
+| 0.5–1.5% | 67% | 75% | Median |
+| 1.5–2.5% | 8% | 8% |  |
+| 2.5–3.5% | 0% | 0% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -47,7 +47,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
-| [2–7 October 2024](2024-10-07-NMS.html) | NMS |  |  |  |  |  |
+| [2–7 October 2024](2024-10-07-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [17–26 September 2024](2024-09-26-Focus.html) | Focus | 0 | 0 | 0 | 0 | 0 |
 | [10–16 September 2024](2024-09-16-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [6–10 September 2024](2024-09-10-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
