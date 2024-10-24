@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Mon, 21 Oct 2024 20:22:32 +0200</pubDate>
+    <pubDate>Wed, 23 Oct 2024 20:58:57 +0200</pubDate>
     <item>
       <title>Opinion Poll by NMS, 2–7 October 2024 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2024-10-07-NMS.html#seats</link>
-      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Slovensko–Za ľudí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 2 seats&lt;/li&gt;&lt;li&gt;Kresťanská únia (ECR): 0 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 4–5 seats&lt;/li&gt;&lt;li&gt;Slovensko–Za ľudí (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 2 seats&lt;/li&gt;&lt;li&gt;Kresťanská únia (ECR): 0 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 0–1 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-10-07-NMS-seats.png"
-        length="297435"
+        length="310139"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2024 20:22:32 +0200</pubDate>
-      <dc:date>2024-10-21T20:22:32.427609+02:00</dc:date>
+      <pubDate>Wed, 23 Oct 2024 20:58:57 +0200</pubDate>
+      <dc:date>2024-10-23T20:58:57.811358+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NMS, 2–7 October 2024 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2024-10-07-NMS.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-10-07-NMS-coalitions-seats.png"
-        length="225690"
+        length="245525"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2024 20:22:32 +0200</pubDate>
-      <dc:date>2024-10-21T20:22:32.427609+02:00</dc:date>
+      <pubDate>Wed, 23 Oct 2024 20:58:57 +0200</pubDate>
+      <dc:date>2024-10-23T20:58:57.811358+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by NMS, 2–7 October 2024 – Voting Intentions</title>
@@ -36,8 +36,8 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2024-10-07-NMS.png"
         length="417413"
         type="image/png"/>
-      <pubDate>Mon, 21 Oct 2024 20:22:32 +0200</pubDate>
-      <dc:date>2024-10-21T20:22:32.427609+02:00</dc:date>
+      <pubDate>Wed, 23 Oct 2024 20:58:57 +0200</pubDate>
+      <dc:date>2024-10-23T20:58:57.811358+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Focus, 17–26 September 2024 – Seat Projections for the Parties</title>
@@ -369,6 +369,6 @@
       <pubDate>Mon, 05 Aug 2024 22:49:54 +0200</pubDate>
       <dc:date>2024-08-05T22:49:54.364602+02:00</dc:date>
     </item>
-    <dc:date>2024-10-21T20:22:32.427609+02:00</dc:date>
+    <dc:date>2024-10-23T20:58:57.811358+02:00</dc:date>
   </channel>
 </rss>
