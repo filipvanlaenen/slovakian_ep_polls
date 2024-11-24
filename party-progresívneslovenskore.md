@@ -76,9 +76,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
-| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
-| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 5 | 5 | 4–5 | 4–5 | 4–6 |
 | [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–17 October 2024](2024-10-17-AKO.html) | AKO <br> TV JOJ | 4 | 4 | 4 | 3–5 | 3–5 |
 | [2–7 October 2024](2024-10-07-NMS.html) | NMS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -106,10 +106,10 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 1.4% | 100% |  |
-| 4 | 56% | 98.6% | Median |
-| 5 | 42% | 42% |  |
-| 6 | 0.6% | 0.6% |  |
+| 3 | 1.0% | 100% |  |
+| 4 | 60% | 99.0% | Median |
+| 5 | 39% | 39% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
