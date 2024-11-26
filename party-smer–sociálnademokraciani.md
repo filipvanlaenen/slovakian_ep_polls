@@ -58,7 +58,7 @@ Last result: **4** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 3–5 | 3–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
 | [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [7–11 November 2024](2024-11-11-NMS.html) | NMS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
 | [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
@@ -86,8 +86,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 3 | 5% | 100% |  |
-| 4 | 86% | 95% | Last Result, Median |
-| 5 | 9% | 9% |  |
+| 4 | 85% | 95% | Last Result, Median |
+| 5 | 10% | 10% |  |
 | 6 | 0% | 0% |  |
 
 
