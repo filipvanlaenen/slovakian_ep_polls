@@ -14,9 +14,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 22.8% | 21.2–24.6% | 20.7–25.1% | 20.3–25.5% | 19.5–26.4% |
 | [4–9 December 2024](2024-12-09-NMS.html) | NMS | 24.8% | 23.1–26.6% | 22.6–27.1% | 22.2–27.6% | 21.4–28.5% |
 | [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 21.5% | 19.9–23.2% | 19.5–23.7% | 19.1–24.2% | 18.4–25.0% |
-| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 21.2% | N/A | N/A | N/A | N/A |
+| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 21.2% | 19.6–22.9% | 19.2–23.4% | 18.8–23.9% | 18.0–24.7% |
 | [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 22.6% | 21.0–24.3% | 20.5–24.8% | 20.1–25.3% | 19.4–26.1% |
-| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 25.1% | 23.6–27.1% | 23.1–27.6% | 22.7–28.1% | 21.9–29.0% |
+| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 25.1% | 23.4–26.9% | 22.9–27.4% | 22.5–27.9% | 21.7–28.8% |
 | [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 22.6% | 21.0–24.4% | 20.5–24.9% | 20.1–25.3% | 19.4–26.2% |
 | [8–17 October 2024](2024-10-17-AKO.html) | AKO <br> TV JOJ | 21.3% | 19.7–23.0% | 19.3–23.5% | 18.9–24.0% | 18.1–24.8% |
 | [2–7 October 2024](2024-10-07-NMS.html) | NMS | 24.3% | 22.6–26.1% | 22.1–26.6% | 21.7–27.1% | 21.0–27.9% |
@@ -84,10 +84,10 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [4–9 December 2024](2024-12-09-NMS.html) | NMS | 5 | 5 | 5 | 5 | 4–5 |
 | [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 4 | 4 | 4 | 3–4 | 3–5 |
-| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
-| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
-| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 5 | 5 | 4–5 | 4–5 | 4–6 |
-| [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 4 | 4 | 4 | 3–4 | 3–5 |
+| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 4 | 4–5 | 4–5 | 4–5 | 4–6 |
+| [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–17 October 2024](2024-10-17-AKO.html) | AKO <br> TV JOJ | 4 | 4 | 4 | 4 | 3–5 |
 | [2–7 October 2024](2024-10-07-NMS.html) | NMS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [17–26 September 2024](2024-09-26-Focus.html) | Focus | 4 | 4 | 4 | 4–5 | 3–5 |
@@ -115,8 +115,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 1.0% | 100% |  |
-| 4 | 59% | 99.0% | Median |
-| 5 | 39% | 40% |  |
+| 4 | 52% | 99.0% | Median |
+| 5 | 46% | 47% |  |
 | 6 | 0.1% | 0.1% |  |
 | 7 | 0% | 0% |  |
 

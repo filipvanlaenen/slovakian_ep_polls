@@ -14,9 +14,9 @@ Last result: **3.6%** (General Election of 8 June 2024)
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 4.6% | 3.9–5.6% | 3.6–5.8% | 3.5–6.1% | 3.1–6.6% |
 | [4–9 December 2024](2024-12-09-NMS.html) | NMS | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 3.7% | 3.1–4.6% | 2.9–4.8% | 2.7–5.1% | 2.4–5.5% |
-| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 4.7% | N/A | N/A | N/A | N/A |
+| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 4.7% | 3.9–5.7% | 3.7–6.0% | 3.6–6.2% | 3.2–6.7% |
 | [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 3.6% | 3.0–4.5% | 2.8–4.8% | 2.7–5.0% | 2.4–5.4% |
-| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 3.3% | 2.7–4.2% | 2.5–4.4% | 2.4–4.6% | 2.1–5.1% |
+| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 3.3% | 2.7–4.1% | 2.5–4.4% | 2.4–4.6% | 2.1–5.0% |
 | [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 2.4% | 1.9–3.1% | 1.7–3.4% | 1.6–3.5% | 1.4–3.9% |
 | [8–17 October 2024](2024-10-17-AKO.html) | AKO <br> TV JOJ | 4.8% | 4.0–5.8% | 3.8–6.1% | 3.6–6.3% | 3.3–6.8% |
 | [2–7 October 2024](2024-10-07-NMS.html) | NMS | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
@@ -62,8 +62,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [4–9 December 2024](2024-12-09-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 0 | 0 | 0 | 0 | 0–1 |
-| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
-| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 0 | 0 | 0 | 0–1 | 0–1 |
+| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 0 | 0 | 0 | 0 | 0–1 |
 | [7–11 November 2024](2024-11-11-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [8–17 October 2024](2024-10-17-AKO.html) | AKO <br> TV JOJ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
