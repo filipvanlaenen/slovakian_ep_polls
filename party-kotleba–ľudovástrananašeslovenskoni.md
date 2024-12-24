@@ -10,7 +10,11 @@ Last result: **1.7%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.0% | 0.5–1.6% | 0.4–1.7% | 0.4–1.9% | 0.3–2.2% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.3–1.8% | 0.2–2.0% | 0.2–2.1% | 0.1–2.5% |
+| [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
+| [4–9 December 2024](2024-12-09-NMS.html) | NMS | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 0.0% | N/A | N/A | N/A | N/A |
+| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 0.4% | N/A | N/A | N/A | N/A |
 | [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 0.0% | N/A | N/A | N/A | N/A |
 | [7–11 November 2024](2024-11-11-NMS.html) | NMS | 1.0% | 0.7–1.6% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
@@ -35,10 +39,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 11% | 100% |  |
-| 0.5–1.5% | 78% | 89% | Median |
-| 1.5–2.5% | 11% | 11% | Last Result |
-| 2.5–3.5% | 0.1% | 0.1% |  |
+| 0.0–0.5% | 27% | 100% |  |
+| 0.5–1.5% | 52% | 73% | Median |
+| 1.5–2.5% | 21% | 21% | Last Result |
+| 2.5–3.5% | 0.4% | 0.4% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -51,6 +55,10 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
+| [4–9 December 2024](2024-12-09-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
+| [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka |  |  |  |  |  |
+| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka |  |  |  |  |  |
 | [7–11 November 2024](2024-11-11-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
