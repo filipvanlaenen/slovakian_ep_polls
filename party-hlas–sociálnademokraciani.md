@@ -70,12 +70,12 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [4–9 December 2024](2024-12-09-NMS.html) | NMS | 2 | 2 | 2 | 2 | 2 |
+| [4–9 December 2024](2024-12-09-NMS.html) | NMS | 2 | 2 | 2 | 2–3 | 2–3 |
 | [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
-| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 3 | 3 | 2–3 | 2–3 | 2–3 |
-| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [7–11 November 2024](2024-11-11-NMS.html) | NMS | 2 | 2 | 2 | 2 | 1–3 |
-| [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 3 | 2–3 | 2–3 | 2–3 | 2–3 |
 | [8–17 October 2024](2024-10-17-AKO.html) | AKO <br> TV JOJ | 3 | 2–3 | 2–4 | 2–4 | 2–4 |
 | [2–7 October 2024](2024-10-07-NMS.html) | NMS | 2 | 2 | 2 | 2 | 2–3 |
 | [17–26 September 2024](2024-09-26-Focus.html) | Focus | 2 | 2 | 2 | 2–3 | 2–3 |
@@ -101,8 +101,8 @@ The following table shows the probability mass function per seat for the [poll a
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
-| 2 | 63% | 100% | Median |
-| 3 | 37% | 37% |  |
+| 2 | 57% | 100% | Median |
+| 3 | 43% | 43% |  |
 | 4 | 0% | 0% |  |
 
 

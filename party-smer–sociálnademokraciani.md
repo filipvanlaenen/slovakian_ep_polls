@@ -63,12 +63,12 @@ Last result: **4** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 3–5 | 3–5 | 3–5 |
-| [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [4–9 December 2024](2024-12-09-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 4 | 4 | 3–4 | 3–4 | 3–5 |
-| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 4 | 4 | 4 | 4–5 | 3–5 |
-| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
+| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
+| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–17 October 2024](2024-10-17-AKO.html) | AKO <br> TV JOJ | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [2–7 October 2024](2024-10-07-NMS.html) | NMS | 4 | 4 | 3–4 | 3–4 | 3–4 |
@@ -93,9 +93,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 3 | 5% | 100% |  |
-| 4 | 72% | 95% | Last Result, Median |
-| 5 | 23% | 23% |  |
+| 3 | 7% | 100% |  |
+| 4 | 77% | 93% | Last Result, Median |
+| 5 | 16% | 16% |  |
 | 6 | 0% | 0% |  |
 
 
