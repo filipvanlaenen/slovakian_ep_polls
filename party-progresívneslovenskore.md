@@ -83,7 +83,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–5 |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [4–9 December 2024](2024-12-09-NMS.html) | NMS | 5 | 5 | 5 | 5 | 4–5 |
 | [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
@@ -118,9 +118,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 3% | 100% |  |
-| 4 | 79% | 97% | Median |
-| 5 | 18% | 18% |  |
-| 6 | 0.1% | 0.1% |  |
+| 4 | 75% | 97% | Median |
+| 5 | 22% | 22% |  |
+| 6 | 0.2% | 0.2% |  |
 | 7 | 0% | 0% |  |
 
 
