@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 0.2–3.3% | 0.1–3.6% | 0.1–3.8% | 0.1–4.3% |
+| N/A | [Poll Average](average.html) | 1.8% | 0.2–2.7% | 0.1–2.9% | 0.1–3.1% | 0.1–3.6% |
+| [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 1.8% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
+| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [4–9 December 2024](2024-12-09-NMS.html) | NMS | 2.9% | 2.3–3.7% | 2.2–3.9% | 2.0–4.1% | 1.8–4.6% |
 | [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 0.0% | N/A | N/A | N/A | N/A |
@@ -40,12 +42,11 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 30% | 100% | Last Result |
-| 0.5–1.5% | 16% | 70% |  |
-| 1.5–2.5% | 26% | 53% | Median |
-| 2.5–3.5% | 22% | 27% |  |
-| 3.5–4.5% | 5% | 5% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
-| 5.5–6.5% | 0% | 0% |  |
+| 0.5–1.5% | 10% | 70% |  |
+| 1.5–2.5% | 45% | 59% | Median |
+| 2.5–3.5% | 14% | 15% |  |
+| 3.5–4.5% | 0.5% | 0.5% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -57,6 +58,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
+| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [4–9 December 2024](2024-12-09-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka |  |  |  |  |  |
