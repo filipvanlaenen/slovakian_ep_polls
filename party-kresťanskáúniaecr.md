@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.9% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
+| [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
@@ -56,6 +57,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
