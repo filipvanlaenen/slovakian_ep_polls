@@ -10,7 +10,11 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.8% | 0.3–2.7% | 0.2–2.9% | 0.2–3.1% | 0.1–3.6% |
+| N/A | [Poll Average](average.html) | 1.2% | 0.5–2.3% | 0.4–2.5% | 0.3–2.7% | 0.2–3.1% |
+| [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
+| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 2.1% | N/A | N/A | N/A | N/A |
+| [27–31 January 2025](2025-01-31-CSV.html) | CSV | 0.0% | N/A | N/A | N/A | N/A |
 | [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ | 0.3% | 0.2–0.7% | 0.1–0.8% | 0.1–0.9% | 0.1–1.1% |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 1.8% | 1.4–2.5% | 1.3–2.7% | 1.2–2.9% | 1.0–3.2% |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
@@ -42,11 +46,11 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 27% | 100% | Last Result |
-| 0.5–1.5% | 14% | 73% |  |
-| 1.5–2.5% | 45% | 59% | Median |
-| 2.5–3.5% | 14% | 15% |  |
-| 3.5–4.5% | 0.5% | 0.5% |  |
+| 0.0–0.5% | 16% | 100% | Last Result |
+| 0.5–1.5% | 43% | 84% | Median |
+| 1.5–2.5% | 36% | 41% |  |
+| 2.5–3.5% | 4% | 4% |  |
+| 3.5–4.5% | 0% | 0% |  |
 | 4.5–5.5% | 0% | 0% |  |
 
 
@@ -59,6 +63,10 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 0 | 0 | 0 | 0 | 0 |
+| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [5–9 February 2025](2025-02-09-NMS.html) | NMS |  |  |  |  |  |
+| [27–31 January 2025](2025-01-31-CSV.html) | CSV |  |  |  |  |  |
 | [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
