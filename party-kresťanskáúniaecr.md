@@ -10,10 +10,10 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.5% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
+| N/A | [Poll Average](average.html) | 0.7% | 0.3–1.3% | 0.2–1.4% | 0.2–1.6% | 0.1–1.9% |
 | [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.2% |
 | [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
-| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 0.9% | N/A | N/A | N/A | N/A |
+| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 0.9% | 0.6–1.4% | 0.5–1.6% | 0.5–1.7% | 0.4–2.0% |
 | [27–31 January 2025](2025-01-31-CSV.html) | CSV | 0.0% | N/A | N/A | N/A | N/A |
 | [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -46,9 +46,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 65% | 100% | Last Result, Median |
-| 0.5–1.5% | 35% | 35% |  |
-| 1.5–2.5% | 0% | 0% |  |
+| 0.0–0.5% | 35% | 100% | Last Result |
+| 0.5–1.5% | 62% | 65% | Median |
+| 1.5–2.5% | 3% | 3% |  |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -63,7 +63,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 0 | 0 | 0 | 0 | 0 |
 | [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
-| [5–9 February 2025](2025-02-09-NMS.html) | NMS |  |  |  |  |  |
+| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [27–31 January 2025](2025-01-31-CSV.html) | CSV |  |  |  |  |  |
 | [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |

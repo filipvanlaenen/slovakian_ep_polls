@@ -10,11 +10,11 @@ Last result: **7.5%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 5.6% | 4.8–6.6% | 4.5–6.9% | 4.3–7.2% | 4.0–7.7% |
+| N/A | [Poll Average](average.html) | 5.6% | 4.0–6.7% | 3.6–7.0% | 3.3–7.3% | 2.9–7.9% |
 | [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 5.6% | 4.8–6.7% | 4.6–7.0% | 4.4–7.3% | 4.0–7.8% |
-| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 6.0% | N/A | N/A | N/A | N/A |
-| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 5.8% | N/A | N/A | N/A | N/A |
-| [27–31 January 2025](2025-01-31-CSV.html) | CSV | 3.9% | N/A | N/A | N/A | N/A |
+| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 6.0% | 5.1–7.1% | 4.9–7.4% | 4.7–7.7% | 4.3–8.2% |
+| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 5.8% | 4.9–6.9% | 4.7–7.2% | 4.5–7.4% | 4.1–8.0% |
+| [27–31 January 2025](2025-01-31-CSV.html) | CSV | 3.9% | 3.3–4.8% | 3.1–5.0% | 2.9–5.2% | 2.6–5.7% |
 | [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ | 5.4% | 4.6–6.4% | 4.3–6.7% | 4.2–7.0% | 3.8–7.5% |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 5.5% | 4.7–6.6% | 4.5–6.8% | 4.3–7.1% | 3.9–7.6% |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 6.3% | 5.4–7.4% | 5.2–7.7% | 5.0–8.0% | 4.6–8.5% |
@@ -46,13 +46,15 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 2.5–3.5% | 0% | 100% |  |
-| 3.5–4.5% | 5% | 100% |  |
-| 4.5–5.5% | 39% | 95% |  |
-| 5.5–6.5% | 44% | 55% | Median |
-| 6.5–7.5% | 11% | 12% | Last Result |
-| 7.5–8.5% | 0.8% | 0.8% |  |
-| 8.5–9.5% | 0% | 0% |  |
+| 1.5–2.5% | 0.1% | 100% |  |
+| 2.5–3.5% | 5% | 99.9% |  |
+| 3.5–4.5% | 15% | 95% |  |
+| 4.5–5.5% | 30% | 80% |  |
+| 5.5–6.5% | 37% | 51% | Median |
+| 6.5–7.5% | 12% | 13% | Last Result |
+| 7.5–8.5% | 1.3% | 1.3% |  |
+| 8.5–9.5% | 0.1% | 0.1% |  |
+| 9.5–10.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -63,11 +65,11 @@ Last result: **1** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
-| [5–9 February 2025](2025-02-09-NMS.html) | NMS |  |  |  |  |  |
-| [27–31 January 2025](2025-01-31-CSV.html) | CSV |  |  |  |  |  |
+| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 1 | 1 | 0–1 | 0–2 | 0–2 |
+| [27–31 January 2025](2025-01-31-CSV.html) | CSV | 0 | 0 | 0 | 0–1 | 0–1 |
 | [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ | 1 | 0–1 | 0–1 | 0–2 | 0–2 |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 1 | 1 | 1 | 0–1 | 0–2 |
@@ -101,9 +103,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 22% | 100% |  |
-| 1 | 78% | 78% | Last Result, Median |
-| 2 | 0.4% | 0.4% |  |
+| 0 | 31% | 100% |  |
+| 1 | 67% | 69% | Last Result, Median |
+| 2 | 1.1% | 1.1% |  |
 | 3 | 0% | 0% |  |
 
 
