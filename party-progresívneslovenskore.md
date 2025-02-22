@@ -89,9 +89,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
 | [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 4 | 4 | 3–4 | 3–5 | 3–5 |
-| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
-| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
-| [27–31 January 2025](2025-01-31-CSV.html) | CSV | 5 | 4–5 | 4–6 | 4–6 | 4–6 |
+| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 4–5 |
+| [27–31 January 2025](2025-01-31-CSV.html) | CSV | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [9–13 January 2025](2025-01-13-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–5 | 4–6 |
@@ -129,9 +129,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 1.5% | 100% |  |
-| 4 | 54% | 98.5% | Median |
-| 5 | 43% | 45% |  |
-| 6 | 1.2% | 1.2% |  |
+| 4 | 55% | 98.5% | Median |
+| 5 | 43% | 44% |  |
+| 6 | 0.8% | 0.8% |  |
 | 7 | 0% | 0% |  |
 
 
