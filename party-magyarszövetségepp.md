@@ -10,7 +10,9 @@ Last result: **6.5%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 2.8–5.3% | 2.6–5.6% | 2.4–5.9% | 2.1–6.5% |
+| N/A | [Poll Average](average.html) | 4.1% | 3.0–5.3% | 2.8–5.6% | 2.5–5.9% | 2.2–6.5% |
+| [10–14 March 2025](2025-03-14-Ipsos.html) | Ipsos <br> Denník N | 3.9% | 3.2–4.8% | 3.0–5.0% | 2.9–5.2% | 2.6–5.7% |
+| [5–9 March 2025](2025-03-09-NMS.html) | NMS <br> TV Markíza | 3.8% | 3.1–4.7% | 2.9–5.0% | 2.8–5.2% | 2.5–5.6% |
 | [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 4.6% | 3.8–5.5% | 3.6–5.8% | 3.4–6.0% | 3.1–6.5% |
 | [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 3.1% | 2.5–3.9% | 2.3–4.2% | 2.2–4.4% | 1.9–4.8% |
 | [5–9 February 2025](2025-02-09-NMS.html) | NMS | 3.2% | 2.6–4.0% | 2.4–4.3% | 2.3–4.5% | 2.0–4.9% |
@@ -47,10 +49,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 4% | 100% |  |
-| 2.5–3.5% | 33% | 96% |  |
-| 3.5–4.5% | 35% | 63% | Median |
-| 4.5–5.5% | 22% | 28% |  |
+| 1.5–2.5% | 3% | 100% |  |
+| 2.5–3.5% | 25% | 97% |  |
+| 3.5–4.5% | 41% | 73% | Median |
+| 4.5–5.5% | 26% | 32% |  |
 | 5.5–6.5% | 6% | 6% |  |
 | 6.5–7.5% | 0.4% | 0.4% | Last Result |
 | 7.5–8.5% | 0% | 0% |  |
@@ -65,6 +67,8 @@ Last result: **1** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [10–14 March 2025](2025-03-14-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0–1 |
+| [5–9 March 2025](2025-03-09-NMS.html) | NMS <br> TV Markíza | 0 | 0 | 0 | 0 | 0–1 |
 | [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [5–9 February 2025](2025-02-09-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
