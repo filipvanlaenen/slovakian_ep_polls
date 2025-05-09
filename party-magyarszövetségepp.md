@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4.2% | 3.4–5.3% | 3.1–5.6% | 3.0–5.8% | 2.6–6.3% |
+| N/A | [Poll Average](average.html) | 4.3% | 3.4–5.3% | 3.2–5.6% | 3.0–5.8% | 2.7–6.4% |
+| [30 April–4 May 2025](2025-05-04-NMS.html) | NMS | 4.0% | 3.3–4.9% | 3.1–5.1% | 2.9–5.4% | 2.6–5.8% |
 | [10–17 April 2025](2025-04-17-AKO.html) | AKO <br> TV JOJ | 4.0% | 3.3–4.9% | 3.1–5.2% | 2.9–5.4% | 2.7–5.9% |
 | [1–8 April 2025](2025-04-08-FOCUS.html) | FOCUS <br> 360tka.sk | 4.7% | 3.9–5.7% | 3.7–5.9% | 3.6–6.2% | 3.2–6.7% |
 | [2–6 April 2025](2025-04-06-NMS.html) | NMS | 3.8% | 3.1–4.7% | 2.9–4.9% | 2.8–5.2% | 2.5–5.6% |
@@ -53,10 +54,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
-| 1.5–2.5% | 0.3% | 100% |  |
-| 2.5–3.5% | 16% | 99.7% |  |
-| 3.5–4.5% | 50% | 83% | Median |
-| 4.5–5.5% | 28% | 34% |  |
+| 1.5–2.5% | 0.2% | 100% |  |
+| 2.5–3.5% | 14% | 99.8% |  |
+| 3.5–4.5% | 50% | 86% | Median |
+| 4.5–5.5% | 30% | 35% |  |
 | 5.5–6.5% | 5% | 5% |  |
 | 6.5–7.5% | 0.2% | 0.3% | Last Result |
 | 7.5–8.5% | 0% | 0% |  |
@@ -71,6 +72,7 @@ Last result: **1** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| [30 April–4 May 2025](2025-05-04-NMS.html) | NMS | 0 | 0 | 0 | 0–1 | 0–1 |
 | [10–17 April 2025](2025-04-17-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [1–8 April 2025](2025-04-08-FOCUS.html) | FOCUS <br> 360tka.sk | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–6 April 2025](2025-04-06-NMS.html) | NMS | 0 | 0 | 0 | 0–1 | 0–1 |
