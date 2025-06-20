@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 9.9% | 7.9–12.5% | 7.6–13.1% | 7.3–13.5% | 6.7–14.4% |
+| N/A | [Poll Average](average.html) | 9.9% | 8.0–12.5% | 7.6–13.1% | 7.3–13.5% | 6.7–14.4% |
+| [2–9 June 2025](2025-06-09-FOCUS.html) | FOCUS <br> 360tka.sk | 10.5% | 9.4–11.9% | 9.1–12.2% | 8.8–12.6% | 8.3–13.2% |
+| [4–8 June 2025](2025-06-08-NMS.html) | NMS | 9.0% | 7.9–10.2% | 7.6–10.6% | 7.3–10.9% | 6.9–11.5% |
 | [19–26 May 2025](2025-05-26-AKO.html) | AKO <br> TV JOJ | 12.1% | 10.9–13.5% | 10.5–13.9% | 10.2–14.3% | 9.6–15.0% |
 | [12–18 May 2025](2025-05-18-FOCUS.html) | FOCUS <br> 360tka.sk | 10.6% | 9.4–11.9% | 9.1–12.3% | 8.8–12.7% | 8.3–13.3% |
 | [12–16 May 2025](2025-05-16-Ipsos.html) | Ipsos <br> Denník N | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
@@ -65,11 +67,11 @@ The following table shows the probability mass function per percentage block of 
 | 5.5–6.5% | 0.3% | 100% |  |
 | 6.5–7.5% | 4% | 99.7% |  |
 | 7.5–8.5% | 17% | 95% |  |
-| 8.5–9.5% | 22% | 78% |  |
+| 8.5–9.5% | 22% | 79% |  |
 | 9.5–10.5% | 18% | 56% | Median |
-| 10.5–11.5% | 16% | 39% |  |
-| 11.5–12.5% | 13% | 23% |  |
-| 12.5–13.5% | 7% | 10% |  |
+| 10.5–11.5% | 16% | 38% |  |
+| 11.5–12.5% | 13% | 22% |  |
+| 12.5–13.5% | 7% | 9% |  |
 | 13.5–14.5% | 2% | 2% |  |
 | 14.5–15.5% | 0.3% | 0.3% |  |
 | 15.5–16.5% | 0% | 0% |  |
@@ -84,6 +86,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2 | 1–2 | 1–2 | 1–2 | 1–3 |
+| [2–9 June 2025](2025-06-09-FOCUS.html) | FOCUS <br> 360tka.sk | 2 | 2 | 2 | 2 | 1–2 |
+| [4–8 June 2025](2025-06-08-NMS.html) | NMS | 2 | 2 | 1–2 | 1–2 | 1–2 |
 | [19–26 May 2025](2025-05-26-AKO.html) | AKO <br> TV JOJ | 2 | 2 | 2 | 2–3 | 2–3 |
 | [12–18 May 2025](2025-05-18-FOCUS.html) | FOCUS <br> 360tka.sk | 2 | 2 | 2 | 2 | 1–2 |
 | [12–16 May 2025](2025-05-16-Ipsos.html) | Ipsos <br> Denník N | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -132,9 +136,9 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0% | 100% | Last Result |
-| 1 | 23% | 100% |  |
-| 2 | 76% | 77% | Median |
-| 3 | 1.3% | 1.3% |  |
+| 1 | 22% | 100% |  |
+| 2 | 77% | 78% | Median |
+| 3 | 1.2% | 1.2% |  |
 | 4 | 0% | 0% |  |
 
 
