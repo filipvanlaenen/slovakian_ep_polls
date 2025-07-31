@@ -10,18 +10,20 @@ Last result: **1.7%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.8–2.8% |
+| N/A | [Poll Average](average.html) | 1.0% | 0.3–1.9% | 0.2–2.1% | 0.2–2.3% | 0.1–2.6% |
+| [8–15 July 2025](2025-07-15-AKO.html) | AKO <br> TV JOJ | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
+| [7–13 July 2025](2025-07-13-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 July 2025](2025-07-07-NMS.html) | NMS | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.4% | 0.7–2.8% |
 | [16–19 June 2025](2025-06-19-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [11–19 June 2025](2025-06-19-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
-| [2–9 June 2025](2025-06-09-FOCUS.html) | FOCUS <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [2–9 June 2025](2025-06-09-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
 | [4–8 June 2025](2025-06-08-NMS.html) | NMS | 1.5% | 1.1–2.1% | 1.0–2.3% | 0.9–2.5% | 0.7–2.8% |
 | [19–26 May 2025](2025-05-26-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
-| [12–18 May 2025](2025-05-18-FOCUS.html) | FOCUS <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [12–18 May 2025](2025-05-18-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
 | [12–16 May 2025](2025-05-16-Ipsos.html) | Ipsos <br> Denník N | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [30 April–4 May 2025](2025-05-04-NMS.html) | NMS | 1.3% | 0.9–1.9% | 0.8–2.0% | 0.7–2.2% | 0.6–2.5% |
 | [10–17 April 2025](2025-04-17-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
-| [1–8 April 2025](2025-04-08-FOCUS.html) | FOCUS <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [1–8 April 2025](2025-04-08-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
 | [2–6 April 2025](2025-04-06-NMS.html) | NMS | 1.2% | 0.9–1.8% | 0.8–1.9% | 0.7–2.1% | 0.5–2.4% |
 | [11–19 March 2025](2025-03-19-AKO.html) | AKO <br> TV JOJ | 0.2% | 0.1–0.5% | 0.1–0.6% | 0.1–0.7% | 0.0–0.9% |
 | [10–14 March 2025](2025-03-14-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -61,10 +63,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 0% | 100% |  |
-| 0.5–1.5% | 50% | 100% |  |
-| 1.5–2.5% | 48% | 50% | Last Result, Median |
-| 2.5–3.5% | 2% | 2% |  |
+| 0.0–0.5% | 32% | 100% |  |
+| 0.5–1.5% | 43% | 68% | Median |
+| 1.5–2.5% | 24% | 25% | Last Result |
+| 2.5–3.5% | 0.8% | 0.8% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -77,17 +79,19 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [8–15 July 2025](2025-07-15-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
+| [7–13 July 2025](2025-07-13-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
 | [2–7 July 2025](2025-07-07-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [16–19 June 2025](2025-06-19-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [11–19 June 2025](2025-06-19-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
-| [2–9 June 2025](2025-06-09-FOCUS.html) | FOCUS <br> 360tka.sk |  |  |  |  |  |
+| [2–9 June 2025](2025-06-09-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
 | [4–8 June 2025](2025-06-08-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [19–26 May 2025](2025-05-26-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
-| [12–18 May 2025](2025-05-18-FOCUS.html) | FOCUS <br> 360tka.sk |  |  |  |  |  |
+| [12–18 May 2025](2025-05-18-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
 | [12–16 May 2025](2025-05-16-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [30 April–4 May 2025](2025-05-04-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [10–17 April 2025](2025-04-17-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
-| [1–8 April 2025](2025-04-08-FOCUS.html) | FOCUS <br> 360tka.sk |  |  |  |  |  |
+| [1–8 April 2025](2025-04-08-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
 | [2–6 April 2025](2025-04-06-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [11–19 March 2025](2025-03-19-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [10–14 March 2025](2025-03-14-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
