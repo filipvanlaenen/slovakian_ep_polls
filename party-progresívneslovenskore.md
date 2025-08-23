@@ -107,7 +107,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 3–5 | 3–5 |
-| [15–19 August 2025](2025-08-19-Ipsos.html) | Ipsos <br> Denník N | 4 | 4 | 4 | 4 | 3–4 |
+| [15–19 August 2025](2025-08-19-Ipsos.html) | Ipsos <br> Denník N | 4 | 4 | 4 | 4 | 3–5 |
 | [5–11 August 2025](2025-08-11-AKO.html) | AKO <br> TV JOJ | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [6–10 August 2025](2025-08-10-NMS.html) | NMS | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
 | [8–15 July 2025](2025-07-15-AKO.html) | AKO <br> TV JOJ | 4 | 4 | 4 | 4 | 3–5 |
