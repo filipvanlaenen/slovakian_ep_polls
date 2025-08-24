@@ -89,7 +89,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [15–19 August 2025](2025-08-19-Ipsos.html) | Ipsos <br> Denník N | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [5–11 August 2025](2025-08-11-AKO.html) | AKO <br> TV JOJ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
-| [6–10 August 2025](2025-08-10-NMS.html) | NMS | 0 | 0 | 0 | 0–1 | 0–1 |
+| [6–10 August 2025](2025-08-10-NMS.html) | NMS | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [8–15 July 2025](2025-07-15-AKO.html) | AKO <br> TV JOJ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [7–13 July 2025](2025-07-13-Focus.html) | Focus <br> 360tka.sk | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [2–7 July 2025](2025-07-07-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -144,8 +144,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 61% | 100% | Last Result, Median |
-| 1 | 39% | 39% |  |
+| 0 | 63% | 100% | Last Result, Median |
+| 1 | 37% | 37% |  |
 | 2 | 0% | 0% |  |
 
 
