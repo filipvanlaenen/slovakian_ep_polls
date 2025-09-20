@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 21.9% | 20.5–23.7% | 20.1–24.3% | 19.8–24.7% | 19.1–25.6% |
+| N/A | [Poll Average](average.html) | 22.2% | 20.6–23.9% | 20.1–24.4% | 19.7–24.8% | 19.0–25.7% |
+| [10–17 September 2025](2025-09-17-Focus.html) | Focus <br> 360tka.sk | 22.0% | 20.5–23.7% | 20.0–24.2% | 19.6–24.6% | 18.9–25.4% |
 | [3–7 September 2025](2025-09-07-NMS.html) | NMS | 22.1% | 20.4–23.8% | 20.0–24.3% | 19.6–24.7% | 18.8–25.6% |
 | [15–19 August 2025](2025-08-19-Ipsos.html) | Ipsos <br> Denník N | 22.5% | 20.9–24.2% | 20.5–24.7% | 20.1–25.1% | 19.3–25.9% |
 | [6–19 August 2025](2025-08-19-Focus.html) | Focus <br> 360tka.sk | 21.2% | 20.3–22.2% | 20.0–22.4% | 19.8–22.7% | 19.4–23.1% |
@@ -86,15 +87,15 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 1.4% | 99.9% |  |
-| 19.5–20.5% | 10% | 98% |  |
-| 20.5–21.5% | 28% | 88% |  |
-| 21.5–22.5% | 29% | 61% | Median |
-| 22.5–23.5% | 19% | 31% |  |
-| 23.5–24.5% | 9% | 12% |  |
-| 24.5–25.5% | 3% | 3% |  |
-| 25.5–26.5% | 0.5% | 0.5% |  |
+| 17.5–18.5% | 0.2% | 100% |  |
+| 18.5–19.5% | 2% | 99.8% |  |
+| 19.5–20.5% | 8% | 98% |  |
+| 20.5–21.5% | 21% | 90% |  |
+| 21.5–22.5% | 30% | 69% | Median |
+| 22.5–23.5% | 24% | 39% |  |
+| 23.5–24.5% | 11% | 15% |  |
+| 24.5–25.5% | 3% | 4% |  |
+| 25.5–26.5% | 0.6% | 0.6% |  |
 | 26.5–27.5% | 0.1% | 0.1% |  |
 | 27.5–28.5% | 0% | 0% |  |
 
@@ -107,7 +108,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4 | 4–5 | 4–5 | 3–5 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [10–17 September 2025](2025-09-17-Focus.html) | Focus <br> 360tka.sk | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [3–7 September 2025](2025-09-07-NMS.html) | NMS | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
 | [15–19 August 2025](2025-08-19-Ipsos.html) | Ipsos <br> Denník N | 4 | 4 | 4 | 4 | 3–5 |
 | [6–19 August 2025](2025-08-19-Focus.html) | Focus <br> 360tka.sk | 4 | 4 | 4 | 3–4 | 3–4 |
@@ -171,8 +173,8 @@ The following table shows the probability mass function per seat for the [poll a
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
 | 3 | 2% | 100% |  |
-| 4 | 88% | 98% | Median |
-| 5 | 9% | 9% |  |
+| 4 | 87% | 98% | Median |
+| 5 | 11% | 11% |  |
 | 6 | 0% | 0% |  |
 
 
