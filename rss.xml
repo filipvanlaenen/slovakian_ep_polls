@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Thu, 25 Sep 2025 22:54:10 +0200</pubDate>
+    <pubDate>Sat, 11 Oct 2025 12:34:00 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by NMS, 1–5 October 2025 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2025-10-05-NMS.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 4–6 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 0–1 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;Kresťanská únia (ECR): 0 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 2–3 seats&lt;/li&gt;&lt;li&gt;Slovensko (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-10-05-NMS-seats.png"
+        length="323580"
+        type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 12:34:00 +0200</pubDate>
+      <dc:date>2025-10-11T12:34:00.269161+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NMS, 1–5 October 2025 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2025-10-05-NMS.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-10-05-NMS-coalitions-seats.png"
+        length="273495"
+        type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 12:34:00 +0200</pubDate>
+      <dc:date>2025-10-11T12:34:00.269161+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NMS, 1–5 October 2025 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2025-10-05-NMS.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 4.0–6.8%&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 3.3–5.9%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.1–7.0%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0.8–2.3%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 22.2–27.5%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 4.6–7.5%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 6.7–10.2%&lt;/li&gt;&lt;li&gt;Kresťanská únia (ECR): 0.8–2.3%&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 15.6–20.4%&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 9.9–13.9%&lt;/li&gt;&lt;li&gt;Slovensko (EPP): 5.0–8.1%&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Kotleba–Ľudová strana Naše Slovensko (NI): 0.7–2.1%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 1.3–3.1%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-10-05-NMS.png"
+        length="432628"
+        type="image/png"/>
+      <pubDate>Sat, 11 Oct 2025 12:34:00 +0200</pubDate>
+      <dc:date>2025-10-11T12:34:00.269161+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by AKO for TV JOJ, 8–22 September 2025 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2025-09-22-AKO.html#seats</link>
@@ -1089,6 +1119,6 @@
       <pubDate>Wed, 25 Dec 2024 12:30:37 +0100</pubDate>
       <dc:date>2024-12-25T12:30:37.651305+01:00</dc:date>
     </item>
-    <dc:date>2025-09-25T22:54:10.27994+02:00</dc:date>
+    <dc:date>2025-10-11T12:34:00.269161+02:00</dc:date>
   </channel>
 </rss>
