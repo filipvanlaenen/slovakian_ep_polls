@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 23.1% | 21.2–25.4% | 20.6–26.1% | 20.2–26.6% | 19.4–27.7% |
+| N/A | [Poll Average](average.html) | 23.1% | 20.9–25.4% | 20.4–26.1% | 19.9–26.6% | 19.0–27.7% |
+| [13–21 October 2025](2025-10-21-Focus.html) | Focus <br> 360tka.sk | 23.1% | 21.4–24.8% | 21.0–25.3% | 20.6–25.7% | 19.8–26.6% |
+| [15–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Denník N | 21.6% | 20.0–23.3% | 19.5–23.8% | 19.1–24.2% | 18.4–25.0% |
 | [1–5 October 2025](2025-10-05-NMS.html) | NMS | 24.8% | 23.1–26.6% | 22.6–27.1% | 22.2–27.5% | 21.4–28.4% |
 | [8–22 September 2025](2025-09-22-AKO.html) | AKO <br> TV JOJ | 23.1% | 21.4–24.9% | 21.0–25.4% | 20.6–25.8% | 19.8–26.7% |
 | [17–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Denník N | 22.8% | 21.2–24.5% | 20.7–25.0% | 20.3–25.4% | 19.6–26.3% |
@@ -90,14 +92,14 @@ The following table shows the probability mass function per percentage block of 
 | 14.5–15.5% | 0% | 100% |  |
 | 15.5–16.5% | 0% | 100% |  |
 | 16.5–17.5% | 0% | 100% |  |
-| 17.5–18.5% | 0.1% | 100% |  |
-| 18.5–19.5% | 0.6% | 99.9% |  |
-| 19.5–20.5% | 4% | 99.3% |  |
-| 20.5–21.5% | 11% | 96% |  |
-| 21.5–22.5% | 21% | 84% |  |
-| 22.5–23.5% | 23% | 64% | Median |
-| 23.5–24.5% | 19% | 40% |  |
-| 24.5–25.5% | 12% | 21% |  |
+| 17.5–18.5% | 0.2% | 100% |  |
+| 18.5–19.5% | 1.2% | 99.8% |  |
+| 19.5–20.5% | 5% | 98.6% |  |
+| 20.5–21.5% | 12% | 94% |  |
+| 21.5–22.5% | 19% | 82% |  |
+| 22.5–23.5% | 22% | 63% | Median |
+| 23.5–24.5% | 19% | 41% |  |
+| 24.5–25.5% | 12% | 22% |  |
 | 25.5–26.5% | 6% | 9% |  |
 | 26.5–27.5% | 2% | 3% |  |
 | 27.5–28.5% | 0.5% | 0.6% |  |
@@ -113,7 +115,9 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 4–5 | 3–6 |
+| N/A | [Poll Average](average.html) | 4 | 4–5 | 4–5 | 3–5 | 3–6 |
+| [13–21 October 2025](2025-10-21-Focus.html) | Focus <br> 360tka.sk | 4 | 4–5 | 4–5 | 4–5 | 3–5 |
+| [15–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Denník N | 4 | 3–4 | 3–4 | 3–4 | 3–5 |
 | [1–5 October 2025](2025-10-05-NMS.html) | NMS | 5 | 4–5 | 4–5 | 4–6 | 4–6 |
 | [8–22 September 2025](2025-09-22-AKO.html) | AKO <br> TV JOJ | 4 | 4 | 4–5 | 4–5 | 3–5 |
 | [17–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Denník N | 4 | 4–5 | 4–5 | 4–5 | 4–5 |
@@ -180,9 +184,9 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0% | 100% |  |
 | 2 | 0% | 100% |  |
-| 3 | 0.9% | 100% |  |
-| 4 | 74% | 99.1% | Median |
-| 5 | 24% | 25% |  |
+| 3 | 3% | 100% |  |
+| 4 | 77% | 97% | Median |
+| 5 | 19% | 20% |  |
 | 6 | 0.9% | 0.9% |  |
 | 7 | 0% | 0% |  |
 

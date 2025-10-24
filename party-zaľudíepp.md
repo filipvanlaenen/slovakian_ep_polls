@@ -10,7 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.9% | 0.3–1.8% | 0.2–2.0% | 0.2–2.2% | 0.1–2.5% |
+| N/A | [Poll Average](average.html) | 1.5% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
+| [13–21 October 2025](2025-10-21-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [15–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [1–5 October 2025](2025-10-05-NMS.html) | NMS | 1.4% | 1.0–2.0% | 0.9–2.2% | 0.8–2.3% | 0.7–2.7% |
 | [8–22 September 2025](2025-09-22-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [17–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -72,10 +74,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 36% | 100% | Last Result |
-| 0.5–1.5% | 44% | 64% | Median |
-| 1.5–2.5% | 20% | 20% |  |
-| 2.5–3.5% | 0.4% | 0.4% |  |
+| 0.0–0.5% | 0.1% | 100% | Last Result |
+| 0.5–1.5% | 59% | 99.9% | Median |
+| 1.5–2.5% | 40% | 41% |  |
+| 2.5–3.5% | 0.9% | 0.9% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -88,6 +90,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [13–21 October 2025](2025-10-21-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
+| [15–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [1–5 October 2025](2025-10-05-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [8–22 September 2025](2025-09-22-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [17–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
