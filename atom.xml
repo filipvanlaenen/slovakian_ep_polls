@@ -6,7 +6,7 @@
   </author>
   <id>https://filipvanlaenen.github.io/slovakian_ep_polls</id>
   <title>All Registered Polls for the European Parliament</title>
-  <updated>2025-10-24T22:19:25.17353+02:00</updated>
+  <updated>2025-10-25T13:57:36.099157+02:00</updated>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Demokrati (EPP): 4.0–6.7%, 0–1 seats</li><li>Magyar Szövetség (EPP): 3.0–5.4%, 0–1 seats</li><li>Kresťanskodemokratické hnutie (EPP): 5.3–8.4%, 1 seats</li><li>Slovensko (EPP): 6.7–10.1%, 1–2 seats</li><li>Progresívne Slovensko (RE): 20.6–25.7%, 4–5 seats</li><li>Sloboda a Solidarita (ECR): 5.0–8.0%, 0–1 seats</li><li>HLAS–sociálna demokracia (NI): 7.8–11.4%, 1–2 seats</li><li>SME RODINA (PfE): 2.0–4.0%, 0 seats</li><li>SMER–sociálna demokracia (NI): 14.8–19.4%, 3–4 seats</li><li>Slovenská národná strana (PfE): 3.2–5.7%, 0–1 seats</li><li>REPUBLIKA (ESN): 8.2–11.8%, 1–2 seats</li></ul></div></content>
     <id>https://filipvanlaenen.github.io/slovakian_ep_polls/2025-10-21-Focus.html</id>
@@ -22,6 +22,14 @@
     <title>Opinion Poll by Ipsos for Denník N, 15–20 October 2025</title>
     <updated>2025-10-24T22:19:25.17353+02:00</updated>
     <dc:date>2025-10-24T22:19:25.17353+02:00</dc:date>
+  </entry>
+  <entry>
+    <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Demokrati (EPP): 3.9–6.6%, 0–1 seats</li><li>Magyar Szövetség (EPP): 2.8–5.2%, 0–1 seats</li><li>Kresťanskodemokratické hnutie (EPP): 5.4–8.5%, 1–2 seats</li><li>Slovensko (EPP): 6.0–9.3%, 1–2 seats</li><li>Progresívne Slovensko (RE): 20.3–25.5%, 4–5 seats</li><li>Sloboda a Solidarita (ECR): 5.7–8.9%, 1–2 seats</li><li>HLAS–sociálna demokracia (NI): 9.0–12.9%, 2 seats</li><li>SME RODINA (PfE): 2.5–4.8%, 0 seats</li><li>SMER–sociálna demokracia (NI): 15.6–20.4%, 3–4 seats</li><li>Slovenská národná strana (PfE): 3.4–6.0%, 0–1 seats</li><li>REPUBLIKA (ESN): 7.0–10.5%, 1–2 seats</li></ul></div></content>
+    <id>https://filipvanlaenen.github.io/slovakian_ep_polls/2025-10-17-AKO.html</id>
+    <link href="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-10-17-AKO.html"/>
+    <title>Opinion Poll by AKO for TV JOJ, 8–17 October 2025</title>
+    <updated>2025-10-25T13:57:36.099157+02:00</updated>
+    <dc:date>2025-10-25T13:57:36.099157+02:00</dc:date>
   </entry>
   <entry>
     <content type="xhtml"><div xmlns="http://www.w3.org/1999/xhtml"><ul><li>Demokrati (EPP): 4.0–6.8%, 0–1 seats</li><li>Magyar Szövetség (EPP): 3.3–5.9%, 0–1 seats</li><li>Kresťanskodemokratické hnutie (EPP): 4.1–7.0%, 0–1 seats</li><li>Za ľudí (EPP): 0.8–2.3%, 0 seats</li><li>Progresívne Slovensko (RE): 22.2–27.5%, 4–6 seats</li><li>Sloboda a Solidarita (ECR): 4.6–7.5%, 0–1 seats</li><li>HLAS–sociálna demokracia (NI): 6.7–10.2%, 1–2 seats</li><li>Kresťanská únia (ECR): 0.8–2.3%, 0 seats</li><li>SMER–sociálna demokracia (NI): 15.6–20.4%, 3–4 seats</li><li>REPUBLIKA (ESN): 9.9–13.9%, 2–3 seats</li><li>Slovensko (EPP): 5.0–8.1%, 1–2 seats</li><li>SME RODINA (PfE): 2.3–4.5%, 0 seats</li><li>Kotleba–Ľudová strana Naše Slovensko (NI): 0.7–2.1%, 0 seats</li><li>Slovenská národná strana (PfE): 1.3–3.1%, 0 seats</li></ul></div></content>
@@ -319,5 +327,5 @@
     <updated>2024-12-25T12:30:37.651305+01:00</updated>
     <dc:date>2024-12-25T12:30:37.651305+01:00</dc:date>
   </entry>
-  <dc:date>2025-10-24T22:19:25.17353+02:00</dc:date>
+  <dc:date>2025-10-25T13:57:36.099157+02:00</dc:date>
 </feed>
