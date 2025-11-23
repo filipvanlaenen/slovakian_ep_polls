@@ -99,7 +99,7 @@ Last result: **1** seats (General Election of 8 June 2024)
 | N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [11–18 November 2025](2025-11-18-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0–1 |
-| [5–9 November 2025](2025-11-09-NMS.html) | NMS | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| [5–9 November 2025](2025-11-09-NMS.html) | NMS | 0 | 0 | 0 | 0–1 | 0–1 |
 | [13–21 October 2025](2025-10-21-Focus.html) | Focus <br> 360tka.sk | 0 | 0 | 0–1 | 0–1 | 0–1 |
 | [15–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0–1 |
 | [8–17 October 2025](2025-10-17-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0–1 | 0–1 |

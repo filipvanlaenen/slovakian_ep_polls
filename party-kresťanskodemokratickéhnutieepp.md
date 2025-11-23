@@ -99,7 +99,7 @@ Last result: **2** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1 | 1 | 0–1 | 0–2 |
 | [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 1 | 1 | 1 | 1 | 0–2 |
 | [11–18 November 2025](2025-11-18-AKO.html) | AKO <br> TV JOJ | 1 | 1 | 1 | 1 | 0–2 |
 | [5–9 November 2025](2025-11-09-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -169,8 +169,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 7% | 100% |  |
-| 1 | 92% | 93% | Median |
+| 0 | 5% | 100% |  |
+| 1 | 94% | 95% | Median |
 | 2 | 0.8% | 0.8% | Last Result |
 | 3 | 0% | 0% |  |
 
