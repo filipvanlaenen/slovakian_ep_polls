@@ -10,11 +10,11 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.8% | 6.1–9.7% | 5.7–10.1% | 5.4–10.5% | 5.0–11.2% |
+| N/A | [Poll Average](average.html) | 8.5% | 6.3–10.8% | 5.9–11.3% | 5.6–11.8% | 5.0–12.6% |
 | [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 6.5% | 5.6–7.6% | 5.3–7.9% | 5.1–8.2% | 4.7–8.7% |
 | [24–28 November 2025](2025-11-28-Ipsos.html) | Ipsos <br> Denník N | 7.8% | 6.8–8.9% | 6.5–9.3% | 6.3–9.6% | 5.8–10.2% |
-| [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 9.1% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 7.0–11.7% |
-| [11–18 November 2025](2025-11-18-AKO.html) | AKO <br> TV JOJ | 10.4% | N/A | N/A | N/A | N/A |
+| [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 9.1% | 8.0–10.3% | 7.7–10.7% | 7.4–11.0% | 7.0–11.6% |
+| [11–18 November 2025](2025-11-18-AKO.html) | AKO <br> TV JOJ | 10.4% | 9.3–11.7% | 8.9–12.1% | 8.7–12.5% | 8.1–13.1% |
 | [5–9 November 2025](2025-11-09-NMS.html) | NMS | 7.5% | N/A | N/A | N/A | N/A |
 | [13–21 October 2025](2025-10-21-Focus.html) | Focus <br> 360tka.sk | 9.4% | N/A | N/A | N/A | N/A |
 | [15–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Denník N | 9.1% | N/A | N/A | N/A | N/A |
@@ -85,15 +85,16 @@ The following table shows the probability mass function per percentage block of 
 | 1.5–2.5% | 0% | 100% |  |
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.1% | 100% |  |
-| 4.5–5.5% | 3% | 99.9% |  |
-| 5.5–6.5% | 16% | 97% |  |
-| 6.5–7.5% | 24% | 81% |  |
-| 7.5–8.5% | 25% | 57% | Median |
-| 8.5–9.5% | 20% | 31% |  |
-| 9.5–10.5% | 9% | 11% |  |
-| 10.5–11.5% | 2% | 2% |  |
-| 11.5–12.5% | 0.2% | 0.2% |  |
-| 12.5–13.5% | 0% | 0% |  |
+| 4.5–5.5% | 2% | 99.9% |  |
+| 5.5–6.5% | 12% | 98% |  |
+| 6.5–7.5% | 18% | 86% |  |
+| 7.5–8.5% | 19% | 67% | Median |
+| 8.5–9.5% | 19% | 48% |  |
+| 9.5–10.5% | 16% | 29% |  |
+| 10.5–11.5% | 10% | 13% |  |
+| 11.5–12.5% | 3% | 4% |  |
+| 12.5–13.5% | 0.5% | 0.5% |  |
+| 13.5–14.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -104,11 +105,11 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
-| [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 1 | 0–1 | 0–1 | 0–1 | 0–2 |
+| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 0–2 |
+| [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 1 | 1–2 | 0–2 | 0–2 | 0–2 |
 | [24–28 November 2025](2025-11-28-Ipsos.html) | Ipsos <br> Denník N | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
-| [11–18 November 2025](2025-11-18-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| [11–18 November 2025](2025-11-18-AKO.html) | AKO <br> TV JOJ | 2 | 2 | 2 | 2 | 1–3 |
 | [5–9 November 2025](2025-11-09-NMS.html) | NMS |  |  |  |  |  |
 | [13–21 October 2025](2025-10-21-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
 | [15–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
@@ -176,9 +177,10 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 6% | 100% | Last Result |
-| 1 | 83% | 94% | Median |
-| 2 | 10% | 10% |  |
-| 3 | 0% | 0% |  |
+| 0 | 2% | 100% | Last Result |
+| 1 | 55% | 98% | Median |
+| 2 | 43% | 43% |  |
+| 3 | 0.4% | 0.4% |  |
+| 4 | 0% | 0% |  |
 
 
