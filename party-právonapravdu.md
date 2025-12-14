@@ -1,64 +1,64 @@
-# Slovensko (EPP)
+# Právo na pravdu (*)
 
 <p align="center"><a href="#voting-intentions">Voting Intentions</a> | <a href="#seats">Seats</a></p>
 
 ## Voting Intentions
 
-Last result: **7.5%** (General Election of 8 June 2024)
+Last result: **0.0%** (General Election of 8 June 2024)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.6–9.9% |
-| [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 7.6% | 6.6–8.7% | 6.3–9.1% | 6.1–9.4% | 5.6–10.0% |
-| [24–28 November 2025](2025-11-28-Ipsos.html) | Ipsos <br> Denník N | 9.5% | N/A | N/A | N/A | N/A |
-| [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 8.9% | N/A | N/A | N/A | N/A |
-| [11–18 November 2025](2025-11-18-AKO.html) | AKO <br> TV JOJ | 8.2% | N/A | N/A | N/A | N/A |
-| [5–9 November 2025](2025-11-09-NMS.html) | NMS | 8.3% | N/A | N/A | N/A | N/A |
-| [13–21 October 2025](2025-10-21-Focus.html) | Focus <br> 360tka.sk | 8.3% | N/A | N/A | N/A | N/A |
-| [15–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Denník N | 7.8% | N/A | N/A | N/A | N/A |
-| [8–17 October 2025](2025-10-17-AKO.html) | AKO <br> TV JOJ | 7.5% | N/A | N/A | N/A | N/A |
-| [1–5 October 2025](2025-10-05-NMS.html) | NMS | 6.4% | N/A | N/A | N/A | N/A |
-| [8–22 September 2025](2025-09-22-AKO.html) | AKO <br> TV JOJ | 8.7% | N/A | N/A | N/A | N/A |
-| [17–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Denník N | 7.3% | N/A | N/A | N/A | N/A |
-| [10–17 September 2025](2025-09-17-Focus.html) | Focus <br> 360tka.sk | 8.5% | N/A | N/A | N/A | N/A |
-| [3–7 September 2025](2025-09-07-NMS.html) | NMS | 7.1% | N/A | N/A | N/A | N/A |
-| [15–19 August 2025](2025-08-19-Ipsos.html) | Ipsos <br> Denník N | 7.5% | N/A | N/A | N/A | N/A |
-| [6–19 August 2025](2025-08-19-Focus.html) | Focus <br> 360tka.sk | 8.2% | N/A | N/A | N/A | N/A |
-| [5–11 August 2025](2025-08-11-AKO.html) | AKO <br> TV JOJ | 7.6% | N/A | N/A | N/A | N/A |
-| [6–10 August 2025](2025-08-10-NMS.html) | NMS | 8.2% | N/A | N/A | N/A | N/A |
-| [8–15 July 2025](2025-07-15-AKO.html) | AKO <br> TV JOJ | 8.3% | N/A | N/A | N/A | N/A |
-| [7–13 July 2025](2025-07-13-Focus.html) | Focus <br> 360tka.sk | 7.5% | N/A | N/A | N/A | N/A |
-| [2–7 July 2025](2025-07-07-NMS.html) | NMS | 7.1% | N/A | N/A | N/A | N/A |
-| [16–19 June 2025](2025-06-19-Ipsos.html) | Ipsos <br> Denník N | 7.3% | N/A | N/A | N/A | N/A |
-| [11–19 June 2025](2025-06-19-AKO.html) | AKO <br> TV JOJ | 8.0% | N/A | N/A | N/A | N/A |
-| [2–9 June 2025](2025-06-09-Focus.html) | Focus <br> 360tka.sk | 8.5% | N/A | N/A | N/A | N/A |
-| [4–8 June 2025](2025-06-08-NMS.html) | NMS | 7.1% | N/A | N/A | N/A | N/A |
-| [19–26 May 2025](2025-05-26-AKO.html) | AKO <br> TV JOJ | 8.8% | N/A | N/A | N/A | N/A |
-| [12–18 May 2025](2025-05-18-Focus.html) | Focus <br> 360tka.sk | 7.8% | N/A | N/A | N/A | N/A |
-| [12–16 May 2025](2025-05-16-Ipsos.html) | Ipsos <br> Denník N | 7.3% | N/A | N/A | N/A | N/A |
-| [30 April–4 May 2025](2025-05-04-NMS.html) | NMS | 7.7% | N/A | N/A | N/A | N/A |
-| [10–17 April 2025](2025-04-17-AKO.html) | AKO <br> TV JOJ | 8.7% | N/A | N/A | N/A | N/A |
-| [1–8 April 2025](2025-04-08-Focus.html) | Focus <br> 360tka.sk | 7.3% | N/A | N/A | N/A | N/A |
-| [2–6 April 2025](2025-04-06-NMS.html) | NMS | 6.8% | N/A | N/A | N/A | N/A |
-| [11–19 March 2025](2025-03-19-AKO.html) | AKO <br> TV JOJ | 7.3% | N/A | N/A | N/A | N/A |
-| [10–14 March 2025](2025-03-14-Ipsos.html) | Ipsos <br> Denník N | 5.9% | N/A | N/A | N/A | N/A |
-| [5–9 March 2025](2025-03-09-NMS.html) | NMS <br> TV Markíza | 6.8% | N/A | N/A | N/A | N/A |
-| [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 5.6% | N/A | N/A | N/A | N/A |
-| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 6.0% | N/A | N/A | N/A | N/A |
-| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 5.8% | N/A | N/A | N/A | N/A |
-| [27–31 January 2025](2025-01-31-CSV.html) | CSV | 3.9% | N/A | N/A | N/A | N/A |
-| [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ | 5.4% | N/A | N/A | N/A | N/A |
-| [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 5.5% | N/A | N/A | N/A | N/A |
-| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 6.3% | N/A | N/A | N/A | N/A |
-| [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 6.2% | N/A | N/A | N/A | N/A |
-| [4–9 December 2024](2024-12-09-NMS.html) | NMS | 6.5% | N/A | N/A | N/A | N/A |
-| [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 5.2% | N/A | N/A | N/A | N/A |
-| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 6.6% | N/A | N/A | N/A | N/A |
-| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 3.6% | N/A | N/A | N/A | N/A |
-| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 4.7% | N/A | N/A | N/A | N/A |
-| [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 3.6% | N/A | N/A | N/A | N/A |
+| N/A | [Poll Average](average.html) | 1.9% | 1.4–2.4% | 1.2–2.6% | 1.1–2.8% | 1.0–3.2% |
+| [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 1.8% | 1.4–2.5% | 1.2–2.7% | 1.1–2.8% | 1.0–3.2% |
+| [24–28 November 2025](2025-11-28-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 2.0% | N/A | N/A | N/A | N/A |
+| [11–18 November 2025](2025-11-18-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [5–9 November 2025](2025-11-09-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [13–21 October 2025](2025-10-21-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [15–20 October 2025](2025-10-20-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [8–17 October 2025](2025-10-17-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [1–5 October 2025](2025-10-05-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [8–22 September 2025](2025-09-22-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [17–21 September 2025](2025-09-21-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [10–17 September 2025](2025-09-17-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [3–7 September 2025](2025-09-07-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [15–19 August 2025](2025-08-19-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [6–19 August 2025](2025-08-19-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [5–11 August 2025](2025-08-11-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [6–10 August 2025](2025-08-10-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [8–15 July 2025](2025-07-15-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [7–13 July 2025](2025-07-13-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [2–7 July 2025](2025-07-07-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [16–19 June 2025](2025-06-19-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [11–19 June 2025](2025-06-19-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [2–9 June 2025](2025-06-09-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [4–8 June 2025](2025-06-08-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [19–26 May 2025](2025-05-26-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [12–18 May 2025](2025-05-18-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [12–16 May 2025](2025-05-16-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [30 April–4 May 2025](2025-05-04-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [10–17 April 2025](2025-04-17-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [1–8 April 2025](2025-04-08-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [2–6 April 2025](2025-04-06-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [11–19 March 2025](2025-03-19-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [10–14 March 2025](2025-03-14-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [5–9 March 2025](2025-03-09-NMS.html) | NMS <br> TV Markíza | 0.0% | N/A | N/A | N/A | N/A |
+| [7–12 February 2025](2025-02-12-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [5–12 February 2025](2025-02-12-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [5–9 February 2025](2025-02-09-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [27–31 January 2025](2025-01-31-CSV.html) | CSV | 0.0% | N/A | N/A | N/A | N/A |
+| [14–24 January 2025](2025-01-24-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [11–17 January 2025](2025-01-17-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [9–13 January 2025](2025-01-13-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [16–19 December 2024](2024-12-19-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [4–9 December 2024](2024-12-09-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [2–8 December 2024](2024-12-08-Focus.html) | Focus <br> 360tka | 0.0% | N/A | N/A | N/A | N/A |
+| [12–20 November 2024](2024-11-20-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
+| [6–13 November 2024](2024-11-13-Focus.html) | Focus <br> 360tka | 0.0% | N/A | N/A | N/A | N/A |
+| [7–11 November 2024](2024-11-11-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
+| [27 October–1 November 2024](2024-11-01-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [8–17 October 2024](2024-10-17-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 October 2024](2024-10-07-NMS.html) | NMS | 0.0% | N/A | N/A | N/A | N/A |
 | [17–26 September 2024](2024-09-26-Focus.html) | Focus | 0.0% | N/A | N/A | N/A | N/A |
@@ -76,31 +76,28 @@ Last result: **7.5%** (General Election of 8 June 2024)
 
 ### Probability Mass Function
 
-The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Slovensko (EPP).
+The following table shows the probability mass function per percentage block of voting intentions for the [poll average](average.html) for Právo na pravdu (*).
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 3.5–4.5% | 0% | 100% |  |
-| 4.5–5.5% | 0.3% | 100% |  |
-| 5.5–6.5% | 9% | 99.7% |  |
-| 6.5–7.5% | 38% | 91% | Last Result |
-| 7.5–8.5% | 39% | 53% | Median |
-| 8.5–9.5% | 12% | 14% |  |
-| 9.5–10.5% | 1.4% | 1.5% |  |
-| 10.5–11.5% | 0.1% | 0.1% |  |
-| 11.5–12.5% | 0% | 0% |  |
+| 0.0–0.5% | 0% | 100% | Last Result |
+| 0.5–1.5% | 23% | 100% |  |
+| 1.5–2.5% | 70% | 77% | Median |
+| 2.5–3.5% | 7% | 7% |  |
+| 3.5–4.5% | 0.1% | 0.1% |  |
+| 4.5–5.5% | 0% | 0% |  |
 
 
 ## Seats
 
-Last result: **1** seats (General Election of 8 June 2024)
+Last result: **0** seats (General Election of 8 June 2024)
 
 ### Confidence Intervals
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
-| [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [24–28 November 2025](2025-11-28-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
 | [11–18 November 2025](2025-11-18-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
@@ -165,14 +162,12 @@ Last result: **1** seats (General Election of 8 June 2024)
 
 ### Probability Mass Function
 
-![Graph with seats probability mass function not yet produced](average-seats-pmf-slovenskoepp.png "Seats Probability Mass Function")
+![Graph with seats probability mass function not yet produced](average-seats-pmf-právonapravdu.png "Seats Probability Mass Function")
 
-The following table shows the probability mass function per seat for the [poll average](average.html) for Slovensko (EPP).
+The following table shows the probability mass function per seat for the [poll average](average.html) for Právo na pravdu (*).
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 1 | 88% | 100% | Last Result, Median |
-| 2 | 12% | 12% |  |
-| 3 | 0% | 0% |  |
+| 0 | 100% | 100% | Last Result, Median |
 
 
