@@ -11,6 +11,7 @@ Last result: **1.7%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
+| [1–9 December 2025](2025-12-09-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
 | [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [24–28 November 2025](2025-11-28-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
@@ -96,6 +97,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [1–9 December 2025](2025-12-09-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
 | [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [24–28 November 2025](2025-11-28-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |

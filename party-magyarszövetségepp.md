@@ -10,7 +10,8 @@ Last result: **6.5%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 3.9% | 3.0–5.0% | 2.8–5.3% | 2.6–5.6% | 2.3–6.2% |
+| N/A | [Poll Average](average.html) | 3.8% | 3.0–4.6% | 2.8–4.9% | 2.6–5.1% | 2.3–5.6% |
+| [1–9 December 2025](2025-12-09-Focus.html) | Focus <br> 360tka.sk | 4.0% | 3.3–4.9% | 3.1–5.2% | 3.0–5.4% | 2.7–5.8% |
 | [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 3.7% | 3.0–4.6% | 2.8–4.8% | 2.7–5.0% | 2.4–5.5% |
 | [24–28 November 2025](2025-11-28-Ipsos.html) | Ipsos <br> Denník N | 3.7% | 3.1–4.6% | 2.9–4.9% | 2.7–5.1% | 2.4–5.5% |
 | [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 4.6% | 3.9–5.6% | 3.7–5.9% | 3.5–6.1% | 3.2–6.6% |
@@ -82,12 +83,11 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.5–1.5% | 0% | 100% |  |
 | 1.5–2.5% | 2% | 100% |  |
-| 2.5–3.5% | 31% | 98% |  |
-| 3.5–4.5% | 46% | 67% | Median |
-| 4.5–5.5% | 18% | 21% |  |
-| 5.5–6.5% | 3% | 3% |  |
-| 6.5–7.5% | 0.1% | 0.1% | Last Result |
-| 7.5–8.5% | 0% | 0% |  |
+| 2.5–3.5% | 35% | 98% |  |
+| 3.5–4.5% | 52% | 63% | Median |
+| 4.5–5.5% | 11% | 12% |  |
+| 5.5–6.5% | 0.6% | 0.6% |  |
+| 6.5–7.5% | 0% | 0% | Last Result |
 
 
 ## Seats
@@ -98,7 +98,8 @@ Last result: **1** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [1–9 December 2025](2025-12-09-Focus.html) | Focus <br> 360tka.sk | 0 | 0 | 0 | 0–1 | 0–1 |
 | [28 November–2 December 2025](2025-12-02-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0–1 |
 | [24–28 November 2025](2025-11-28-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0–1 |
 | [11–18 November 2025](2025-11-18-Focus.html) | Focus <br> 360tka.sk | 1 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -170,8 +171,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 84% | 100% | Median |
-| 1 | 16% | 16% | Last Result |
+| 0 | 98% | 100% | Median |
+| 1 | 2% | 2% | Last Result |
 | 2 | 0% | 0% |  |
 
 
