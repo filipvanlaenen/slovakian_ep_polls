@@ -12,6 +12,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0.6% | 0.3–1.0% | 0.3–1.1% | 0.2–1.2% | 0.2–1.5% |
 | [15–20 January 2026](2026-01-20-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [13–20 January 2026](2026-01-20-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [8–11 January 2026](2026-01-11-NMS.html) | NMS | 0.6% | 0.4–1.1% | 0.3–1.2% | 0.3–1.3% | 0.2–1.6% |
 | [9–16 December 2025](2025-12-16-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [1–9 December 2025](2025-12-09-Focus.html) | Focus <br> 360tka.sk | 0.5% | 0.3–0.9% | 0.2–1.0% | 0.2–1.1% | 0.1–1.3% |
@@ -100,6 +101,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [15–20 January 2026](2026-01-20-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
+| [13–20 January 2026](2026-01-20-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [8–11 January 2026](2026-01-11-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [9–16 December 2025](2025-12-16-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [1–9 December 2025](2025-12-09-Focus.html) | Focus <br> 360tka.sk | 0 | 0 | 0 | 0 | 0 |
