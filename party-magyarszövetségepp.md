@@ -103,7 +103,7 @@ Last result: **1** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0 | 0 | 0–1 | 0–1 | 0–1 |
+| N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0–1 | 0–1 |
 | [15–20 January 2026](2026-01-20-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0–1 |
 | [13–20 January 2026](2026-01-20-AKO.html) | AKO <br> TV JOJ | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
 | [8–11 January 2026](2026-01-11-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
@@ -180,8 +180,8 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 0 | 93% | 100% | Median |
-| 1 | 7% | 7% | Last Result |
+| 0 | 95% | 100% | Median |
+| 1 | 5% | 5% | Last Result |
 | 2 | 0% | 0% |  |
 
 
