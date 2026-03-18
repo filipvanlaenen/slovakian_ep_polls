@@ -6,6 +6,30 @@
     <description>All Registered Polls for the European Parliament</description>
     <pubDate>Thu, 25 Jul 2024 20:47:14 +0200</pubDate>
     <item>
+      <title>Opinion Poll by NMS, 4–9 March 2026 – Seating Plan Projection</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS.html#seating-plan</link>
+      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by NMS, 4–9 March 2026<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS-seating-plan.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS-seating-plan.png" length="274949" type="image/png"/>
+      <pubDate>Wed, 18 Mar 2026 19:33:15 +0100</pubDate>
+      <dc:date>2026-03-18T19:33:15.125785373+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NMS, 4–9 March 2026 – Seat Projections</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS.html#seats</link>
+      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by NMS, 4–9 March 2026<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS-seats.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS-seats.png" length="339299" type="image/png"/>
+      <pubDate>Wed, 18 Mar 2026 19:33:15 +0100</pubDate>
+      <dc:date>2026-03-18T19:33:15.125785373+01:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by NMS, 4–9 March 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS.html</link>
+      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by NMS, 4–9 March 2026<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS.png"/>]]></description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-03-09-NMS.png" length="460757" type="image/png"/>
+      <pubDate>Wed, 18 Mar 2026 19:33:15 +0100</pubDate>
+      <dc:date>2026-03-18T19:33:15.125785373+01:00</dc:date>
+    </item>
+    <item>
       <title>Opinion Poll by Ipsos for Denník N, 16–20 February 2026 – Seating Plan Projection</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-02-20-Ipsos.html#seating-plan</link>
       <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by Ipsos for Denník N, 16–20 February 2026<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2026-02-20-Ipsos.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-02-20-Ipsos-seating-plan.png"/>]]></description>
@@ -220,30 +244,6 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-09-Focus.png" length="433620" type="image/png"/>
       <pubDate>Fri, 19 Dec 2025 17:49:51 +0100</pubDate>
       <dc:date>2025-12-19T17:49:51.571767711+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by NMS, 28 November–2 December 2025 – Seating Plan Projection</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS.html#seating-plan</link>
-      <description><![CDATA[Seating plan projection for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by NMS, 28 November–2 December 2025<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS-seating-plan.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS-seating-plan.png" length="274658" type="image/png"/>
-      <pubDate>Sun, 14 Dec 2025 20:33:39 +0100</pubDate>
-      <dc:date>2025-12-14T20:33:39.672061888+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by NMS, 28 November–2 December 2025 – Seat Projections</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS.html#seats</link>
-      <description><![CDATA[Seat projections for the European Parliament<br/>8 seats needed for a majority<br/>Opinion poll by NMS, 28 November–2 December 2025<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS-seats.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS-seats.png" length="318481" type="image/png"/>
-      <pubDate>Sun, 14 Dec 2025 20:33:39 +0100</pubDate>
-      <dc:date>2025-12-14T20:33:39.672061888+01:00</dc:date>
-    </item>
-    <item>
-      <title>Opinion Poll by NMS, 28 November–2 December 2025 – Voting Intentions</title>
-      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS.html</link>
-      <description><![CDATA[Voting intentions for the European Parliament<br/>Opinion poll by NMS, 28 November–2 December 2025<br/>Details on https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS.html<br/><img src="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS.png"/>]]></description>
-      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2025-12-02-NMS.png" length="461419" type="image/png"/>
-      <pubDate>Sun, 14 Dec 2025 20:33:39 +0100</pubDate>
-      <dc:date>2025-12-14T20:33:39.672061888+01:00</dc:date>
     </item>
   </channel>
 </rss>
