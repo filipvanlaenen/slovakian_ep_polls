@@ -12,6 +12,7 @@ Last result: **1.7%** (General Election of 8 June 2024)
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.2% | 0.8–1.6% | 0.7–1.8% | 0.6–1.9% | 0.5–2.2% |
 | [16–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
+| [10–18 March 2026](2026-03-18-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [4–9 March 2026](2026-03-09-NMS.html) | NMS | 1.1% | 0.8–1.6% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
 | [16–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [10–19 February 2026](2026-02-19-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
@@ -108,6 +109,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [16–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
+| [10–18 March 2026](2026-03-18-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [4–9 March 2026](2026-03-09-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [16–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [10–19 February 2026](2026-02-19-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
