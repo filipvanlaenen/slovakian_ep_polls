@@ -10,10 +10,10 @@ Last result: **24.1%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 17.6% | 15.7–20.8% | 15.2–21.4% | 14.8–21.9% | 14.1–22.9% |
+| N/A | [Poll Average](average.html) | 17.5% | 15.7–20.4% | 15.2–21.2% | 14.8–21.7% | 14.1–22.7% |
 | [20–27 March 2026](2026-03-27-Focus.html) | Focus <br> 360tka.sk | 17.1% | 15.6–18.6% | 15.2–19.1% | 14.9–19.5% | 14.2–20.2% |
 | [16–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Denník N | 20.0% | 18.5–21.7% | 18.0–22.2% | 17.7–22.6% | 17.0–23.5% |
-| [10–18 March 2026](2026-03-18-AKO.html) | AKO <br> TV JOJ | 17.1% | N/A | N/A | N/A | N/A |
+| [10–18 March 2026](2026-03-18-AKO.html) | AKO <br> TV JOJ | 17.1% | 15.7–18.7% | 15.2–19.2% | 14.9–19.6% | 14.2–20.4% |
 | [4–9 March 2026](2026-03-09-NMS.html) | NMS | 16.6% | 15.2–18.2% | 14.8–18.7% | 14.4–19.1% | 13.8–19.8% |
 | [16–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> Denník N | 18.4% | 16.9–20.0% | 16.5–20.5% | 16.2–20.9% | 15.5–21.7% |
 | [10–19 February 2026](2026-02-19-AKO.html) | AKO <br> TV JOJ | 16.4% | 15.0–18.0% | 14.6–18.4% | 14.2–18.8% | 13.6–19.6% |
@@ -97,14 +97,14 @@ The following table shows the probability mass function per percentage block of 
 | 12.5–13.5% | 0.1% | 100% |  |
 | 13.5–14.5% | 1.3% | 99.9% |  |
 | 14.5–15.5% | 7% | 98.6% |  |
-| 15.5–16.5% | 18% | 92% |  |
-| 16.5–17.5% | 22% | 74% |  |
-| 17.5–18.5% | 17% | 52% | Median |
-| 18.5–19.5% | 12% | 35% |  |
-| 19.5–20.5% | 11% | 23% |  |
-| 20.5–21.5% | 8% | 12% |  |
-| 21.5–22.5% | 3% | 4% |  |
-| 22.5–23.5% | 0.8% | 0.9% |  |
+| 15.5–16.5% | 19% | 92% |  |
+| 16.5–17.5% | 24% | 73% | Median |
+| 17.5–18.5% | 19% | 48% |  |
+| 18.5–19.5% | 12% | 30% |  |
+| 19.5–20.5% | 9% | 18% |  |
+| 20.5–21.5% | 6% | 9% |  |
+| 21.5–22.5% | 2% | 3% |  |
+| 22.5–23.5% | 0.6% | 0.7% |  |
 | 23.5–24.5% | 0.1% | 0.1% | Last Result |
 | 24.5–25.5% | 0% | 0% |  |
 
@@ -120,7 +120,7 @@ Last result: **4** seats (General Election of 8 June 2024)
 | N/A | [Poll Average](average.html) | 3 | 3–4 | 3–4 | 3–4 | 2–4 |
 | [20–27 March 2026](2026-03-27-Focus.html) | Focus <br> 360tka.sk | 3 | 3 | 3–4 | 3–4 | 2–4 |
 | [16–19 March 2026](2026-03-19-Ipsos.html) | Ipsos <br> Denník N | 4 | 3–4 | 3–4 | 3–4 | 3–4 |
-| [10–18 March 2026](2026-03-18-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
+| [10–18 March 2026](2026-03-18-AKO.html) | AKO <br> TV JOJ | 3 | 3 | 3–4 | 3–4 | 3–4 |
 | [4–9 March 2026](2026-03-09-NMS.html) | NMS | 3 | 3 | 3 | 3–4 | 3–4 |
 | [16–20 February 2026](2026-02-20-Ipsos.html) | Ipsos <br> Denník N | 3 | 3 | 3 | 3–4 | 3–4 |
 | [10–19 February 2026](2026-02-19-AKO.html) | AKO <br> TV JOJ | 3 | 3 | 3 | 3 | 2–3 |
@@ -202,9 +202,9 @@ The following table shows the probability mass function per seat for the [poll a
 
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
-| 2 | 0.9% | 100% |  |
-| 3 | 75% | 99.1% | Median |
-| 4 | 24% | 24% | Last Result |
+| 2 | 0.7% | 100% |  |
+| 3 | 79% | 99.3% | Median |
+| 4 | 20% | 20% | Last Result |
 | 5 | 0% | 0% |  |
 
 
