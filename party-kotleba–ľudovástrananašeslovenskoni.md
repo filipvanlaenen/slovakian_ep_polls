@@ -10,7 +10,9 @@ Last result: **1.7%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 0.7% | 0.3–1.2% | 0.2–1.3% | 0.2–1.4% | 0.1–1.7% |
+| N/A | [Poll Average](average.html) | 0.5% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
+| [5–11 May 2026](2026-05-11-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
+| [6–10 May 2026](2026-05-10-NMS.html) | NMS | 1.1% | N/A | N/A | N/A | N/A |
 | [17–22 April 2026](2026-04-22-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [8–17 April 2026](2026-04-17-AKO.html) | AKO <br> TV JOJ | 0.4% | 0.2–0.8% | 0.2–0.9% | 0.2–1.0% | 0.1–1.3% |
 | [8–13 April 2026](2026-04-13-NMS.html) | NMS | 0.8% | 0.5–1.3% | 0.5–1.4% | 0.4–1.6% | 0.3–1.8% |
@@ -96,9 +98,9 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 37% | 100% |  |
-| 0.5–1.5% | 61% | 63% | Median |
-| 1.5–2.5% | 1.4% | 1.4% | Last Result |
+| 0.0–0.5% | 64% | 100% | Median |
+| 0.5–1.5% | 36% | 36% |  |
+| 1.5–2.5% | 0.1% | 0.1% | Last Result |
 | 2.5–3.5% | 0% | 0% |  |
 
 
@@ -111,6 +113,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [5–11 May 2026](2026-05-11-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
+| [6–10 May 2026](2026-05-10-NMS.html) | NMS |  |  |  |  |  |
 | [17–22 April 2026](2026-04-22-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [8–17 April 2026](2026-04-17-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [8–13 April 2026](2026-04-13-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
