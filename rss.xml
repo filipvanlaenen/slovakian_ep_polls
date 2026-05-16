@@ -8,7 +8,17 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 25 Apr 2026 12:47:11 +0200</pubDate>
+    <pubDate>Sat, 16 May 2026 23:49:30 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Focus for 360tka.sk, 5–11 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-11-Focus.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 4.0–6.8%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 6.0–9.3%&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 2.8–5.2%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0.5–1.7%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 16.0–20.8%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 5.7–8.9%&lt;/li&gt;&lt;li&gt;Právo na pravdu (*): 1.3–3.0%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 6.8–10.2%&lt;/li&gt;&lt;li&gt;Kresťanská únia (ECR): 0.2–1.0%&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 15.8–20.6%&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 8.1–11.7%&lt;/li&gt;&lt;li&gt;Slovensko (EPP): 8.0–11.6%&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 2.2–4.4%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 3.4–6.0%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-11-Focus.png"
+        length="434859"
+        type="image/png"/>
+      <pubDate>Sat, 16 May 2026 23:49:30 +0200</pubDate>
+      <dc:date>2026-05-16T23:49:30.573645+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by Ipsos for Denník N, 17–22 April 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-04-22-Ipsos.html#seats</link>
@@ -639,6 +649,6 @@
       <pubDate>Sun, 14 Dec 2025 21:57:43 +0100</pubDate>
       <dc:date>2025-12-14T21:57:43.176352+01:00</dc:date>
     </item>
-    <dc:date>2026-04-25T12:47:11.364403+02:00</dc:date>
+    <dc:date>2026-05-16T23:49:30.573645+02:00</dc:date>
   </channel>
 </rss>
