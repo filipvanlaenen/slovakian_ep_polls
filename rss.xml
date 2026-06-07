@@ -8,26 +8,26 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Sat, 06 Jun 2026 22:23:24 +0200</pubDate>
+    <pubDate>Sun, 07 Jun 2026 21:06:46 +0200</pubDate>
     <item>
       <title>Opinion Poll by AKO for TV JOJ, 14–21 May 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-21-AKO.html#seats</link>
       <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Právo na pravdu (*): 0 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 1–2 seats&lt;/li&gt;&lt;li&gt;Slovensko (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 0–1 seats&lt;/li&gt;&lt;/ul&gt;</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-21-AKO-seats.png"
-        length="309831"
+        length="293657"
         type="image/png"/>
-      <pubDate>Sat, 06 Jun 2026 22:23:24 +0200</pubDate>
-      <dc:date>2026-06-06T22:23:24.876944+02:00</dc:date>
+      <pubDate>Sun, 07 Jun 2026 20:45:18 +0200</pubDate>
+      <dc:date>2026-06-07T20:45:18.471795+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO for TV JOJ, 14–21 May 2026 – Seat Projections for a Selection of Coalitions</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-21-AKO.html#coalitions</link>
       <description>TBD</description>
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-21-AKO-coalitions-seats.png"
-        length="290047"
+        length="257266"
         type="image/png"/>
-      <pubDate>Sat, 06 Jun 2026 22:23:24 +0200</pubDate>
-      <dc:date>2026-06-06T22:23:24.876944+02:00</dc:date>
+      <pubDate>Sun, 07 Jun 2026 20:45:18 +0200</pubDate>
+      <dc:date>2026-06-07T20:45:18.471795+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by AKO for TV JOJ, 14–21 May 2026 – Voting Intentions</title>
@@ -36,8 +36,38 @@
       <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-21-AKO.png"
         length="398595"
         type="image/png"/>
-      <pubDate>Sat, 06 Jun 2026 22:23:24 +0200</pubDate>
-      <dc:date>2026-06-06T22:23:24.876944+02:00</dc:date>
+      <pubDate>Sun, 07 Jun 2026 20:45:18 +0200</pubDate>
+      <dc:date>2026-06-07T20:45:18.471795+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Denník N, 15–20 May 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-20-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 2 seats&lt;/li&gt;&lt;li&gt;Slovensko (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-20-Ipsos-seats.png"
+        length="296710"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jun 2026 21:06:46 +0200</pubDate>
+      <dc:date>2026-06-07T21:06:46.639339+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Denník N, 15–20 May 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-20-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-20-Ipsos-coalitions-seats.png"
+        length="241764"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jun 2026 21:06:46 +0200</pubDate>
+      <dc:date>2026-06-07T21:06:46.639339+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Denník N, 15–20 May 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-20-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 3.5–6.1%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 4.6–7.6%&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 2.3–4.5%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 1.7–3.6%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 17.4–22.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 6.7–10.1%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 6.8–10.2%&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 16.8–21.7%&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 9.4–13.3%&lt;/li&gt;&lt;li&gt;Slovensko (EPP): 6.3–9.7%&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 1.8–3.9%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-05-20-Ipsos.png"
+        length="397172"
+        type="image/png"/>
+      <pubDate>Sun, 07 Jun 2026 21:06:46 +0200</pubDate>
+      <dc:date>2026-06-07T21:06:46.639339+02:00</dc:date>
     </item>
     <item>
       <title>Opinion Poll by Ipsos for Denník N, 5–11 May 2026 – Seat Projections for the Parties</title>
@@ -759,6 +789,6 @@
       <pubDate>Sun, 14 Dec 2025 21:57:43 +0100</pubDate>
       <dc:date>2025-12-14T21:57:43.176352+01:00</dc:date>
     </item>
-    <dc:date>2026-06-06T22:23:24.876944+02:00</dc:date>
+    <dc:date>2026-06-07T21:06:46.639339+02:00</dc:date>
   </channel>
 </rss>
