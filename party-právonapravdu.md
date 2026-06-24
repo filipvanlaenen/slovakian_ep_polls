@@ -11,6 +11,7 @@ Last result: **0.0%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 2.3% | 1.7–3.1% | 1.5–3.4% | 1.4–3.6% | 1.2–4.0% |
+| [3–8 June 2026](2026-06-08-NMS.html) | NMS | 2.7% | 2.1–3.5% | 2.0–3.7% | 1.9–3.9% | 1.6–4.3% |
 | [14–21 May 2026](2026-05-21-AKO.html) | AKO <br> TV JOJ | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [15–20 May 2026](2026-05-20-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [5–11 May 2026](2026-05-11-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -121,6 +122,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–8 June 2026](2026-06-08-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [14–21 May 2026](2026-05-21-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [15–20 May 2026](2026-05-20-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [5–11 May 2026](2026-05-11-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |

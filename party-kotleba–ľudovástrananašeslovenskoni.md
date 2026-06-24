@@ -10,7 +10,8 @@ Last result: **1.7%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.2% | 0.8–1.7% | 0.7–1.8% | 0.6–2.0% | 0.5–2.3% |
+| N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.7% | 0.6–1.8% | 0.4–2.1% |
+| [3–8 June 2026](2026-06-08-NMS.html) | NMS | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [14–21 May 2026](2026-05-21-AKO.html) | AKO <br> TV JOJ | 0.0% | N/A | N/A | N/A | N/A |
 | [15–20 May 2026](2026-05-20-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [5–11 May 2026](2026-05-11-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -103,11 +104,10 @@ The following table shows the probability mass function per percentage block of 
 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
-| 0.0–0.5% | 1.1% | 100% |  |
-| 0.5–1.5% | 84% | 98.9% | Median |
-| 1.5–2.5% | 15% | 15% | Last Result |
-| 2.5–3.5% | 0.1% | 0.1% |  |
-| 3.5–4.5% | 0% | 0% |  |
+| 0.0–0.5% | 2% | 100% |  |
+| 0.5–1.5% | 88% | 98% | Median |
+| 1.5–2.5% | 9% | 9% | Last Result |
+| 2.5–3.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -119,6 +119,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [3–8 June 2026](2026-06-08-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [14–21 May 2026](2026-05-21-AKO.html) | AKO <br> TV JOJ |  |  |  |  |  |
 | [15–20 May 2026](2026-05-20-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [5–11 May 2026](2026-05-11-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
