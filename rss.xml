@@ -8,7 +8,37 @@
     <title>All Registered Polls for the European Parliament</title>
     <link>https://filipvanlaenen.github.io/slovakian_ep_polls</link>
     <description>All Registered Polls for the European Parliament</description>
-    <pubDate>Wed, 19 Aug 2026 19:40:58 +0200</pubDate>
+    <pubDate>Wed, 26 Aug 2026 19:32:57 +0200</pubDate>
+    <item>
+      <title>Opinion Poll by Ipsos for Denník N, 18–23 August 2026 – Seat Projections for the Parties</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-08-23-Ipsos.html#seats</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 0–1 seats&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 0 seats&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 3–4 seats&lt;/li&gt;&lt;li&gt;Právo na pravdu (*): 0 seats&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 1–2 seats&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 1–2 seats&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 3–4 seats&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 2 seats&lt;/li&gt;&lt;li&gt;Slovensko (EPP): 1–2 seats&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 0 seats&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 0 seats&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-08-23-Ipsos-seats.png"
+        length="293938"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 19:32:57 +0200</pubDate>
+      <dc:date>2026-08-26T19:32:57.194438+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Denník N, 18–23 August 2026 – Seat Projections for a Selection of Coalitions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-08-23-Ipsos.html#coalitions</link>
+      <description>TBD</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-08-23-Ipsos-coalitions-seats.png"
+        length="259743"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 19:32:57 +0200</pubDate>
+      <dc:date>2026-08-26T19:32:57.194438+02:00</dc:date>
+    </item>
+    <item>
+      <title>Opinion Poll by Ipsos for Denník N, 18–23 August 2026 – Voting Intentions</title>
+      <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-08-23-Ipsos.html</link>
+      <description>&lt;ul&gt;&lt;li&gt;Demokrati (EPP): 3.6–6.2%&lt;/li&gt;&lt;li&gt;Kresťanskodemokratické hnutie (EPP): 5.8–9.0%&lt;/li&gt;&lt;li&gt;Magyar Szövetség (EPP): 2.5–4.7%&lt;/li&gt;&lt;li&gt;Za ľudí (EPP): 1.1–2.8%&lt;/li&gt;&lt;li&gt;Progresívne Slovensko (RE): 15.9–20.5%&lt;/li&gt;&lt;li&gt;Právo na pravdu (*): 2.2–4.3%&lt;/li&gt;&lt;li&gt;Sloboda a Solidarita (ECR): 6.7–10.0%&lt;/li&gt;&lt;li&gt;HLAS–sociálna demokracia (NI): 6.7–10.0%&lt;/li&gt;&lt;li&gt;SMER–sociálna demokracia (NI): 15.7–20.3%&lt;/li&gt;&lt;li&gt;REPUBLIKA (ESN): 9.2–13.0%&lt;/li&gt;&lt;li&gt;Slovensko (EPP): 6.9–10.2%&lt;/li&gt;&lt;li&gt;SME RODINA (PfE): 2.0–4.0%&lt;/li&gt;&lt;li&gt;Slovenská národná strana (PfE): 2.1–4.2%&lt;/li&gt;&lt;/ul&gt;</description>
+      <enclosure url="https://filipvanlaenen.github.io/slovakian_ep_polls/2026-08-23-Ipsos.png"
+        length="414121"
+        type="image/png"/>
+      <pubDate>Wed, 26 Aug 2026 19:32:57 +0200</pubDate>
+      <dc:date>2026-08-26T19:32:57.194438+02:00</dc:date>
+    </item>
     <item>
       <title>Opinion Poll by NMS, 5–10 August 2026 – Seat Projections for the Parties</title>
       <link>https://filipvanlaenen.github.io/slovakian_ep_polls/2026-08-10-NMS.html#seats</link>
@@ -999,6 +1029,6 @@
       <pubDate>Sun, 14 Dec 2025 21:57:43 +0100</pubDate>
       <dc:date>2025-12-14T21:57:43.176352+01:00</dc:date>
     </item>
-    <dc:date>2026-08-19T19:40:58.848704+02:00</dc:date>
+    <dc:date>2026-08-26T19:32:57.194438+02:00</dc:date>
   </channel>
 </rss>
