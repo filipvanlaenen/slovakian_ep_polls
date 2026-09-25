@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.3% | 1.1–2.5% | 1.0–2.7% | 0.8–3.0% |
+| N/A | [Poll Average](average.html) | 1.7% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
+| [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [1–7 September 2026](2026-09-07-Focus.html) | Focus <br> 360tka.sk | 1.6% | 1.2–2.2% | 1.1–2.4% | 1.0–2.6% | 0.8–2.9% |
 | [18–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Denník N | 1.8% | 1.4–2.4% | 1.2–2.6% | 1.1–2.8% | 1.0–3.1% |
@@ -115,9 +116,9 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 34% | 100% |  |
-| 1.5–2.5% | 62% | 66% | Median |
-| 2.5–3.5% | 4% | 4% |  |
+| 0.5–1.5% | 40% | 100% |  |
+| 1.5–2.5% | 57% | 60% | Median |
+| 2.5–3.5% | 3% | 3% |  |
 | 3.5–4.5% | 0% | 0% |  |
 
 
@@ -130,6 +131,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [1–7 September 2026](2026-09-07-Focus.html) | Focus <br> 360tka.sk | 0 | 0 | 0 | 0 | 0 |
 | [18–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |

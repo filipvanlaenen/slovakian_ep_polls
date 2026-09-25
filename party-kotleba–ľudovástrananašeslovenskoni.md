@@ -11,6 +11,7 @@ Last result: **1.7%** (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1.1% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
+| [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 1.0% | 0.7–1.5% | 0.6–1.7% | 0.5–1.8% | 0.4–2.1% |
 | [1–7 September 2026](2026-09-07-Focus.html) | Focus <br> 360tka.sk | 0.0% | N/A | N/A | N/A | N/A |
 | [18–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Denník N | 0.0% | N/A | N/A | N/A | N/A |
@@ -129,6 +130,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
+| [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [1–7 September 2026](2026-09-07-Focus.html) | Focus <br> 360tka.sk |  |  |  |  |  |
 | [18–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Denník N |  |  |  |  |  |
