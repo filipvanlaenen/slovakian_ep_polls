@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 5.9–9.3% | 5.6–9.7% | 5.3–10.0% | 4.9–10.7% |
+| N/A | [Poll Average](average.html) | 7.6% | 5.9–9.2% | 5.6–9.5% | 5.3–9.8% | 4.9–10.4% |
 | [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N | 6.6% | 5.7–7.7% | 5.5–8.0% | 5.2–8.3% | 4.8–8.9% |
+| [10–21 September 2026](2026-09-21-AKO.html) | AKO <br> TV JOJ | 8.6% | 7.8–9.5% | 7.6–9.7% | 7.4–9.9% | 7.1–10.3% |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 6.4% | 5.5–7.5% | 5.2–7.8% | 5.0–8.1% | 4.6–8.6% |
 | [1–7 September 2026](2026-09-07-Focus.html) | Focus <br> 360tka.sk | 8.4% | 7.4–9.6% | 7.1–10.0% | 6.8–10.3% | 6.4–10.9% |
 | [18–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Denník N | 8.2% | 7.2–9.4% | 6.9–9.7% | 6.7–10.0% | 6.2–10.6% |
@@ -122,11 +123,11 @@ The following table shows the probability mass function per percentage block of 
 | 3.5–4.5% | 0.1% | 100% |  |
 | 4.5–5.5% | 4% | 99.9% |  |
 | 5.5–6.5% | 21% | 95% |  |
-| 6.5–7.5% | 25% | 74% |  |
-| 7.5–8.5% | 25% | 49% | Median |
-| 8.5–9.5% | 18% | 24% |  |
-| 9.5–10.5% | 5% | 6% |  |
-| 10.5–11.5% | 0.7% | 0.7% |  |
+| 6.5–7.5% | 23% | 75% |  |
+| 7.5–8.5% | 26% | 51% | Median |
+| 8.5–9.5% | 21% | 26% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.3% | 0.4% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -140,6 +141,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N | 1 | 1 | 1 | 1 | 0–2 |
+| [10–21 September 2026](2026-09-21-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 1 | 1 | 1 | 1 | 1 |
 | [1–7 September 2026](2026-09-07-Focus.html) | Focus <br> 360tka.sk | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [18–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Denník N | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
@@ -246,8 +248,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 0.3% | 100% | Last Result |
-| 1 | 66% | 99.7% | Median |
-| 2 | 34% | 34% |  |
+| 1 | 62% | 99.7% | Median |
+| 2 | 38% | 38% |  |
 | 3 | 0% | 0% |  |
 
 

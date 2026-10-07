@@ -10,8 +10,9 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.6% | 1.8–3.4% | 1.7–3.7% | 1.5–3.9% | 1.3–4.3% |
+| N/A | [Poll Average](average.html) | 2.5% | 1.8–3.2% | 1.7–3.4% | 1.5–3.6% | 1.3–4.1% |
 | [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N | 2.2% | 1.7–3.0% | 1.6–3.2% | 1.5–3.3% | 1.3–3.7% |
+| [10–21 September 2026](2026-09-21-AKO.html) | AKO <br> TV JOJ | 2.7% | 2.3–3.2% | 2.2–3.4% | 2.1–3.5% | 1.9–3.8% |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [1–7 September 2026](2026-09-07-Focus.html) | Focus <br> 360tka.sk | 2.8% | 2.2–3.6% | 2.0–3.8% | 1.9–4.0% | 1.7–4.4% |
 | [18–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Denník N | 3.1% | 2.5–3.9% | 2.4–4.1% | 2.2–4.3% | 2.0–4.8% |
@@ -117,10 +118,10 @@ The following table shows the probability mass function per percentage block of 
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
 | 0.5–1.5% | 3% | 100% |  |
-| 1.5–2.5% | 47% | 97% |  |
-| 2.5–3.5% | 44% | 50% | Median |
-| 3.5–4.5% | 6% | 7% |  |
-| 4.5–5.5% | 0.2% | 0.2% |  |
+| 1.5–2.5% | 49% | 97% |  |
+| 2.5–3.5% | 45% | 48% | Median |
+| 3.5–4.5% | 3% | 3% |  |
+| 4.5–5.5% | 0.1% | 0.1% |  |
 | 5.5–6.5% | 0% | 0% |  |
 
 
@@ -134,6 +135,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0 |
 | [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
+| [10–21 September 2026](2026-09-21-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [1–7 September 2026](2026-09-07-Focus.html) | Focus <br> 360tka.sk | 0 | 0 | 0 | 0 | 0 |
 | [18–23 August 2026](2026-08-23-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
