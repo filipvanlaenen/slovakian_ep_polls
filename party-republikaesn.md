@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 12.6% | 9.6–16.0% | 9.2–16.7% | 8.9–17.2% | 8.4–18.1% |
+| N/A | [Poll Average](average.html) | 12.6% | 9.6–14.7% | 9.2–15.3% | 8.9–15.8% | 8.4–16.7% |
+| [1–5 October 2026](2026-10-05-NMS.html) | NMS | 14.2% | 12.9–15.7% | 12.5–16.2% | 12.2–16.5% | 11.6–17.3% |
 | [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N | 12.8% | 11.6–14.3% | 11.2–14.6% | 10.9–15.0% | 10.3–15.7% |
 | [10–21 September 2026](2026-09-21-AKO.html) | AKO <br> TV JOJ | 9.7% | 8.9–10.6% | 8.7–10.9% | 8.5–11.1% | 8.1–11.5% |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 15.6% | 14.3–17.2% | 13.9–17.6% | 13.5–18.0% | 12.9–18.8% |
@@ -128,15 +129,14 @@ The following table shows the probability mass function per percentage block of 
 | 8.5–9.5% | 9% | 99.2% |  |
 | 9.5–10.5% | 13% | 90% |  |
 | 10.5–11.5% | 9% | 77% |  |
-| 11.5–12.5% | 16% | 68% |  |
-| 12.5–13.5% | 17% | 52% | Median |
-| 13.5–14.5% | 11% | 34% |  |
-| 14.5–15.5% | 9% | 23% |  |
-| 15.5–16.5% | 8% | 14% |  |
-| 16.5–17.5% | 4% | 6% |  |
-| 17.5–18.5% | 1.2% | 1.4% |  |
-| 18.5–19.5% | 0.2% | 0.2% |  |
-| 19.5–20.5% | 0% | 0% |  |
+| 11.5–12.5% | 17% | 68% |  |
+| 12.5–13.5% | 22% | 50% | Median |
+| 13.5–14.5% | 17% | 29% |  |
+| 14.5–15.5% | 9% | 12% |  |
+| 15.5–16.5% | 3% | 3% |  |
+| 16.5–17.5% | 0.5% | 0.6% |  |
+| 17.5–18.5% | 0.1% | 0.1% |  |
+| 18.5–19.5% | 0% | 0% |  |
 
 
 ## Seats
@@ -147,7 +147,8 @@ Last result: **0** seats (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–4 |
+| N/A | [Poll Average](average.html) | 2 | 2–3 | 2–3 | 2–3 | 2–3 |
+| [1–5 October 2026](2026-10-05-NMS.html) | NMS | 3 | 3 | 2–3 | 2–3 | 2–3 |
 | [18–22 September 2026](2026-09-22-Ipsos.html) | Ipsos <br> Denník N | 2 | 2 | 2–3 | 2–3 | 2–3 |
 | [10–21 September 2026](2026-09-21-AKO.html) | AKO <br> TV JOJ | 2 | 2 | 2 | 2 | 1–2 |
 | [2–7 September 2026](2026-09-07-NMS.html) | NMS | 3 | 3 | 2–3 | 2–4 | 2–4 |
@@ -258,8 +259,7 @@ The following table shows the probability mass function per seat for the [poll a
 | 0 | 0% | 100% | Last Result |
 | 1 | 0.2% | 100% |  |
 | 2 | 70% | 99.8% | Median |
-| 3 | 29% | 30% |  |
-| 4 | 0.7% | 0.7% |  |
-| 5 | 0% | 0% |  |
+| 3 | 30% | 30% |  |
+| 4 | 0% | 0% |  |
 
 
