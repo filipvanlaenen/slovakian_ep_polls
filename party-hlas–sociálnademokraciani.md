@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 7.5% | 5.6–9.2% | 5.3–9.5% | 5.0–9.9% | 4.5–10.5% |
+| N/A | [Poll Average](average.html) | 7.4% | 5.6–9.2% | 5.3–9.6% | 5.0–9.9% | 4.5–10.6% |
+| [21–28 October 2026](2026-10-28-AKO.html) | AKO <br> TV JOJ | 8.2% | 7.2–9.4% | 6.9–9.8% | 6.6–10.1% | 6.2–10.7% |
 | [15–19 October 2026](2026-10-19-Ipsos.html) | Ipsos <br> Denník N | 6.6% | 5.7–7.7% | 5.4–8.0% | 5.2–8.3% | 4.8–8.8% |
 | [12–19 October 2026](2026-10-19-Focus.html) | Focus <br> 360tka.sk | 8.5% | 7.4–9.7% | 7.1–10.0% | 6.9–10.3% | 6.4–10.9% |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS | 5.9% | 5.0–6.9% | 4.8–7.2% | 4.6–7.5% | 4.2–8.0% |
@@ -125,12 +126,12 @@ The following table shows the probability mass function per percentage block of 
 | 2.5–3.5% | 0% | 100% |  |
 | 3.5–4.5% | 0.6% | 100% |  |
 | 4.5–5.5% | 9% | 99.4% |  |
-| 5.5–6.5% | 22% | 91% |  |
-| 6.5–7.5% | 19% | 69% |  |
-| 7.5–8.5% | 24% | 50% | Median |
-| 8.5–9.5% | 21% | 26% |  |
-| 9.5–10.5% | 5% | 5% |  |
-| 10.5–11.5% | 0.4% | 0.4% |  |
+| 5.5–6.5% | 23% | 91% |  |
+| 6.5–7.5% | 23% | 68% | Median |
+| 7.5–8.5% | 24% | 46% |  |
+| 8.5–9.5% | 17% | 22% |  |
+| 9.5–10.5% | 4% | 5% |  |
+| 10.5–11.5% | 0.5% | 0.5% |  |
 | 11.5–12.5% | 0% | 0% |  |
 
 
@@ -143,6 +144,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 1 | 0–2 | 0–2 | 0–2 | 0–2 |
+| [21–28 October 2026](2026-10-28-AKO.html) | AKO <br> TV JOJ | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [15–19 October 2026](2026-10-19-Ipsos.html) | Ipsos <br> Denník N | 1 | 1 | 1–2 | 1–2 | 0–2 |
 | [12–19 October 2026](2026-10-19-Focus.html) | Focus <br> 360tka.sk | 2 | 1–2 | 1–2 | 1–2 | 1–2 |
 | [1–5 October 2026](2026-10-05-NMS.html) | NMS | 0 | 0–1 | 0–1 | 0–1 | 0–1 |
@@ -254,8 +256,8 @@ The following table shows the probability mass function per seat for the [poll a
 | Number of Seats | Probability | Accumulated | Special Marks |
 |:---------------:|:-----------:|:-----------:|:-------------:|
 | 0 | 19% | 100% | Last Result |
-| 1 | 38% | 81% | Median |
-| 2 | 43% | 43% |  |
+| 1 | 44% | 81% | Median |
+| 2 | 37% | 37% |  |
 | 3 | 0% | 0% |  |
 
 
