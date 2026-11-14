@@ -10,7 +10,8 @@ Last result: **0.0%** (General Election of 8 June 2024)
 
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:-----------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| N/A | [Poll Average](average.html) | 2.9% | 1.9–4.6% | 1.7–4.9% | 1.6–5.3% | 1.3–5.8% |
+| N/A | [Poll Average](average.html) | 2.6% | 1.8–4.5% | 1.7–4.9% | 1.5–5.3% | 1.3–5.8% |
+| [5–8 November 2026](2026-11-08-NMS.html) | NMS | 2.3% | 1.8–3.0% | 1.6–3.2% | 1.5–3.4% | 1.3–3.8% |
 | [21–28 October 2026](2026-10-28-AKO.html) | AKO <br> TV JOJ | 2.1% | 1.6–2.8% | 1.5–3.0% | 1.4–3.2% | 1.2–3.6% |
 | [15–19 October 2026](2026-10-19-Ipsos.html) | Ipsos <br> Denník N | 2.4% | 1.9–3.2% | 1.8–3.4% | 1.6–3.6% | 1.4–3.9% |
 | [12–19 October 2026](2026-10-19-Focus.html) | Focus <br> 360tka.sk | 4.3% | 3.6–5.3% | 3.4–5.5% | 3.2–5.8% | 2.9–6.2% |
@@ -121,10 +122,10 @@ The following table shows the probability mass function per percentage block of 
 | Voting Intentions | Probability | Accumulated | Special Marks |
 |:-----------------:|:-----------:|:-----------:|:-------------:|
 | 0.0–0.5% | 0% | 100% | Last Result |
-| 0.5–1.5% | 2% | 100% |  |
-| 1.5–2.5% | 34% | 98% |  |
-| 2.5–3.5% | 34% | 64% | Median |
-| 3.5–4.5% | 19% | 30% |  |
+| 0.5–1.5% | 3% | 100% |  |
+| 1.5–2.5% | 47% | 97% |  |
+| 2.5–3.5% | 26% | 50% | Median |
+| 3.5–4.5% | 14% | 24% |  |
 | 4.5–5.5% | 9% | 10% |  |
 | 5.5–6.5% | 1.1% | 1.2% |  |
 | 6.5–7.5% | 0% | 0% |  |
@@ -139,6 +140,7 @@ Last result: **0** seats (General Election of 8 June 2024)
 | Period     | Polling firm/Commissioner(s) | Median | 80% Confidence Interval | 90% Confidence Interval | 95% Confidence Interval | 99% Confidence Interval |
 |:----------:|:----------------:|:------:|:-----------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | N/A | [Poll Average](average.html) | 0 | 0 | 0 | 0 | 0–1 |
+| [5–8 November 2026](2026-11-08-NMS.html) | NMS | 0 | 0 | 0 | 0 | 0 |
 | [21–28 October 2026](2026-10-28-AKO.html) | AKO <br> TV JOJ | 0 | 0 | 0 | 0 | 0 |
 | [15–19 October 2026](2026-10-19-Ipsos.html) | Ipsos <br> Denník N | 0 | 0 | 0 | 0 | 0 |
 | [12–19 October 2026](2026-10-19-Focus.html) | Focus <br> 360tka.sk | 0 | 0 | 0 | 0–1 | 0–1 |
